@@ -1,0 +1,976 @@
+No,Kecamatan,Kelurahan,Nama Perusahaan,Lokasi Menara,Latitude_rev,Longitude_rev,Longitude,Latitude,Tinggi Tower,Struktur Tower,Data IMB
+1,Andir,Campaka,PT. Protelindo,Jl. Babakan Cianjur Gg. Sedap Malam II RT 03 RW 07,-6.89375,107.56534,107.56534,-6.89375,18,Monopole,503.645/1374/BPPT
+2,Andir,Dungus Cariang,PT. Protelindo, Tbk,Jl. Ciroyom RT 01 RW  02,-6.90861,107.57959,107.57959,-6.90861,12,Pole,-
+3,Andir,Ciroyom,PT. Protelindo, Tbk,Jl. Kebonjati No. 254 RT 01 RW  03,-6.91633,107.59197,107.59197,-6.91633,12,Pole,503.645/5793/BPPT
+4,Andir,Campaka,PT. Protelindo, Tbk,Jl. Gg. H. Said No. 29 ,-6.89798,107.56268,107.56268,-6.89798,12,Pole,663.10/0011/IMBT/XII/2015/BPPT
+5,Andir,Kebon Jeruk,PT. Protelindo, Tbk,King Garden Hotel Jl. Gardu Jati No. 81-83 RT 02/07 ,-6.9174,107.59788,107.59788,-6.9174,6,Pole,-
+6,Andir,Kebon Jeruk,PT. Protelindo, Tbk,Jl. Dulatip No. 1B,-6.92027,107.602,107.602,-6.92027,20,3 Kaki,-
+7,Andir,Ciroyom,PT. Protelindo, Tbk,Terminal Ciroyom,-6.91424,107.58797,107.58797,-6.91424,26,3 Kaki,503.645/SI-1851-DISTARCIP/I-08
+8,Andir,Ciroyom,PT. Protelindo, Tbk,Rajawali Plaza Jl. Rajawali Timur No.  52 RT / RW  05,-6.91585,107.58836,107.58836,-6.91585,30,4 Kaki,503.645-SI-3611 Disbang/04
+9,Andir,Dungus Cariang,Daya Mitra Telekomunikasi,Jl. Rajawali Timur,-6.9150906,107.5834171,107.5834171,-6.9150906,6,Pole,IMB -061/BPPT-Pzn/IMB/IX/2012/824
+10,Andir,Ciroyom,Daya Mitra Telekomunikasi,Jl. Ciroyom (Pasar Ciroyom),-6.914056,107.587172,107.587172,-6.914056,9,Pole,0
+11,Andir,Maleber,Daya Mitra Telekomunikasi,Jl. Garuda No. 108,-6.908318,107.578507,107.578507,-6.908318,12,Pole,IMB - 663.10/0002/IMBT/I/2016/BPPT
+12,Andir,Ciroyom,PT. Indosat, Tbk,Kebon Jati 254B,-6.91613,107.591793,107.591793,-6.91613,32,4 Kaki,503.645/S1-3341 Disbang/2003
+13,Andir,Kebon Jeruk,PT. Indosat, Tbk,Jl. Gardujati 55-61 (40181),-6.918203,107.597633,107.597633,-6.918203,15,4 Kaki,503.645/S1-2764 Disbang/2001
+14,Andir,Kebon Jeruk,PT. Tower Bersama Group,Jl. Dulatif,-6.91665,107.602,107.602,-6.91665,12,Pole,503.645/1137/BPPT
+15,Andir,Kebon Jeruk,PT. Tower Bersama Group,Jl. Gardu Jati No. 6 Bandung,-6.91736,107.598,107.598,-6.91736,6,Pole,1831/SIMB/DPB/83
+16,Andir,Ciroyom,PT. Tower Bersama Group,Jl. Rajawali Timur No. 11 RT 08/06,-6.91599,107.585,107.585,-6.91599,12,Pole,REKOM DISHUBKOMINFO DAN KRK DONE,  PENGESAHAN IMB
+17,Andir,Dungus Cariang,PT. Tower Bersama Group,Jl. Rajawali Timur No. 167 RT 08/10,-6.91511,107.583,107.583,-6.91511,20,4 Kaki,503.645/4092/BPPT
+18,Andir,Campaka,PT. Tower Bersama Group,Jl. Sapta Marga,-6.90001,107.566,107.566,-6.90001,30,4 Kaki,503.645/0611/BPPT
+19,Andir,Garuda,PT. Solusi Tunas Pratama,Jl. Jend. Sudirman No. 656,-6.91718,107.57555,107.57555,-6.91718,25,4 Kaki,503.645/SI.2611 Disbang/2002
+20,Andir,Ciroyom,PT. Solusi Tunas Pratama,Jl. Kebonjati No.  222,-6.91636,107.59353,107.59353,-6.91636,20,Pole,503.645/3547/BPPT
+21,Andir,Campaka,PT. Solusi Tunas Pratama,Jl. Cibereum No. 14 RT  01 / RW  01,-6.907916667,107.5685278,107.5685278,-6.907916667,31,3 Kaki,555.9/1003/V/25/Tahun 2017ÊÊ 
+22,Andir,Dungus Cariang,PT. Solusi Tunas Pratama,Jl. Haltea Selatan RT 07 RW  03 ,-6.9151,107.57837,107.57837,-6.9151,20,Pole,Proses
+23,Andir,Maleber,PT. Solusi Tunas Pratama,Jl. Maleber Barat No. 52 RT 04 RW  03,-6.90765,107.57122,107.57122,-6.90765,12,Pole,Proses
+24,Andir,Jamika,PT. Telkomsel,Jl. Cibadak No. 336,-6.919689,107.592893,107.592893,-6.919689,9,3 Kaki,-
+25,Andir,Jamika,PT. Telkomsel,Jl. Jendral Sudirman,-6.91879,107.586235,107.586235,-6.91879,9,Pole Rooftop,-
+26,Andir,Garuda,PT. Telkomsel,Jl. Rajawali,-6.913096,107.575638,107.575638,-6.913096,52,4 Kaki,-
+27,Andir,Kebon Jeruk,PT. Telkomsel,Jl. Sudirman No. 66-68 B,-6.92046,107.601,107.601,-6.92046,6,Pole,NO NEED
+28,Andir,Maleber,PT. Telkomsel,Jl. Maleber Utara No.  12 RT 06/06,-6.902373,107.574348,107.574348,-6.902373,4.2,Pole,NO NEED
+29,Andir,Maleber,PT. Telkomsel,Jl. Maleber Utara No.  12 ,-6.90594,107.5758,107.5758,-6.90594,6,Pole,NO NEED
+30,Andir,Ciroyom,PT. Telkomsel,Jl. Jendral Sudirman No. 386 RT  01 RW  03 ,-6.918997,107.589329,107.589329,-6.918997,6,Pole,NO NEED
+31,Andir,Kebon Jeruk ,PT. Centratama Menara Indonesia,Jl. Jend. Sudirman No. 214 RT 05 RW 07,-6.91979,107.59634,107.59634,-6.91979,20,4 Kaki,IMB NY RELEASED
+32,Andir,Andir,PT. Centratama Menara Indonesia,Pt. Atanaka Persada Permai (Kios Lt.P8A No. 05) Jl. Oto Iskandardinata No. 70 Bandung 40181,-6.91782,107.60331,107.60331,-6.91782,3,Pole,IMB NR
+33,Andir,Dungus Cariang,PT. Xl Axiata, Tbk,Jl. Ra.Barnas 189B/77,-6.914361111,107.5787222,-6.914361111,107.5787222,30,4 Kaki,503.645/SI-0551 DISBANG/2001
+34,Andir,Dungus Cariang,PT. Xl Axiata, Tbk,Jl. Nurtanio 115,-6.90896,107.57886,-6.90896,107.57886,25,3 Kaki,503.645/1859/BPPT
+35,Andir,Garuda,PT. Permata Karya Perdana,Jl. L.M Nurtanio RT 02 RW  05,-6.90904,107.5783,107.5783,-6.90904,11,Pole,-
+36,Antapani,Antapani Wetan,PT. Protelindo, Tbk,Jl. Sindang Sari III No. 5A,-6.91036,107.66393,107.66393,-6.91036,18,4 Kaki,663.10/0004/IMBT/I/2016/BPPT
+37,Antapani,Antapani Kidul,PT. Protelindo, Tbk,Jl. Cibodas No. 7 RT  06 RW  08,-6.91985,107.66277,107.66277,-6.91985,18,Pole,503.645/1375/BPPT
+38,Antapani,Antapani Tengah,PT. Protelindo, Tbk,Jl. Terusan Jakarta No. 184 RT 01/14 ,-6.91433,107.66167,107.66167,-6.91433,6,Pole,-
+39,Antapani,Antapani Kidul,PT. Protelindo, Tbk,Jl. Cibodas,-6.92447,107.66462,107.66462,-6.92447,30,4 Kaki,503.645/831/BPPT
+40,Antapani,Antapani Kulon,PT. Indosat, Tbk,Terusan Jakarta RT 03/07,-6.913443,107.659865,107.659865,-6.913443,31,Pole,503.645/SI-3066 Disbang/2002
+41,Antapani,Babakan Surabaya,PT. Indosat, Tbk,Ji. Terusan Jakarta No. 53 RT 01/12 Gang Sukakarya (Borma Antapani),-6.9119167,107.6491489,107.6491489,-6.9119167,30,Pole,503.645/51-0831 Disbang/2007
+42,Antapani,Parakan Saat,PT. Tower Bersama Group,Jl. Cibodas,-6.92486,107.664,107.664,-6.92486,53,4 Kaki,503.645.4/SI-0079/Dpb TAHUN 1998
+43,Antapani,Antapani Wetan,PT. Tower Bersama Group,Jl. Sindang Sari RT 03/09 (Jl. Ciharu Kuku),-6.91189,107.663,107.663,-6.91189,36,4 Kaki,503.645/3033/BPPT
+44,Antapani,Antapani Kidul,PT. Tower Bersama Group,Jl. Randu Sari Raya,-6.92627,107.661,107.661,-6.92627,46,4 Kaki,503.645/273/BPPT/2010
+45,Antapani,Antapani Tengah,PT. Tower Bersama Group,Jl. Terusan Jakarta 112,-6.91275,107.655,107.655,-6.91275,6,Pole,503.644.4/641/BPPT
+46,Antapani,Parakan Saat,PT. Telkomsel,Jl. Cibodas Raya,-6.926198,107.665087,107.665087,-6.926198,52,4 Kaki,-
+47,Antapani,Antapani Tengah,PT. Telkomsel,Jl. Cikampek Raya,-6.916226,107.657434,107.657434,-6.916226,42,4 Kaki,-
+48,Antapani,Antapani Kidul,PT. Telkomsel,Jl. Sukanagara,-6.9214,107.66,107.66,-6.9214,RT 15m,Pole Rooftop,IMB-Bdg 2015_52
+49,Antapani,Antapani Kidul,PT. Telkomsel,Komp. Antapani Mas No.  B-18 RT 05/017,-6.92858,107.662,107.662,-6.92858,4.2,Pole,NO NEED
+50,Antapani,Antapani Kulon,PT. Telkomsel,Jl. Antapani Lama No. 8 RT 02 RW 03,-6.9083,107.6582,107.6582,-6.9083,6,Pole,NO NEED
+51,Antapani,Cisaranten Endah,PT. Telkomsel,Jl. Lio Girang RT 04 RW 07,-6.93595,107.67423,107.67423,-6.93595,6,Pole,NO NEED
+52,Antapani,Antapani Tengah,PT. Telkomsel,Jl. Purwakarta No. 13,-6.91471,107.65287,107.65287,-6.91471,6,Pole,NO NEED
+53,Antapani,Antapani Kulon,PT. Telkomsel,Jl. Kalijati Indah Selatan No. 8 RT 05 RW 05,-6.909508,107.655831,107.655831,-6.909508,6,Pole,NO NEED
+54,Antapani,Antapani Wetan,PT. Telkomsel,Jl. Sentra Dago Timur Raya No. 14,-6.91017,107.66048,107.66048,-6.91017,4.2,Pole,NO NEED
+55,Antapani,Antapani Wetan,PT. Telkomsel,Jl. Sindangsari I RT  03 RW  08,-6.907735,107.664626,107.664626,-6.907735,6,Pole,NO NEED
+56,Antapani,Antapani Kidul,PT. Telkomsel,Jl. Terusan Jakarta No. 290,-6.914441,107.664421,107.664421,-6.914441,6,Pole,NO NEED
+57,Antapani,Antapani Kidul,PT. Centratama Menara Indonesia,Jl. Kadipaten Raya 9 No. 2 RT 05 RW  01,-6.918444,107.655306,107.655306,-6.918444,12,Pole,503.645/1756/BPPT 2015
+58,Antapani,Antapani Tengah,PT. Centratama Menara Indonesia,Jl. Parakan Saat RT 01 RW  23,-6.92716,107.66738,107.66738,-6.92716,18,Pole,503.645/3766/BPPT 2014
+59,Antapani,Antapani Kidul,PT. Xl Axiata, Tbk,Jl. Sari Indah Vb RT 07 RW 13,-6.92168,107.65483,-6.92168,107.65483,42,3 Kaki,503.645/SI-2510 Disbang/2006
+60,Antapani,Antapani Wetan,PT. Xl Axiata, Tbk,Jl. Sindang Sari III RT 03 RW 13,-6.9087,107.66432,-6.9087,107.66432,42,3 Kaki,503.645/SI-2882 Disbang/2006
+61,Antapani,Antapani Kidul,Naragita,An. Jl. Kawaluyaan Indah 17 No. 28,-6.93136,107.65985,107.65985,-6.93136,36,Pole,-
+62,Antapani,Antapani Kidul,Naragita,Jl. Kawaluyaan Indah 17 No. 28,-6.93136,107.65985,107.65985,-6.93136,36,Pole,-
+63,Antapani,Antapani Kidul,PT. Solusi Tunas Pratama,Jl. Babakan Sari No.  86/135 RT 04/RW 06,-6.92658,107.65988,107.65988,-6.92658,32,3 Kaki,503.645/3773/BPPT
+64,Arcamanik,Cisaranten Kulon,PT. Protelindo,Jl. Komp. Cisaranten Indah No. 46/170 RT 03 RW  01,-6.91926,107.6843,107.6843,-6.91926,25,Monopole,503.645/5183/BPPT
+65,Arcamanik,Cisaranten Kulon,PT. Protelindo, Tbk,Jl. Cisantern Baru  RT /RW  06/01 Kode Pos 40293,-6.91872,107.67975,107.67975,-6.91872,45,3 Kaki,503.645/SI-3462/DISBANG/06
+66,Arcamanik,Cisaranten Kulon,PT. Protelindo, Tbk,Jl. Cingised Raya Gang Ulil Albab No. 1 RT 03 RW  16 Kode Pos 40293,-6.92879,107.67297,107.67297,-6.92879,30,3 Kaki,503.645/SI-0014Disbang/2007
+67,Arcamanik,Cisaranten Bina Harapan,PT. Protelindo, Tbk,Jl. Pasar Sindanglaya II RT 01 RW  01,-6.90543,107.68029,107.68029,-6.90543,30,Pole,503.645/0966/BPPT
+68,Arcamanik,Sukamiskin,PT. Protelindo, Tbk,Jl. Pesantren RT  01 RW  011,-6.90915,107.6785,107.6785,-6.90915,6,Pole,-
+69,Arcamanik,Sukamiskin,PT. Protelindo, Tbk,Jl. Atletik II No.  27 RT 03 RW 13 Kode Pos 40293,-6.91924,107.67219,107.67219,-6.91924,42,3 Kaki,503.645/SI-3015 Disbang/2006
+70,Arcamanik,Sukamiskin,PT. Protelindo, Tbk,Jl. Terusan Jakarta No. 280,-6.91604,107.66743,107.66743,-6.91604,31,4 Kaki,503.645/207/BPPT
+71,Arcamanik,Cisaranten Kulon,Daya Mitra Telekomunikasi,Jl. Cisaranten Kulon,-6.934835,107.678806,107.678806,-6.934835,15,Pole,IMB - 503/524/BPPTPM/2012
+72,Arcamanik,Cisaranten Kulon,Daya Mitra Telekomunikasi,Jl. Permata Taman Sari Raya RT 11,-6.917863,107.679689,107.679689,-6.917863,15,Pole,IMB - 503/1457/166/IMB/BPMPT/2013
+73,Arcamanik,Sukamiskin,Daya Mitra Telekomunikasi,Jl. Banjarsari Indah A-If RT 03/RW 015,-6.919414,107.667069,107.667069,-6.919414,6,Pole,-
+74,Arcamanik,Cisaranten Kulon,PT. Indosat, Tbk,Cisaranten Kulon No. 223 (Panca Tengah),-6.929318,107.681965,107.681965,-6.929318,42,4 Kaki,503.643.3/51-1664/Dpb TAHUN 1997
+75,Arcamanik,Cisaranten Bina Harapan,PT. Indosat, Tbk,Jl. Pawenang II RT 03/06,-6.910188,107.688677,107.688677,-6.910188,52,4 Kaki,503.645/275/BPPT/2010
+76,Arcamanik,Sukamiskin,PT. Indosat, Tbk,Sembrani No. 7,-6.90732,107.672181,107.672181,-6.90732,32,4 Kaki,503.645/SI-1778 Disbang/2001
+77,Arcamanik,Cisaranten Bina Harapan,PT. Tower Bersama Group,Jl. Cicukang,-6.91333,107.684,-6.91333,107.684,31,3 Kaki,503.645/2746/BPPT
+78,Arcamanik,Cisaranten Kulon,PT. Tower Bersama Group,Jl. Permata Bumi Raya,-6.92041,107.682,107.682,-6.92041,52,4 Kaki,503.645/458/BPPT
+79,Arcamanik,Cisaranten Kulon,PT. Tower Bersama Group,Jl. Panca Tengah 1,-6.92937,107.682,107.682,-6.92937,20,Mcp,663.10/0003/IMBT/X/2016/BPPT
+80,Arcamanik,Cisaranten Kulon,PT. Tower Bersama Group,Jl. Cisaranten,-6.93186,107.68,107.68,-6.93186,55,4 Kaki,503.645/SI-1894 Disbang/2004
+81,Arcamanik,Cisaranten Kulon,PT. Tower Bersama Group,Jl. Permata Permai,-6.92327,107.677,107.677,-6.92327,32,4 Kaki,503.645/0633/BPPT
+82,Arcamanik,Cisaranten Kulon,PT. Tower Bersama Group,Jl. Parakan Saat No. 5 RT )2/11,-6.93204,107.669,107.669,-6.93204,31,3 Kaki,503.645/3463/BPPT
+83,Arcamanik,Cisaranten Kulon,PT. Solusi Tunas Pratama,Jl. Terusan Cisaranten Kulon No. 05 RT 08/ RW  07 ,-6.93692,107.67709,107.67709,-6.93692,6,Pole,503.645/SI.0795 Disbang/IV-07
+84,Arcamanik,Cisaranten Bina Harapan,PT. Solusi Tunas Pratama,Jl. Gg. Pawenang I RT 02/05 Cipanjalu,-6.912,107.6877,107.6877,-6.912,20,Pole,Not Required
+85,Arcamanik,Cisaranten Bina Harapan,PT. Solusi Tunas Pratama,Jl. Golf III RT 02/011,-6.91775,107.6891389,107.6891389,-6.91775,20,Pole,Not Required
+86,Arcamanik,Cisaranten Kulon,PT. Solusi Tunas Pratama,Jl. Sumbersari No. 101 RT 01 RW 08 ,-6.93729,107.682,107.682,-6.93729,31,3 Kaki,640.2/225/IMB/2016
+87,Arcamanik,Cisaranten Kulon,PT. Solusi Tunas Pratama,Jl. Parakansaat No. 147 RT 02/RW 013,-6.932444444,107.6683056,107.6683056,-6.932444444,31,3 Kaki,640.2/161/IMB/2016
+88,Arcamanik,Cisaranten Kulon,PT. Solusi Tunas Pratama,Jl. Cisaranten Wetan RT 01 RW 03,-6.92458,107.6872,107.6872,-6.92458,31,3 Kaki,503.A2/85/BPMP2T-LB/VI/2016Ê
+89,Arcamanik,Cisaranten Kulon,PT. Telkomsel,Jl. Cingised,-6.929015,107.67705,107.67705,-6.929015,42,4 Kaki,-
+90,Arcamanik,Cisaranten Endah,PT. Telkomsel,Jl. Gading Utama,-6.937548,107.671138,107.671138,-6.937548,15,3 Kaki,-
+91,Arcamanik,Sukamiskin,PT. Telkomsel,Jl. Terusan Pasantren,-6.910683,107.678677,107.678677,-6.910683,12,4 Kaki,-
+92,Arcamanik,Sukamiskin,PT. Telkomsel,Jl. Atlentik 2,-6.919231,107.672696,107.672696,-6.919231,20,Monopole,-
+93,Arcamanik,Cisaranten Endah,PT. Telkomsel,Perumahan Griya Caraka Blok H-11 RT 01 RW  05,-6.931981,107.673621,107.673621,-6.931981,6,Pole,NO NEED
+94,Arcamanik,Sukamiskin,PT. Telkomsel,Jl. Golf Barat No. 2 ,-6.91737,107.67511,107.67511,-6.91737,6,Pole,NO NEED
+95,Arcamanik,Sukamiskin,PT. Centratama Menara Indonesia,Jl. Pacuan Kuda 2 RT 2 RW  1,-6.905514,107.672643,107.672643,-6.905514,9,Pole,503.645/3174/BPPT 2014
+96,Arcamanik,Cisaranten Kulon,PT. Xl Axiata, Tbk,Jl. Cisaranten Kulon No. 107 RT 04/RW 07,-6.931027778,107.67975,-6.931027778,107.67975,30,4 Kaki,503.645/1512/BPPT
+97,Arcamanik,Cisaranten Bina Harapan,PT. Xl Axiata, Tbk,Jl. Cikcukang No. 37 RT 01 RW 09,-6.913638889,107.6831944,-6.913638889,107.6831944,30,3 Kaki,503.645/SI-0196 Disbang/2006
+98,Arcamanik,Cisaranten Endah,Hutchinson,Komp.Gading Regency Blok AII No. 7 RT 02/RW 03,-6.93761,107.67123,107.67123,-6.93761,12,Pole,-
+99,Arcamanik,Cisaranten Kulon,Hutchinson,Jl. Terusan Cisaranten Kulon No. 5 RT 06/RW 07,-6.93689,107.67711,107.67711,-6.93689,12,Pole,-
+100,Arcamanik,Cisaranten Endah,Naragita,Jl. Terusan Cikajang RT  01/03,-6.92333,107.66925,107.66925,-6.92333,30,Pole,-
+101,Astanaanyar,Cibadak,PT. Protelindo, Tbk,Jl. Pagarsih No.  21,-6.92325,107.59714,107.59714,-6.92325,30,4 Kaki,503.645/SI-2269 Disbang/2004
+102,Astanaanyar,Pelindung Hewan,PT. Protelindo, Tbk,Komplek Kurdi Regency No. 40 B RT  02 RW  06,-6.94173,107.60352,107.60352,-6.94173,20,3 Kaki,503.645/SI-0340Disbang/2007
+103,Astanaanyar,Karang Anyar,PT. Protelindo, Tbk,Jl. Oto Iskandardinata,-6.92269,107.60378,107.60378,-6.92269,25,3 Kaki,503.645/1701/BPPT
+104,Astanaanyar,Pelindung Hewan,PT. Protelindo, Tbk,Jl. Moh. Toha No. 96A RT 06 RW  09,-6.93975,107.60632,107.60632,-6.93975,12,Pole,503.645/1437/BPPT
+105,Astanaanyar,Pelindung Hewan,PT. Protelindo, Tbk,Jl. Peta No. 52 RT 06 RW  01,-6.93705,107.60011,107.60011,-6.93705,25,4 Kaki,503.645/1374/BPPT
+106,Astanaanyar,Nyengseret,PT. Protelindo, Tbk,Jl. Bapa Suhaya RT 04 RW  06,-6.93451,107.60035,107.60035,-6.93451,31,3 Kaki,503.645/222/BPPT
+107,Astanaanyar,Karasak,PT. Protelindo, Tbk, Jl. Soekarno  Hatta 421 RT 03 RW  04,-6.94788,107.6084,107.6084,-6.94788,31,Pole,503.645/3670/BPPT
+108,Astanaanyar,Pelindung Hewan,PT. Protelindo, Tbk,Jl. Inhoftank Kav.37B - 38A RT 02 RW 06,-6.94162,107.60355,107.60355,-6.94162,20,3 Kaki,503.645/SI-059 Disbang/2005
+109,Astanaanyar,Pelindung Hewan,PT. Protelindo, Tbk,Jl. Astana Anyar No. 330 RT  02 RW  03,-6.93498,107.60247,107.60247,-6.93498,25,3 Kaki,503.645/SI-2785 Disbang/2006
+110,Astanaanyar,Karang Anyar,Daya Mitra Telekomunikasi,Jl. Oto Iskandar Dinata No. 305,-6.925148,107.603799,107.603799,-6.925148,9,Pole,IMB - 503.640/620/429.207/2013
+111,Astanaanyar,Pelindung Hewan,Daya Mitra Telekomunikasi,Jl. Peta No. 32,-6.937146,107.600073,107.600073,-6.937146,12,Pole,IMB-503.645/3437/BPPT
+112,Astanaanyar,Cibadak,PT. Indosat, Tbk,Jl. Astana Anyar No. 132Cibadak,-6.925209,107.599318,107.599318,-6.925209,20,4 Kaki,503.645/SI-2830-Disbang/2001
+113,Astanaanyar,Pungkur,PT. Indosat, Tbk,Ji. Otto Lskandardinata No. 455 (Ruko Surya),-6.929731,107.603421,107.603421,-6.929731,15,4 Kaki,503.645/S1-2838 Disbang/2001
+114,Astanaanyar,Pelindung Hewan,PT. Solusi Tunas Pratama,Jl. M Toha No. 191,-6.9446,107.60842,107.60842,-6.9446,15,Pole,503.645/895/BPPT
+115,Astanaanyar,Nyengseret,PT. Solusi Tunas Pratama,Jl. Astana Anyar No. 238 RT 05/02,-6.930037,107.600529,107.600529,-6.930037,15,Pole,503.645/898/BPPT
+116,Astanaanyar,Panjunan,PT. Solusi Tunas Pratama,Jl. Kopo No. 38 A RT  04 RW  04,-6.928888889,107.5974167,107.5974167,-6.928888889,20,3 Kaki,0431/8.1/31.71.01.1006/-1.785.51/2016
+117,Astanaanyar,Cibadak,PT. Telkomsel,Jl. Astana Anyar No. ,-6.925128,107.59933,-6.925128,107.59933,20,3 Kaki,-
+118,Astanaanyar,Ciateul,PT. Telkomsel,Jl. Otista No. 520 Bandung,-6.93197,107.60306,107.60306,-6.93197,6,Pole,NO NEED
+119,Astanaanyar,Pelindung Hewan,PT. Telkomsel,Jl. Inhoftank No. 21 RT  02/07,-6.93906,107.60318,107.60318,-6.93906,4.2,Pole,NO NEED
+120,Astanaanyar,Cibadak,PT. Telkomsel,Jl. K. Natawijaya No. 41 Gg. Welas Asih Blok 90 No. 178 RT  09/07,-6.92557,107.596202,107.596202,-6.92557,6,Pole,NO NEED
+121,Astanaanyar,Pelindung Hewan,PT. Centratama Menara Indonesia,Jl. Inhopftank RT 02 RW 07,6.93923,107.6032,107.6032,6.93923,10,Pole,IMB NR
+122,Astanaanyar,Panjunan,PT. Xl Axiata, Tbk,Jl. Kopo No. 13 Bandung Toko Mas Sae,-6.92727,107.59805,-6.92727,107.59805,12,Pole,503.645/SI-1694 Disbang/2007
+123,Astanaanyar,Cibadak,PT. Xl Axiata, Tbk,Jl. Cibadak Gg. Nyi Empok No. 1 - Bandung,-6.92174,107.59381,-6.92174,107.59381,36,Pole,503.645/SI-1998 Disbang/2006
+124,Babakan Ciparay,Cirangrang,PT. Protelindo, Tbk,Jl. Pesantren RT /RW  5/4 Kode Pos 40277,-6.95806,107.586,107.586,-6.95806,30,3 Kaki,503.645/SI-2847/Disbang/2006
+125,Babakan Ciparay,Margahayu Utara,PT. Protelindo, Tbk,Jl. Cibolerang No. 219 RT /RW  02/08 Kode Pos 40224 ,-6.9496,107.56964,107.56964,-6.9496,46,3 Kaki,503.645/SI-3463/Disbang/2006
+126,Babakan Ciparay,Babakan Ciparay,PT. Protelindo, Tbk,Jl. Soekarno  Hatta /H. Hasan II No. 17 RT  01/07 Kodepos 40223,-6.93847,107.57758,107.57758,-6.93847,35,3 Kaki,503.645/SI-0544 Disbang/2007
+127,Babakan Ciparay,Sukahaji,PT. Protelindo, Tbk,Jl. Jamika No. 118 RT  05 RW  06 Kode Pos 40221,-6.92375,107.5855,107.5855,-6.92375,23,3 Kaki,503.645/SI-2843Disbang/2006
+128,Babakan Ciparay,Margasuka,PT. Protelindo, Tbk,Jl. Cibolerang Kawasan 45 RT 04 RW  07,-6.95266,107.57399,107.57399,-6.95266,30,3 Kaki,503.645/0463/BPPT
+129,Babakan Ciparay,Babakan,PT. Protelindo, Tbk,Jl. Terusan Pasirkoja RT 01 RW  07,-6.93034,107.57702,107.57702,-6.93034,12,Pole,503.645/0189/BPPT
+130,Babakan Ciparay,Babakan,PT. Protelindo, Tbk,Jl. Terusan Pasir Koja Blok. 8,-6.92966,107.57694,107.57694,-6.92966,15,3 Kaki,503.645/SI-2634/Disbang/2003
+131,Babakan Ciparay,Babakan Ciparay,PT. Protelindo, Tbk,Jl. Babakan Ciparay RT  01 RW  09 ,-6.93593,107.5841,107.5841,-6.93593,31,3 Kaki,503.645/832/BPPT
+132,Babakan Ciparay,Margahayu Utara,PT. Protelindo, Tbk,Jl. Makam Caringin No. 93 B RT 01 RW 02 Kode Pos 40224,-6.95194,107.58079,107.58079,-6.95194,42,3 Kaki,503.645/SI-3561 Disbang/2006
+133,Babakan Ciparay,Sukahaji,PT. Protelindo, Tbk,Jl. Babakan Ciparay Gg Air Mancur RT 06/03,-6.92996,107.5831,107.5831,-6.92996,9,Pole,-
+134,Babakan Ciparay,Babakan Ciparay,PT. Protelindo, Tbk,Jl. Babakan Ciparay RT 7 RW 05,-6.94166,107.5812,107.5812,-6.94166,30,4 Kaki,503.645/1302/BPPT
+135,Babakan Ciparay,Babakan,Daya Mitra Telekomunikasi,Jl. Caringin Blok Kopat,-6.943511,107.573399,107.573399,-6.943511,6,Pole,IMB - 503.645/1589/BPPT
+136,Babakan Ciparay,Babakan,Daya Mitra Telekomunikasi,Jl. Ters. Suryani Gg. Abadi RT 03 RW 02,-6.92615,107.57957,107.57957,-6.92615,30,Pole,IMB - 663.10/0008/IMBT/XII/2016/BPPT
+137,Babakan Ciparay,Margasuka,Daya Mitra Telekomunikasi,Jl. Kopo Mas Regency,-6.95803,107.578526,107.578526,-6.95803,6,Pole,0
+138,Babakan Ciparay,Babakan,PT. Indosat, Tbk,Jl. Caringin RT 02 RW 09,-6.940137,107.570607,107.570607,-6.940137,42,4 Kaki,503.645/51-2094-DISTARCIP/IV/08
+139,Babakan Ciparay,Babakan Ciparay,PT. Indosat, Tbk,Jl. Babakan Ciparay No. 240,-6.938397,107.582849,107.582849,-6.938397,52,4 Kaki,503.645/SI-2491 Disbang/2001
+140,Babakan Ciparay,Babakan Ciparay,PT. Tower Bersama Group,Jl. Babakan Ciparay 108,-6.94171,107.583,107.583,-6.94171,42,4 Kaki,503.645/SI-3212 Disbang/2006
+141,Babakan Ciparay,Babakan Ciparay,PT. Tower Bersama Group,Jl. Caringin No. 113,-6.94546,107.582,107.582,-6.94546,6,Pole,503.644.4/SI-787/DPB TAHUN 1996
+142,Babakan Ciparay,Babakan Ciparay,PT. Tower Bersama Group,Kp. Babakan Jl. Cibuntu Selatan RT 01/10,-6.93103,107.575,107.575,-6.93103,32,4 Kaki,503.645/1345/BPPT
+143,Babakan Ciparay,Margasuka,PT. Tower Bersama Group,Jl. H. Abdurrohman RT 05/07,-6.95341,107.573,107.573,-6.95341,26,4 Kaki,663.10/0003/IMBT/I/2017/DPMPTSP
+144,Babakan Ciparay,Margahayu Utara,PT. Tower Bersama Group,Jl. Terusan Holis RT 01/10,-6.94522,107.568,107.568,-6.94522,32,4 Kaki,REKOM DISHUBKOMINFO DAN KRK DONE,  PENGESAHAN IMB
+145,Babakan Ciparay,Babakan Ciparay,PT. Solusi Tunas Pratama,Jl. Makam Caringin No. 31 RT 04/RW 02,-6.947416667,107.5835278,107.5835278,-6.947416667,9,Pole,503.010/DPM_PTSP/IJ.IMB/IV/2017
+146,Babakan Ciparay,Babakan,PT. Solusi Tunas Pratama,Jl. Caringin RT 02 RW 09,-6.940222222,107.5705,107.5705,-6.940222222,31,3 Kaki,647/24/IMB/DPMPTSPNAKER-2017
+147,Babakan Ciparay,Babakan Ciparay,PT. Solusi Tunas Pratama,Jl. Caringin No. 180B RT 01 RW 05,-6.9432,107.57837,107.57837,-6.9432,20 + 3 (stacking),3 Kaki,05/KEP/IMB-MENARA/DPMPTP-2017
+148,Babakan Ciparay,Margahayu Utara,PT. Telkomsel,Jl. Margagjaya III,-6.949438,107.576116,107.576116,-6.949438,52,4 Kaki,-
+149,Babakan Ciparay,Margasuka,PT. Telkomsel,Jl. Kopo Mas Regency 9D,-6.959115,107.579849,107.579849,-6.959115,15,Pole Rooftop,-
+150,Babakan Ciparay,Cirangrang,PT. Telkomsel,Jl. Kopo No. 469 RT 02/01,-6.952469,107.585402,107.585402,-6.952469,20,3 Kaki,-
+151,Babakan Ciparay,Babakan Ciparay,PT. Telkomsel,Komp. Taman Surya Indah Jl. Soekarno  Hatta No. 150,-6.938319,107.581071,107.581071,-6.938319,20,3 Kaki,-
+152,Babakan Ciparay,Babakan,PT. Telkomsel,Jl. Taman Lili Gardania,-6.929174,107.580812,107.580812,-6.929174,62,4 Kaki,-
+153,Babakan Ciparay,Sukahaji,PT. Telkomsel,Jl. Suryani No. 19 RT 03 RW 10,-6.91969,107.58098,107.58098,-6.91969,4.2,Pole,NO NEED
+154,Babakan Ciparay,Margasuka,PT. Telkomsel,Jl. Kopo Ciranrang No. 550 RT 05 RW  04,-6.95533,107.58292,107.58292,-6.95533,6,Pole,NO NEED
+155,Babakan Ciparay,Margasuka,PT. Telkomsel,Jl. Kopo Mas G2 RT 02/01,-6.95616,107.57695,107.57695,-6.95616,6,Pole,NO NEED
+156,Babakan Ciparay,Babakan Tarogong,PT. Telkomsel,Jl. Pasirkoja  No. 131 Bandung,-6.92623,107.59173,107.59173,-6.92623,6,Monopole,NO NEED
+157,Babakan Ciparay,Babakan ,PT. Centratama Menara Indonesia,Jl. Holis 235 RT 01 RW  09,-6.93667,107.57073,107.57073,-6.93667,18,Pole,503.645/4095/BPPT 2013
+158,Babakan Ciparay,Babakan Ciparay,PT. Centratama Menara Indonesia,Jl. Caringin 180C RT 01/05,-6.94362,107.57835,107.57835,-6.94362,20,4,503.645/3764/BPPT 2014
+159,Babakan Ciparay,Sukahaji,PT. Centratama Menara Indonesia,Jl. Suryani No. 9 RT 03 RW  010,-6.919138,107.58127,107.58127,-6.919138,18,Pole,503.645/3765/BPPT 2014
+160,Bojongloa Kaler,Suka Asih,PT. Xl Axiata, Tbk,Jl. Peta No. 226 RT  06/RW  05,-6.930083333,107.5883889,-6.930083333,107.5883889,30,4 Kaki,503.645/973/BPPT
+161,Bandung Kulon,Cigondewah Rahayu,PT. Xl Axiata, Tbk,Jl. Cigondewah Kidul No. 40,-6.944388889,107.561,-6.944388889,107.561,30,4 Kaki,503.643.3/SI-1676/DPB TAHUN 1998
+162,Babakan Ciparay,Margahayu Utara,PT. Xl Axiata, Tbk,Jl. Margajaya Timur III RT 03/06,-6.948638889,107.5775278,-6.948638889,107.5775278,30,3 Kaki,503.645/SI-0170 Disbang/2007
+163,Babakan Ciparay,Cirangrang,PT. Xl Axiata, Tbk,Jl. Cirangrang Timur RT 03 RW 02,-6.955361111,107.5869722,-6.955361111,107.5869722,51,4 Kaki,05/SK.IMB/DB/2001
+164,Babakan Ciparay,Sukahaji,PT. Xl Axiata, Tbk,Jl. Pagarsih 302 Kodya Bandung.,-6.92164,107.58447,-6.92164,107.58447,20,3 Kaki,503.645/SI-3271 Disbang/2006
+165,Bojongloa Kaler,Jamika,PT. Xl Axiata, Tbk,Jl. Terusan Pasir Koja 195 Kodya Bandung,-6.92616,107.58829,-6.92616,107.58829,36,Pole,503.645/SI-1718 Disbang/2006
+166,Babakan Ciparay,Babakan,PT. Xl Axiata, Tbk,Jl. Caringin 287-289 No. 287-289 RT 01/RW 03,-6.94379,107.57325,-6.94379,107.57325,25,3 Kaki,503.645/SI-2489 Disbang/2006
+167,Babakan Ciparay,Margahayu Utara,PT. Permata Karya Perdana,Jl. Makam Caringin RT 08 RW  02,-6.96251,107.58089,107.58089,-6.96251,17,Pole,-
+168,Babakan Ciparay,Margasuka,Naragita,Jl. Kopo No. 619 Kopo Mas Regency Blok N No. 10 A RT  02/01,-6.95807,107.57861,107.57861,-6.95807,30,Pole,-
+169,Babakan Ciparay,Margasuka,Naragita,Jl. Kopo No. 619 Kopo Mas Regency Blok N No. 10 A RT  02/01,-6.95807,107.57861,107.57861,-6.95807,17,Kaki 3,-
+170,Babakan Ciparay,Margasuka,Naragita,Jl. Kopo No. 619 Kopo Mas Regency Blok N No. 10 A RT  02/01,-6.95807,107.57861,107.57861,-6.95807,15,Pole,-
+171,Babakan Ciparay,Margasuka,Naragita,Jl. Kopo No. 619 Kopo Mas Regency Blok N No. 10 A RT  02/10,-6.95807,107.57861,107.57861,-6.95807,6,Pole,-
+172,Babakan Ciparay,Babakan Ciparay,Naragita,Jl. Caringin No. 141 RT  04/03,-6.94251,107.58089,107.58089,-6.94251,9,Pole,-
+173,Bandung Kidul,Kujangsari,PT. Protelindo, Tbk,Jl. Ciparay,-6.95979,107.64347,107.64347,-6.95979,36,3 Kaki,503.645/2209/BPPT
+174,Bandung Kidul,Kujangsari,PT. Protelindo, Tbk,Jl. Ters Buahbatu No. 275 RT 07 RW  06,-6.96293,107.63864,107.63864,-6.96293,25,4 Kaki,503.645/1359/BPPT
+175,Bandung Kidul,Batununggal,PT. Protelindo, Tbk,Jl. Batununggal Permai I No. 87 RT 08 RW  01,-6.957,107.6305,107.6305,-6.957,12,Pole,503.645/0710/BPPT
+176,Bandung Kidul,Kujangsari,PT. Protelindo, Tbk,Jl. Buanasari Iv RT 08 RW  04,-6.96509,107.64287,107.64287,-6.96509,41,3 Kaki,503.645/0223/BPPT
+177,Bandung Kidul,Batununggal,PT. Protelindo, Tbk,Jl. Batu Nunggal,-6.95675,107.63765,107.63765,-6.95675,30,4 Kaki,503.645/1303/BPPT
+178,Bandung Kidul,Kujangsari,PT. Protelindo, Tbk,Komplek Buah Batu Regensi A1 Kav No. 9 RT 09 RW 07 ,-6.96126,107.63999,107.63999,-6.96126,6,Pole,-
+179,Bandung Kidul,Kujangsari,PT. Protelindo, Tbk,Jl. Buana Sari Iv RT 08 RW 04 ,-6.965,107.6428,107.6428,-6.965,18,Pole,503.645/3668/BPPT
+180,Bandung Kidul,Batununggal,PT. Protelindo, Tbk,Jl. Soekarno  Hatta RT 04 RW  01 ,-6.94994,107.62372,107.62372,-6.94994,5,Pole,-
+181,Bandung Kidul,Mengger,Daya Mitra Telekomunikasi,Jl. Batu Nunggal Indah,-6.964021,107.627058,107.627058,-6.964021,36,3 Kaki,IMB - 800/064/IMB/PUCK/OKUT/XII/2012
+182,Bandung Kidul,Batununggal,Daya Mitra Telekomunikasi,Komp. Batu Nunggal Permai I,-6.956938,107.630501,107.630501,-6.956938,6,Pole,IMB-503.645/1594/BPPT
+183,Bandung Kidul,Kujangsari,Daya Mitra Telekomunikasi,Jl. Terusan Buah Batu (Masjid Al-Hilal),-6.962835,107.638306,107.638306,-6.962835,9,Pole,IMB - 503.645/0211/BPPT
+184,Bandung Kidul,Kujangsari,Daya Mitra Telekomunikasi,Jl. Bonasari 4 RT 08/04,-6.96501,107.642762,107.642762,-6.96501,25,Pole,IMB - 663.10/0013/IMBT/XII/2016/BPPT
+185,Bandung Kidul,Batununggal,PT. Indosat, Tbk,Jl. Sukarno  Hatta No. 1 Batununggal,-6.948542,107.634141,107.634141,-6.948542,55,4 Kaki,503.644.4/219/BPMPPT/2008
+186,Bandung Kidul,Batununggal,PT. Tower Bersama Group,Jl. Sekelimus Barat,-6.94998,107.637,107.637,-6.94998,31,3 Kaki,503.645/SI-3486 Disbang/2006
+187,Bandung Kidul,Wates,PT. Tower Bersama Group,Jl. Naradirja,-6.96095,107.609,107.609,-6.96095,55,4 Kaki,503.645/SI.026 DISBANG/2005
+188,Bandung Kidul,Batununggal,PT. Solusi Tunas Pratama,Jl. Terusan Buah Batu N0.36 Bandung,-6.95102,107.63605,107.63605,-6.95102,15,Pole,503.645/894/BPPT
+189,Bandung Kidul,Batununggal,PT. Solusi Tunas Pratama,Jl. Waas II RT 07 RW  01,-6.95261,107.62675,107.62675,-6.95261,35,3 Kaki,503.645/SI-0796 Disbang/IV-07
+190,Bandung Kidul,Batununggal,PT. Solusi Tunas Pratama,Jl. Batununggal Indah Iv No. 35 RT 07/RW 03 ,-6.95622222,107.6286389,107.6286389,-6.95622222,6,Pole,0149/IMB/KPTP/2016
+191,Bandung Kidul,Kujangsari,PT. Solusi Tunas Pratama,Jl. Terusan Logam No. 5 RT 04/RW 05,-6.961277778,107.6446667,107.6446667,-6.961277778,6,Pole,648.1/120/11/2016
+192,Bandung Kidul,Batununggal,PT. Telkomsel,Jl. Soekarno  Hatta,-6.949833,107.62381,107.62381,-6.949833,15,4 Kaki,IMB-Bdg 2011_9
+193,Bandung Kidul,Mengger,PT. Telkomsel,Jl. Sukamanah No. 102 RT 03/02,-6.956775,107.622509,107.622509,-6.956775,36,4 Kaki,-
+194,Bandung Kidul,Mengger,PT. Telkomsel,Jl. Cipagalo RW  03,-6.961458,107.63429,107.63429,-6.961458,42,4 Kaki,-
+195,Bandung Kidul,Batununggal,PT. Telkomsel,Jl. Batununggal Indah Raya No. 189,-6.95415,107.62901,107.62901,-6.95415,6,Pole,NO NEED
+196,Bandung Kidul,Batununggal,PT. Telkomsel,Jl. n Batu Indah VII No.  47 RT 04 RW 03 ,-6.95491,107.634,107.634,-6.95491,6,Pole,NO NEED
+197,Bandung Kidul,Batununggal,PT. Telkomsel,Jl. Batununggal Indah Raya No. 51 RT 08 RW 01 ,-6.95329,107.624,107.624,-6.95329,4.2,Pole,NO NEED
+198,Bandung Kidul,Batununggal,PT. Telkomsel,Jl. Soekarno  Hatta No. 354,-6.94918,107.63181,107.63181,-6.94918,6,Pole,NO NEED
+199,Bandung Kidul,Mengger,PT. Telkomsel,Jl. Batununggal Indah Raya (Pilaria Butik) ,-6.9569,107.62656,107.62656,-6.9569,6,Pole,NO NEED
+200,Bandung Kidul,Kujangsari,PT. Telkomsel,ÊJl. Ciparay Trs Buahbatu Komplek Nuansa Indah Blok R-8 ,-6.95957,107.64,107.64,-6.95957,4.2,Pole,NO NEED
+201,Bandung Kidul,Mengger,PT. Telkomsel,Jl. Batununggal Mulia II No. 14 RT  03 RW  05 ,-6.960728,107.631388,107.631388,-6.960728,6,Pole,NO NEED
+202,Bandung Kidul,Kujangsari,PT. Telkomsel,Komp. Buah Batu Regency Kav. G-7 No. 12 RT  03 RW  09 ,-6.96212,107.64178,107.64178,-6.96212,6,Pole,NO NEED
+203,Bandung Kidul,Mengger,PT. Xl Axiata, Tbk,Jl. Batununggal Indah ÐII No. 70 Bandung Ð Jawa Barat,-6.962611111,107.6260556,-6.962611111,107.6260556,31,4 Kaki,503.645/1271/BPPT
+204,Bandung Kidul,Mengger,PT. Xl Axiata, Tbk,Jl. Ters. Suratmi Kampung Mengger RT  03/02 ,-6.95706,107.62264,-6.95706,107.62264,42,3 Kaki,503.645/340/BPMPPT/2008
+205,Bandung Kidul,Mengger,Hutchinson,Babakan Karees RT 05/RW 04,-6.9623,107.63448,107.63448,-6.9623,9,Pole,-
+206,Bandung Kulon,Cibuntu,PT. Protelindo, Tbk,Jl. Holis No. 4 RT 04 RW  03,-6.91787,107.57602,107.57602,-6.91787,20,3 Kaki,503.645/633/BPPT
+207,Bandung Kulon,Cigondewah Kaler,PT. Protelindo, Tbk,Jl. Kp. Blok Jambangan RT  02 RW  10,-6.9373,107.56168,107.56168,-6.9373,36,3 Kaki,503.645/14/BPMPPT/2010
+208,Bandung Kulon,Cigondewah Kaler,PT. Protelindo, Tbk,Jl. Cicukang No. 26 RT 01 RW  08 ,-6.93655,107.56768,107.56768,-6.93655,30,3 Kaki,503.645/5180/BPPT
+209,Bandung Kulon,Warung Muncang,PT. Protelindo, Tbk,Jl. Terusan Suryani No. 30 RT 01 RW  03 ,-6.92372,107.57973,107.57973,-6.92372,12,Pole,503.645/2400/BPPT
+210,Bandung Kulon,Cigondewah Kidul,PT. Protelindo, Tbk,Jl. Komp. Taman Holis Indah (Blok Kasur) RT 03 RW  05 ,-6.94297,107.56031,107.56031,-6.94297,28,Pole,503.645/1974/BPPT
+211,Bandung Kulon,Cigondewah Kaler,PT. Protelindo, Tbk,Jl. Cigondewah (Gempol) RT 02 RW  01 ,-6.9404,107.5574,107.5574,-6.9404,30,3 Kaki,503.645/1371/BPPT
+212,Bandung Kulon,Cijerah,PT. Protelindo, Tbk,Jl. Gg. Ambia ,-6.92168,107.56764,107.56764,-6.92168,31,3 Kaki,663.10/0002/IMBT/XI/2015/BPPT
+213,Bandung Kulon,Gempol Sari,PT. Protelindo, Tbk,Kp. Renggas RT  04 RW  06 ,-6.93032,107.54964,107.54964,-6.93032,31,3 Kaki,503.645/340/BPPT
+214,Bandung Kulon,Cigondewah Kaler,Daya Mitra Telekomunikasi,Jl. Cigondewah Kaler No. 15 RT 01/,-6.934936,107.562335,107.562335,-6.934936,24,Pole,IMB - 503.645/1591/BPPT
+215,Bandung Kulon,Caringin,Daya Mitra Telekomunikasi,Jl. Holis (Indomaret) 010,-6.926192,107.574586,107.574586,-6.926192,10,Pole,IMB - 503.645/1593/BPPT
+216,Bandung Kulon,Cijerah,Daya Mitra Telekomunikasi,Jl. Cijerah ,-6.918624,107.570517,107.570517,-6.918624,12,Pole,IMB - 503.645/1931/BPPT
+217,Bandung Kulon,Cigondewah Rahayu,PT. Indosat, Tbk,Tb Rahayu II Ji. Cibolerang No. 69 RT 01/03,-6.950523,107.564855,107.564855,-6.950523,32,4 Kaki,503.645/51-2510 Disbang/2002
+218,Bandung Kulon,Cibuntu,PT. Indosat, Tbk,Ji. Holis No. 35 RT 02/01,-6.919555,107.576388,107.576388,-6.919555,32,4 Kaki,503.645/S1-0703 Disbang/2005
+219,Bandung Kulon,Caringin,PT. Indosat, Tbk,Area Gerbang Tol Pasir Koja,-6.9310657,107.5702791,107.5702791,-6.9310657,42,4 Kaki,503.645/51-0654 Disbang/2002
+220,Bandung Kulon,Cibuntu,PT. Tower Bersama Group,Jl. Bojong Raya No. 48,-6.92754,107.571,107.571,-6.92754,20,4 Kaki,663.10/0010/IMBT/XI/2015/BPPT
+221,Bandung Kulon,Cibuntu,PT. Tower Bersama Group,Jl. Cijerah RT 04,-6.92614,107.566,107.566,-6.92614,42,4 Kaki,503.645/2080/BPPT
+222,Bandung Kulon,Cigondewah,PT. Tower Bersama Group,Jl. Cigondewah RT 09/06,-6.94483,107.565,107.565,-6.94483,32,4 Kaki,REKOM DISHUBKOMINFO DAN KRK DONE,  PENGESAHAN IMB
+223,Bandung Kulon,Cigondewah Rahayu,PT. Tower Bersama Group,Jl. Taman Holis RT 02/03,-6.94841,107.562,107.562,-6.94841,42,4 Kaki,503.645/3513/BPPT
+224,Bandung Kulon,Gempol Sari,PT. Tower Bersama Group,Jl. Gempolsari ,-6.92985,107.557,107.557,-6.92985,55,4 Kaki,503.645/33/BPPT
+225,Bandung Kulon,Cigondewah Kidul,PT. Solusi Tunas Pratama,Kampung Blok Sawah RT 02 RW  02 ,-6.93978,107.5626,107.5626,-6.93978,32,4 Kaki,Proses
+226,Bandung Kulon,Cigondewah Kidul,PT. Solusi Tunas Pratama,Jl. Cigondewah Kidul No.  1 RT 1 RW  1 ,-6.940998,107.56659,107.56659,-6.940998,15,Pole,503.645/SI-0813 Disbang/V-07
+227,Bandung Kulon,Warung Muncang,PT. Telkomsel,Jl. Terusan Suryani Cibuntu Timur No. 4 RT 6,-6.923406,107.580133,107.580133,-6.923406,32,4 Kaki,-
+228,Bandung Kulon,Cibuntu,PT. Telkomsel,Jl. H. Alfi RT 03/01,-6.919558,107.573243,107.573243,-6.919558,25,Monopole,-
+229,Bandung Kulon,Cijerah,PT. Telkomsel,Jl. Mekar Indah No. 1 RT 08/08,-6.923369,107.565003,107.565003,-6.923369,32,Monopole,-
+230,Bandung Kulon,Cigondewah Kidul,PT. Telkomsel,Jl. Cigondewah Kidul No. 12 RT 04/04,-6.940984,107.566441,107.566441,-6.940984,42,Monopole,-
+231,Bandung Kulon,Cibuntu,PT. Telkomsel,Jl. Holis Ruko 203,-6.934268,107.571503,107.571503,-6.934268,20,4 Kaki,IMB-Bdg 2013_29
+232,Bandung Kulon,Cijerah,PT. Telkomsel,Jl. Melong Asih ,-6.91954,107.56551,107.56551,-6.91954,6,Pole,NO NEED
+233,Bandung Kulon,Caringin,PT. Telkomsel,Jl. Nana Rohana 99/82 ,-6.92267,107.57691,107.57691,-6.92267,6,Pole,NO NEED
+234,Bandung Kulon,Cigondewah Kaler,PT. Telkomsel,Jl. Paralon Gg. Sawargi No. 90 RT 02/01 ,-6.93078,107.568,107.568,-6.93078,6,Pole,NO NEED
+235,Bandung Kulon,Cijerah,PT. Telkomsel,Jl. Cijerah RT 1/4 No.  139 ,-6.923231,107.569259,107.569259,-6.923231,6,Pole,NO NEED
+236,Bandung Kulon,Cigondewah Kidul,PT. Centratama Menara Indonesia,Cigondewah Kidul RT 04 RW 04 ,-6.941038,107.566069,107.566069,-6.941038,42,4 Kaki,503.645/2421/BPPT 2012
+237,Bandung Kulon,Cigondewah Kaler,PT. Centratama Menara Indonesia,Jl. Paralon No. 12 RT  02 RW  11 ,-6.931583,107.5675,107.5675,-6.931583,25,3 Kaki,IMB NY RELEASED
+238,Bandung Kulon,Cijerah,PT. Xl Axiata, Tbk,Jl. Raya Jend. Sudirman No. 801 RT 06 RW 06 ,-6.915888889,107.569,-6.915888889,107.569,30,3 Kaki,503.645/SI-2098-DISTARCIP/IV-08
+239,Bandung Kulon,Cijerah,PT. Xl Axiata, Tbk,Komplek Mekar Indah Jl. Mekar Asih Af 9 No. 9 ,-6.923027778,107.5644444,-6.923027778,107.5644444,30,3 Kaki,503.645/2359/BPPT
+240,Bandung Kulon,Cigondewah Rahayu,PT. Xl Axiata, Tbk,Jl. Cibolerang Barat RT 04 RW 01 ,-6.951256,107.56596,-6.951256,107.56596,42,4 Kaki,503.645/SI-2678 Disbang/2006
+241,Bandung Kulon,Cibuntu,PT. Xl Axiata, Tbk,Jl. Cijerah No. 111 RT  08 RW  04 ,-6.92094,107.56986,-6.92094,107.56986,25,3 Kaki,503.645/SI-0484 Disbang/2007
+242,Bandung Kulon,Caringin,PT. Xl Axiata, Tbk,Jl. Holis RT 07 RW  07 ,-6.9308,107.57296,-6.9308,107.57296,52,3 Kaki,503.645/SI-2989 Disbang/2006
+243,Bandung Kulon,Gempol Sari,PT. Xl Axiata, Tbk,Jl. Jati Gempol Sari RT 07 RW 09 ,-6.93449,107.55415,-6.93449,107.55415,42,3 Kaki,503.645/SI-2613 Disbang/2006
+244,Bandung Wetan,Citarum,PT. Protelindo,Jl. Progo No. 6 ,-6.90516,107.61746,107.61746,-6.90516,42,Monopole,503.645/SI-1048 Disbang/2004
+245,Bandung Wetan,Taman Sari,PT. Protelindo,Jl. Pajajaran No. 28 RT 06 RW  18,-6.90693,107.60527,107.60527,-6.90693,25,Rooftop Mt,503.645/1705/BPPT
+246,Bandung Wetan,Cihapit,PT. Protelindo,Jl. Citarum No. 16 RT 01 RW  03,-6.90441,107.62306,107.62306,-6.90441,6,Pole,tidak diperlukan IMB
+247,Bandung Wetan,Taman Sari,PT. Protelindo,Jl. Cihampelas No. 76A RT  02 RW  09,-6.90114,107.60431,107.60431,-6.90114,20,Rooftop Mt,503.645/0191/BPPT
+248,Bandung Wetan,Taman Sari,PT. Protelindo,Jl. Cihampelas No. 70 RT  02 RW  09,-6.90158,107.60459,107.60459,-6.90158,20,Rooftop Mt,503.645/SI-0971 Disbang/2007
+249,Bandung Wetan,Taman Sari,PT. Protelindo, Tbk,Jl. Ir. H. Juanda No. 61-63,-6.90074,107.61165,107.61165,-6.90074,25,Pole,503.645/949/BPPT
+250,Bandung Wetan,Citarum,PT. Protelindo, Tbk,Jl. R.E Martadinata No. 28 RT 02 RW  01 ,-6.90665,107.61574,107.61574,-6.90665,12,Pole,503.646/4404/BPPT
+251,Bandung Wetan,Citarum,PT. Protelindo, Tbk,Jl. Wira Angun Angun No.  15 RT 02 RW  02 ,-6.90447,107.61452,107.61452,-6.90447,12,Pole,-
+252,Bandung Wetan,Taman Sari,PT. Protelindo, Tbk,Jl. Purnawarman No. 59 ,-6.90329,107.60905,107.60905,-6.90329,15,Pole,663.10/0005/IMBT/XI/2015/BPPT
+253,Bandung Wetan,Taman Sari,Daya Mitra Telekomunikasi,Jl. Rangga Gading No. 8,-6.9028684,107.610569,107.610569,-6.9028684,6,Pole,IMB - 503/57/BPPT/IMB/V/2012
+254,Bandung Wetan,Taman Sari,Daya Mitra Telekomunikasi,Jl. n Wastukencana Gang Nangkasuni Bandung,-6.9058602,107.6059,107.6059,-6.9058602,3,Pole,-
+255,Bandung Wetan,Merdeka,PT. Indosat, Tbk,Pramuka (Jl. Re Martadinata) No. 159 RT 01/02,-6.90934,107.626213,107.626213,-6.90934,20,4 Kaki,503.645.1/SI-1423 Disbang/2002
+256,Bandung Wetan,Merdeka,PT. Telkomsel,Jl. Riau-Martadinata No. 56,-6.90634,107.619911,107.619911,-6.90634,15,3 Kaki,-
+257,Bandung Wetan,Citarum,PT. Telkomsel,Jl. Trunojoyo  No. 60,-6.901921,107.615667,107.615667,-6.901921,15,3 Kaki,-
+258,Bandung Wetan,Taman Sari,PT. Telkomsel,Gedung Dago Office Square Jl. Ir. H. Juanda No. 48 RT  02 RW  04 ,-6.90125,107.612,107.612,-6.90125,6,Pole,NO NEED
+259,Bandung Wetan,Taman Sari,PT. Telkomsel,Jl. Pelesiran No. 9 RT 7 RW  4 ,-6.89657,107.60859,107.60859,-6.89657,6,Pole,NO NEED
+260,Bandung Wetan,Cihapit,PT. Telkomsel,Jl. Sabang No. 5 RT 06 RW 01 ,-6.908592,107.621412,107.621412,-6.908592,4.2,Pole,NO NEED
+261,Bandung Wetan,Taman Sari,PT. Telkomsel,Jl. Tamansari 6 - 8 Bandung Jawa Barat - Indonesia ,-6.9041,107.6084,107.6084,-6.9041,6,Pole,NO NEED
+262,Bandung Wetan,Cihapit,PT. Telkomsel,Jl. Citarum No. 16 RT  01 RW  03 ,-6.902661,107.613518,107.613518,-6.902661,6,Pole,NO NEED
+263,Bandung Wetan,Taman Sari,PT. Centratama Menara Indonesia,Jl. Cihampelas No. 112 RT 02/RW  07 ,-6.89816,107.60407,107.60407,-6.89816,6,Pole,IMB NR
+264,Bandung Wetan,Citarum,PT. Centratama Menara Indonesia,Renarity Fo Jl. L. Re Martadinata (Riau) No. 26 RT 02 RW 01 ,-6.9064,107.61493,107.61493,-6.9064,25,Pole,IMB NY RELEASED
+265,Bandung Wetan,Taman Sari,PT. Xl Axiata, Tbk,Jl. H. Juanda (Dago) No. 3 RT 01/01,-6.90606,107.61041,-6.90606,107.61041,9,Pole,503.645/SI-1529 Disbang/2006
+266,Bandung Wetan,Citarum,PT. Xl Axiata, Tbk,Grand Hotel Serela Jl. Llre. Martadinata (Riau) No. 56,-6.90631,107.61998,-6.90631,107.61998,9,Pole,503.645/SI-0666 Disbang/07
+267,Bandung Wetan,Citarum,Hutchinson,Jl. Martadinata No. 56,-6.906308,107.619976,107.619976,-6.906308,15,Pole,-
+268,Bandung Wetan,Cihapit,Naragita,Jl. Taman Cibeunying,-6.90634,107.62495,107.62495,-6.90634,6,Pole,-
+269,Bandung Wetan,Taman Sari,Naragita,Jl. Cilaki Depan Gedung Kantar Pos Gedung Sate ,-6.9018,107.62003,107.62003,-6.9018,25,Kaki 3,-
+270,Batununggal,Kacapiring,Daya Mitra Telekomunikasi,Jl. Ahmad Yani No. 248,-6.917212,107.627542,107.627542,-6.917212,25,4 Kaki,IMB - 503.645.4/351/BPMPPT/2009
+271,Batununggal,Cibangkong,Daya Mitra Telekomunikasi,Jl. Cibangkong,-6.928094,107.632997,107.632997,-6.928094,24,Pole,IMB-503.645/1491/BPPT
+272,Batununggal,Kacapiring,Daya Mitra Telekomunikasi,Jl. Jendral Ahmad Yani No. 456,-6.909481,107.641687,107.641687,-6.909481,12,Pole,0
+273,Batununggal,Cibangkong,Daya Mitra Telekomunikasi,Jl. Cigondewah Kolot,-6.92474,107.63012,107.63012,-6.92474,6,Pole,-
+274,Batununggal,Binong,PT. Indosat, Tbk,Babakan Jati (Kiara Condong - Samping Borma Swalayan)Bi,-6.942666,107.641486,107.641486,-6.942666,32,4 Kaki,503.645/51-3067 Disbang/2002
+275,Batununggal,Kacapiring,PT. Indosat, Tbk,Ji. Ahmad Yani No. 312,-6.913528,107.634465,107.634465,-6.913528,25,4 Kaki,503.644.2/51-898/Dpb TAHUN 1997
+276,Batununggal,Gumuruh,PT. Indosat, Tbk,Jl. Terusan Rancagoong II RT  05/04,-6.93174,107.637298,107.637298,-6.93174,55,4 Kaki,503 645.3/SI-1557Disbang/2002
+277,Batununggal,Binong,PT. Tower Bersama Group,Jl. Kiara Condong No. 350,-6.93696,107.642,107.642,-6.93696,26,4 Kaki,503.645/SI-2194 Disbang/2004
+278,Batununggal,Batununggal,PT. Tower Bersama Group,Jl. Suradharma,-6.95166,107.635,107.635,-6.95166,36,Pole,503.645/SI046 DISBANG/2005
+279,Batununggal,Samoja,PT. Telkomsel,Jl. Gatot Subroto No. 133,-6.924539,107.627008,107.627008,-6.924539,29,4 Kaki,-
+280,Batununggal,Cibangkong,PT. Telkomsel,Jl. Jendral Gatot Subroto,-6.925313,107.637204,107.637204,-6.925313,10,Pole Rooftop,-
+281,Batununggal,Kebon Gedang,PT. Telkomsel,Blok Pintu II No. 46 / 126 C RT 04/04\,-6.92524,107.6441,107.6441,-6.92524,6,Pole,NO NEED
+282,Batununggal,Gumuruh,PT. Telkomsel,Jl. Soekarno hatta No. 549 RT 01 RW 012 ,-6.94628,107.63723,107.63723,-6.94628,4.2,Pole,NO NEED
+283,Batununggal,Binong,PT. Telkomsel,Jl. n.BiNo. ngjati RT 02 RW  04 ,-6.935,107.6399,107.6399,-6.935,4.2,Pole,NO NEED
+284,Batununggal,Cibangkong,PT. Telkomsel,Jl. Cibangkong Lor RT  04 RW  011 ,-6.922738,107.633628,107.633628,-6.922738,6,Pole,NO NEED
+285,Batununggal,Kacapiring,PT. Protelindo,Jl. Jend. A Yani No. 358 RT  03/07 Kodepos 40271,-6.91247,107.63664,107.63664,-6.91247,40,Rooftop Mt,503.645/SI-0693 Disbang/2007
+286,Batununggal,Kacapiring,PT. Protelindo, Tbk,Jl. Sukabumi Dalam No. 14B/123 RT 08/06 ,-6.91762,107.63674,107.63674,-6.91762,15,Pole,-
+287,Batununggal,Binong,PT. Protelindo, Tbk,Jl. Babakan Jati II RT 04 RW  08 ,-6.94193,107.64069,107.64069,-6.94193,12,Pole,503.645/2423/BPPT
+288,Batununggal,Samoja,PT. Protelindo, Tbk,Jl. Karees No. 36/118 D RT 01 RW  04 ,-6.92327,107.62814,107.62814,-6.92327,12,Pole,503.645/1372/BPPT
+289,Batununggal,Kebon Gedang,PT. Solusi Tunas Pratama,-,-6.92859,107.64407,107.64407,-6.92859,15,Pole,503.645/897/BPPT
+290,Batununggal,Gumuruh,PT. Solusi Tunas Pratama,Jl. Ibrahim Adjie No. 362 ,-6.9379,107.64203,107.64203,-6.9379,9,Pole,503.645/750/BPPT
+291,Batununggal,Gumuruh,PT. Solusi Tunas Pratama,Jl. Libra V No. 11. ,-6.93844,107.63631,107.63631,-6.93844,9,Pole,503.645/2157/BPPT
+292,Batununggal,Cibangkong,PT. Solusi Tunas Pratama,Surya Tjong  Store Jl. Jend. Gatot Subroto No. 245 RT 01 RW  03.,-6.92601,107.63358,107.63358,-6.92601,20,4 Kaki,503.645/SI-0794 Disbang/III-07
+293,Batununggal,Bandung Kulon,PT. Solusi Tunas Pratama,Jl. Sukarno  Hatta No. 450 Bandung,-6.95121,107.62291,107.62291,-6.95121,60,4 Kaki,503.645/41/BPPT/2010
+294,Batununggal,Binong,PT. Solusi Tunas Pratama,Jl. Soekarno  Hatta Gang.H.Kurdi RT 02/10 ,-6.944559,107.63921,107.63921,-6.944559,20,Pole,Proses
+295,Batununggal,Kacapiring,PT. Centratama Menara Indonesia,Jl. Garut I No. 1 RT 02 RW  04 ,-6.917556,107.6319,107.6319,-6.917556,24,4 Kaki,IMB RELEASED
+296,Batununggal,Gumuruh,PT. Centratama Menara Indonesia,Jl. Gatot Subroto No. 180Ê RT 6/3 ,-6.929419,107.638738,107.638738,-6.929419,25,4 Kaki,503.645/1229/BPPT 2010
+297,Batununggal,Cibangkong,PT. Centratama Menara Indonesia,Jl. Laswi 98 Bandung,-6.9219,107.63033,107.63033,-6.9219,32,Pole,IMB RELEASED
+298,Batununggal,Kebon Waru,PT. Xl Axiata, Tbk,Jl. Jakarta No. 73 RT 05 RW  03 ,-6.913833333,107.6425278,-6.913833333,107.6425278,15,Pole,503.645/3673/BPPT
+299,Batununggal,Gumuruh,PT. Xl Axiata, Tbk,Jl. Gumuruh No. 87 RT  01 RW  06 ,-6.933888889,107.638,-6.933888889,107.638,30,3 Kaki,503.645/SI-050 Disbang/05
+300,Batununggal,Gumuruh,PT. Xl Axiata, Tbk,Jl. Jatimulya 3 No. 96 02RW  11 ,-6.94275,107.6364722,-6.94275,107.6364722,31,3 Kaki,503.645/SI-0801 DISBANG/2007
+301,Batununggal,Sukamaju,PT. Xl Axiata, Tbk,Jl. Ahmad Yani No. 326 RT 01/ RW  07 Bandung,-6.9134,107.63497,-6.9134,107.63497,25,3 Kaki,503.645/SI-2864 Disbang/2006
+302,Batununggal,Cibangkong,Hutchinson,Bandung Super Mall Jl. Gatot Subroto 289 Bandung,-6.924972,107.636639,107.636639,-6.924972,15,Pole,-
+303,Batununggal,Cibangkong,Hutchinson,Jl. Gatot Subroto No. 289,-6.92533,107.63715,107.63715,-6.92533,6,Pole,-
+304,Bojongloa Kaler,Babakan Asih,PT. Xl Axiata, Tbk,Jl. Babakan Tarogong No. 110 ,-6.9328,107.59279,-6.9328,107.59279,25,3 Kaki,503.645/SI-2328 Disbang/2006
+305,Bojongloa Kaler,Babakan Asih,Daya Mitra Telekomunikasi,Jl. Kopo No. 86 RT 01/07,-6.931463,107.596706,107.596706,-6.931463,6,Pole,IMB - 645/08/415.21/2012
+306,Bojongloa Kaler,Babakan Asih,Daya Mitra Telekomunikasi,Jl. Babakan Taruyong,-6.932969,107.592667,107.592667,-6.932969,15,3 Kaki,IMB - 503.645/4787/BPPT
+307,Bojongloa Kaler,Babakan Tarogong,Daya Mitra Telekomunikasi,Jl. Peta No. 252 D,-6.927391,107.586139,107.586139,-6.927391,9,Pole,RESI - 555/497-DISKOMINFO
+308,Bojongloa Kaler,Suka Asih,Daya Mitra Telekomunikasi,Jl. Babakan Ciparay,-6.930082,107.58484,107.58484,-6.930082,3,Pole,-
+309,Bojongloa Kaler,Kopo,PT. Indosat, Tbk,Jl. Babakan Ciparay No. 299 RT 01/011,-6.941879,107.584552,107.584552,-6.941879,42,4 Kaki,503.645/S1-0253 Disbang/02
+310,Bojongloa Kaler,Babakan Tarogong,PT. Indosat, Tbk,Blok Petir RW  05,-6.931292,107.589633,107.589633,-6.931292,42,4 Kaki,503.643.3/51-2569/Dpb TAHUN 1998
+311,Bojongloa Kaler,Kopo,PT. Indosat, Tbk,Jl. Raya Kopo Depan Pintu Tol Kopo,-6.956352,107.581486,107.581486,-6.956352,52,4 Kaki,503.643.3/S1-1663/Dpb TAHUN 1997
+312,Bojongloa Kaler,Suka Asih,PT. Tower Bersama Group,Jl. Titian Kencana,-6.93355,107.589,107.589,-6.93355,26,4 Kaki,503.645/SI-3119
+313,Bojongloa Kaler,Kopo,PT. Tower Bersama Group,Jl. Kopo,-6.93864,107.589,107.589,-6.93864,53,4 Kaki,503.645/SI-043 Disbang/2005
+314,Bojongloa Kaler,Kopo,PT. Telkomsel,Jl. Soekarno  Hatta No. 70 I,-6.946097,107.590198,107.590198,-6.946097,20,4 Kaki,-
+315,Bojongloa Kaler,Babakan Tarogong,PT. Telkomsel,Jl. Mutiara Terusan Pasir Koja ,-6.92954,107.59359,107.59359,-6.92954,6,Pole,NO NEED
+316,Bojongloa Kidul,Situsaeur,PT. Xl Axiata, Tbk,Jl. Komplek Muara (Depan No. 21) Sebelah Kantor Camat Bojongloa Kidul,-6.941916667,107.5974722,-6.941916667,107.5974722,30,4 Kaki,503.645/878/BPPT
+317,Bojongloa Kaler,Suka Asih,PT. Xl Axiata, Tbk,Jl. Raya Wachid Hasyim (Kopo) ,-6.941444444,107.5882222,-6.941444444,107.5882222,30,3 Kaki,503.645/838/BPPT
+318,Bojongloa Kaler,Jamika,PT. Xl Axiata, Tbk,Jl. Jamika No. 96 RT 05 RW  07 ,-6.921833333,107.5834444,-6.921833333,107.5834444,15,3 Kaki,503.645/SI-3303 DISBANG/2005
+319,Bojongloa Kidul,Mekar Wangi,Daya Mitra Telekomunikasi,Jl. Mekar Puspita No. 88,-6.950684,107.598683,107.598683,-6.950684,6,Pole,IMB - 645/399/IV/2012
+320,Bojongloa Kidul,Mekar Wangi,Daya Mitra Telekomunikasi,Babakan Muslimin RT 03/06,-6.955549,107.608889,107.608889,-6.955549,12,Pole,IMB - 503.645/1721/BPPT
+321,Bojongloa Kidul,Situsaeur,PT. Indosat, Tbk,Jl. Peta No. 75 RT 12/03 Situsaeur,-6.937988,107.598223,107.598223,-6.937988,25,4 Kaki,503.645/SI-0331 Disbang/2003
+322,Bojongloa Kidul,Kebon Lega,PT. Indosat, Tbk,Jl. Cibaduyut No. 53Kebon Lega,-6.949694,107.594605,107.594605,-6.949694,32,4 Kaki,503.545/SI-1771 Disbang/2001
+323,Bojongloa Kidul,Situsaeur,PT. Tower Bersama Group,Jl. Leuwi Panjang No. 90  RT 01/06,-6.94289,107.596,107.596,-6.94289,25,4 Kaki,503.645/1136/BPPT
+324,Bojongloa Kidul,Situsaeur,PT. Tower Bersama Group,Jl. Gaung Daya Bakti 3 RT 10/04,-6.94664,107.595,107.595,-6.94664,12,Mcp,503.645/2419/BPPT
+325,Bojongloa Kidul,Cibaduyut,PT. Telkomsel,Jl. Cibaduyut Raya No. 142,-6.955679,107.592709,107.592709,-6.955679,12,3 Kaki,-
+326,Bojongloa Kidul,Situsaeur,PT. Telkomsel,Jl. Peta No. 123,-6.937215,107.595281,107.595281,-6.937215,20,3 Kaki,-
+327,Bojongloa Kidul,Cibaduyut Wetan,PT. Telkomsel,Jl. Mekar Molek No. 21,-6.956559,107.603461,107.603461,-6.956559,32,4 Kaki,-
+328,Bojongloa Kidul,Mekar Wangi,PT. Telkomsel,Visi Book Store Jl. MekarÊLaksana No.  1 RT 02 RW  06,-6.953934,107.605881,107.605881,-6.953934,6,Pole,NO NEED
+329,Bojongloa Kidul,Mekar Wangi,PT. Telkomsel,Kp. Warna Cinta RT  04 RW  03 ,-6.95464,107.599998,107.599998,-6.95464,6,Pole,NO NEED
+330,Bojongloa Kidul,Kebon Lega,PT. Xl Axiata, Tbk,Jl. Soekarno  Hatta No. 162 ,-6.948222222,107.5978611,-6.948222222,107.5978611,15,3 Kaki,503.645/SI-2647/Disbang/2006
+331,Bojongloa Kaler,Babakan Tarogong,PT. Protelindo, Tbk,Jl. Amd 10 No. 17 A RT 06 RW  07  Kod.Pos  40232,-6.93055,107.59183,107.59183,-6.93055,35,3 Kaki,503.645/SI-0099/Disbang/2007
+332,Bojongloa Kaler,Suka Asih,PT. Protelindo, Tbk,Jl. Babakan Ciparay  No.  195 RT  07 RW  07 Kode Pos 40233,-6.93266,107.58497,107.58497,-6.93266,35,3 Kaki,503.645/SI-0830Disbang/2007
+333,Bojongloa Kaler,Kopo,PT. Protelindo, Tbk,Jl. Pusri RT  04 RW  11 No.  ,-6.94245,107.58635,107.58635,-6.94245,35,3 Kaki,503.645/SI-3512Disbang/2006
+334,Bojongloa Kaler,Babakan Asih,PT. Protelindo, Tbk,Jl. K. H. Wahid Hasyim / Kopo No. 218 RT 01 RW  04 ,-6.93653,107.59516,107.59516,-6.93653,25,4 Kaki,503.645/3518/BPPT
+335,Bojongloa Kaler,Jamika,PT. Protelindo, Tbk,Jl. Luna Iv No. 8 RT 015 RW  04 ,-6.92061,107.59215,107.59215,-6.92061,12,Pole,503.645/2399/BPPT
+336,Bojongloa Kaler,Babakan Asih,PT. Protelindo, Tbk,Jl. Kopo No. 178 RT  04 RW  03 ,-6.9344,107.59575,107.59575,-6.9344,6,Pole,-
+337,Bojongloa Kaler,Suka Asih,PT. Protelindo, Tbk,Gg Pesantren/Jl. PetaRT 01/RW 03,-6.93454,107.59227,107.59227,-6.93454,31,3 Kaki,503.645/364/BPPT
+338,Bojongloa Kaler,Jamika,PT. Solusi Tunas Pratama,Jl. Jendral Sudirman 511 ,-6.91904,107.5869,107.5869,-6.91904,15,Pole,503.645/892/BPPT
+339,Bojongloa Kaler,Jamika,PT. Solusi Tunas Pratama,Jl. Pangarsih No.  142 RT 10 RW  04 ,-6.922388889,107.5917778,107.5917778,-6.922388889,20,3 Kaki,0363/8.1/31.71.05.1003/-1.785.51/2016
+340,Bojongloa Kaler,Suka Asih,Hutchinson,Jl. Peta No. 25E RT 03/RW 06,-6.92727,107.58629,107.58629,-6.92727,12,Pole,-
+341,Bojongloa Kidul,Cibaduyut,PT. Protelindo,Jl. Cibaduyut Raya No. 85-87,-6.95068,107.5941,107.5941,-6.95068,6,Pole,tidak diperlukan IMB
+342,Bojongloa Kidul,Kebon Lega,PT. Protelindo,Jl. Karasak Barat No. 5B RT 01 RW  09 ,-6.94882,107.60233,107.60233,-6.94882,9,Pole,503.645/0190/BPPT
+343,Bojongloa Kidul,Mekar Wangi,PT. Protelindo,Jl. Komplek Mekar Wangi RT 3 RW  3,-6.95328,107.59968,107.59968,-6.95328,42,Sst,503.645/SI-2490 Disbang/2006
+344,Bojongloa Kidul,Kebon Lega,PT. Protelindo, Tbk,Jl. Cibaduyut Raya No. 55A RT 01 RW  10,-6.94964,107.59406,107.59406,-6.94964,20,3 Kaki,503.645/SI-1532 Disbang/07
+345,Bojongloa Kidul,Situsaeur,PT. Protelindo, Tbk,Jl. K.H Wahid Hasim No. 235 RT  02 RW  06 Kode Pos 40234 ,-6.93964,107.59364,107.59364,-6.93964,20,3 Kaki,503.645/SI-0466Disbang/2007
+346,Bojongloa Kidul,Cibaduyut,PT. Protelindo, Tbk,Jl. Cibaduyut Raya No. 142 RT 01 RW  05,-6.95623,107.59255,107.59255,-6.95623,30,3 Kaki,503.645/2099/BPPT
+347,Bojongloa Kidul,Situsaeur,PT. Protelindo, Tbk,Gg. Gagak Handoko No. 66/198 B RT 04 RW  01 ,-6.93353,107.5976,107.5976,-6.93353,25,4 Kaki,503.645/4812/BPT
+348,Bojongloa Kidul,Kebon Lega,PT. Protelindo, Tbk,Jl. Leuwisari X No. 28 RT 01 RW  08 ,-6.94594,107.59833,107.59833,-6.94594,12,Pole,503.645/0187/BPPT
+349,Bojongloa Kidul,Kebon Lega,PT. Protelindo, Tbk,Jl. Kopo No. 367 RT 01 RW  07 ,-6.9466,107.58945,107.58945,-6.9466,12,Pole,503.645/4300/BPPT
+350,Bojongloa Kidul,Cibaduyut,PT. Protelindo, Tbk,Jl. Sauyunan Mas V No. 1 ,-6.95126,107.58988,107.58988,-6.95126,12,Pole,663.10/0009/IMBT/XII/2015/BPPT
+351,Bojongloa Kidul,Situsaeur,PT. Protelindo, Tbk,Jl. Leuwi Anyar I No. 33 ,-6.94386,107.59479,107.59479,-6.94386,12,Pole,663.10/0014/IMBT/XII/2015/BPPT
+352,Bojongloa Kidul,Mekar Wangi,PT. Protelindo, Tbk,Jl. Mekar Agung No. 1-3 RT  02 RW  04 ,-6.95562,107.60651,107.60651,-6.95562,12,Pole,503.645/0188/BPPT
+353,Bojongloa Kidul,Kebon Lega,PT. Protelindo, Tbk,Komplek PeRT okoan Istana MekaRW angi Jl. Karasak Barat Mekar Mas Kav. 5E ,-6.94889,107.60221,107.60221,-6.94889,6,Pole,-
+354,Bojongloa Kidul,Kebon Lega,PT. Protelindo, Tbk,Jl. Muarasari I No. 41 RT  02 RW  11 ,-6.94457,107.59996,107.59996,-6.94457,6,Pole,-
+355,Bojongloa Kidul,Situsaeur,PT. Protelindo, Tbk,Jl. Leuwi Panjang Gg. H. Samsudin RT 09 RW 04 ,-6.94505,107.59394,107.59394,-6.94505,6,Pole,-
+356,Bojongloa Kidul,Cibaduyut Wetan,PT. Protelindo, Tbk,Jl. AnggacarangRT 01/04,-6.9571,107.603,107.603,-6.9571,31,3 Kaki,503.645/SI-1141DIsbang/2006
+357,Bojongloa Kidul,Cibaduyut Kidul,PT. Solusi Tunas Pratama,Jl. Rancamaya ,-6.9555,107.5956111,107.5956111,-6.9555,32,3 Kaki,648.1/120/BPPT/2016
+358,Bojongloa Kidul,Mekar Wangi,PT. Solusi Tunas Pratama,Kompleks Perumahan Babakan Muslimin No. 40 RT 03/RW 06,-6.955555556,107.6091389,107.6091389,-6.955555556,6,Pole,640/155/IMB/DPMPTSP/V/2017
+359,Bojongloa Kidul,Kebon Lega,PT. Solusi Tunas Pratama,Jl. Cibaduyut Lama No. 37 RT  07 RW  07 ,-6.948166667,107.5907222,107.5907222,-6.948166667,31,3 Kaki,02/KEP/IMB-MENARA/DPMPTP-2017
+360,Bojongloa Kidul,Situsaeur,PT. Centratama Menara Indonesia,Jl. Leuwi Panjang No. 34 RT 07 RW  07 ,-6.93988,107.59639,107.59639,-6.93988,9,Pole,503.645/3260/BPPT 2014
+361,Bojongloa Kidul,Cibaduyut Kidul,PT. Xl Axiata, Tbk,Jl. Ciparay Tengah No. 1  RT 05 RW 01 ,-6.96207,107.59291,-6.96207,107.59291,42,3 Kaki,503.645/SI-2487 Disbang/2006
+362,Bojongloa Kidul,Kebon Lega,Hutchinson,Jl. Karasak No. 63 RT 05/RW 05,-6.94988,107.60626,107.60626,-6.94988,9,Pole,-
+363,Buahbatu,Sekejati,PT. Protelindo,Jl. Cijawura Girang Raya RT 01 RW  014,-6.9442,107.64861,107.64861,-6.9442,30,Sst,503.645/0462/BPPT
+364,Buahbatu,Cijaura,PT. Protelindo,Jl. Margacinta No. 52 A RT  01 RW  04,-6.95494,107.64299,107.64299,-6.95494,6,Camouflage,tidak diperlukan IMB
+365,Buahbatu,Sekejati,PT. Protelindo, Tbk,Jl. Rancabolang No. 16,-6.94628,107.66242,107.66242,-6.94628,35,4 Kaki,503.645/1740/BPPT
+366,Buahbatu,Jatisari,PT. Protelindo, Tbk,Jl. Kawaluyaan RT 06 RW  06,-6.93728,107.66224,107.66224,-6.93728,25,4 Kaki,503.645/684/BPPT
+367,Buahbatu,Sekejati,PT. Protelindo, Tbk,Jl. Cijawura Girang II/3 RT 02 RW  14 ,-6.94745,107.64632,107.64632,-6.94745,12,Pole,503.645/2581/BPPT
+368,Buahbatu,Jatisari,PT. Protelindo, Tbk,Jl. Permata Kawaluyaan D-6 RT 03 RW  04 ,-6.9313,107.66301,107.66301,-6.9313,21,Pole,503.645/0393/BPPT
+369,Buahbatu,Margasari,PT. Protelindo, Tbk,Jl. Margasari No. 221A RT 04 RW  10 ,-6.95783,107.65995,107.65995,-6.95783,43,3 Kaki,503.645/0849/BPPT
+370,Buahbatu,Cijaura,PT. Protelindo, Tbk,Jl. Cijawura Hilir (Gg. 3) RT 06 RW  012 ,-6.96332,107.65709,107.65709,-6.96332,20,4 Kaki,503.645/0277/BPPT
+371,Buahbatu,Jatisari,PT. Protelindo, Tbk,Jl. Sanggar Kencana Utama ,-6.93847,107.66679,107.66679,-6.93847,12,Pole,663.10/0007/IMBT/XI/2015/BPPT
+372,Buahbatu,Sekejati,PT. Protelindo, Tbk,Jl. Margahayu Raya Blok L2 No. 125A ,-6.95005,107.65762,107.65762,-6.95005,27,4 Kaki,663.10/0011/IMBT/XI/2015/BPPT
+373,Buahbatu,Cijaura,PT. Centratama Menara Indonesia,Cijawura Hilir RT 04 RW  12 ,-6.96594,107.66012,107.66012,-6.96594,42,4 Kaki,IMB RELEASED
+374,Buahbatu,Margasari,PT. Xl Axiata, Tbk,Jl. Ciwastra RT  04 RW  01 ,-6.95865,107.65773,-6.95865,107.65773,42,3 Kaki,503.645/SI-2742 Disbang/06
+375,Buahbatu,Sekejati,PT. Permata Karya Perdana,Jl. Jupiter Ix RT 06 RW 02,-6.94584,107.66022,107.66022,-6.94584,18,Pole,663.10/0005/IMBT/VI/2016/BPPT 13 JUN 2016
+376,Buahbatu,Cijaura,Naragita,Jl. Margawangi Raya 1 No. 3 RT  03/04,-6.96254,107.65203,107.65203,-6.96254,36,Pole,-
+377,Buahbatu,Cijaura,Daya Mitra Telekomunikasi,Jl. Kencana Wangi Utara,-6.959432,107.652494,107.652494,-6.959432,42,4 Kaki,IMB - 503.645/2597/BPPT
+378,Buahbatu,Margasari,Daya Mitra Telekomunikasi,Jl. Cipagalo Girang No. 81,-6.953073,107.64789,107.64789,-6.953073,18,Pole,IMB - 503.645/0212/BPPT
+379,Buahbatu,Jatisari,Daya Mitra Telekomunikasi,Jati Sari,-6.93494,107.6631357,107.6631357,-6.93494,20,Pole,IMB - 663.10/0014/IMBT/XII/2016/BPPT
+380,Buahbatu,Cijaura,Daya Mitra Telekomunikasi,Jl. Cijaura Girang No. 2,-6.944564,107.648057,107.648057,-6.944564,10,3 Kaki,IMB - 663.10/0008/IMBT/VI/2016/BPPT
+381,Buahbatu,Margasari,PT. Indosat, Tbk,Ji.Cipagalo Girang RT 02/03],-6.950068,107.647887,107.647887,-6.950068,52,4 Kaki,503.645/51-0201 Disbang/2002
+382,Buahbatu,Margasari,PT. Tower Bersama Group,Jl. Rancasawo,-6.95976,107.671,107.671,-6.95976,52,4 Kaki,503.643.3/SI-1682/DPB TAHUN 1997
+383,Buahbatu,Cijaura,PT. Tower Bersama Group,Jl. Cijaura Ilir RT 15/06,-6.96045,107.66,107.66,-6.96045,9,Pole,REKOM DISHUBKOMINFO DAN KRK DONE,  PENGESAHAN IMB
+384,Buahbatu,Sekejati,PT. Tower Bersama Group,Jl. Cijawura Girang RT 13/08,-6.9477,107.653,107.653,-6.9477,36,4 Kaki,503.645/2657/BPPT
+385,Buahbatu,Margasari,PT. Tower Bersama Group,Jl. Terusan Ciwastra,-6.95473,107.64,107.64,-6.95473,31,3 Kaki,503.645/3465/BPPT
+386,Buahbatu,Jatisari,PT. Telkomsel,Jl. Soekarno  Hatta No. 702,-6.938452,107.661227,107.661227,-6.938452,N,4 Kaki,IMB-Bdg 2009_15
+387,Buahbatu,Cijaura,PT. Telkomsel,Jl. Margaasih No. 3B,-6.958473,107.653295,107.653295,-6.958473,52,4 Kaki,-
+388,Buahbatu,Margasari,PT. Telkomsel,Jl. Kiarasari 1,-6.94899,107.644093,107.644093,-6.94899,36,4 Kaki,-
+389,Buahbatu,Jatisari,PT. Telkomsel,Jl. Komplek Kpad Pindad Timur,-6.939251,107.654966,107.654966,-6.939251,42,4 Kaki,-
+390,Buahbatu,Sekejati,PT. Telkomsel,Jl. Rancabolang Margahayu Raya,-6.952211,107.661372,107.661372,-6.952211,52,4 Kaki,-
+391,Buahbatu,Cijaura,PT. Telkomsel,Jl. Terusan Ibrahim Adjie No. 46 RT 04 RW 01 ,-6.94755,107.64134,107.64134,-6.94755,6,Pole,NO NEED
+392,Buahbatu,Cijaura,PT. Telkomsel,Jl. Marga Baru II No. 5,-6.95587,107.64408,107.64408,-6.95587,6,Pole,NO NEED
+393,Buahbatu,Cijaura,PT. Telkomsel,Jl. Batu Permata I No. 24 RT 03 RW  07,-6.957058,107.647876,107.647876,-6.957058,6,Pole,NO NEED
+394,Buahbatu,Sekejati,PT. Telkomsel,Rancabolang Barat Blk.S II No. 49 RT 05 RW 011 ,-6.945409,107.655765,107.655765,-6.945409,6,Pole,NO NEED
+395,Buahbatu,Sekejati,PT. Solusi Tunas Pratama,Jl. Rancabolang RT 06 RW 09 ,-6.952416667,107.6619167,107.6619167,-6.952416667,30,4 Kaki,30/42217/8107.01/51/PMDN/VIII/2016
+396,Buahbatu,Cijaura,PT. Solusi Tunas Pratama,Jl. Kompleks Pasir Pagar Blok Rq No. 7 RT 02/RW 14,-6.965666667,107.6603889,107.6603889,-6.965666667,9,Pole,-
+397,Cibeunying Kidul,Cikutra,Daya Mitra Telekomunikasi,Jl. Jakarta No. 73,-6.913858,107.642545,107.642545,-6.913858,12,Pole,IMB - 645/398/IV/2012
+398,Cibeunying Kidul,Sukapada,Daya Mitra Telekomunikasi,Jl. Bojong Koneng No. 12 RT 04 RW  12 ,-6.89435,107.6437193,107.6437193,-6.89435,6,Pole,-
+399,Cibeunying Kidul,Cicadas,PT. Indosat, Tbk,Yin Pramukha VII Komplek Perumahan Pusenif,-6.904531,107.637677,107.637677,-6.904531,42,4 Kaki,503.645/81-3344 Disbang/2003
+400,Cibeunying Kidul,Pasirlayung,PT. Indosat, Tbk,Jl. Jendral A.Yani No. 995 RT 01 RW 04 Cicaheum,-6.902114,107.658064,107.658064,-6.902114,6,Pole,503.644.2/SI-0930-Dpb/1998
+401,Cibeunying Kidul,Pasirlayung,PT. Tower Bersama Group,Jl. Babakan Gempol RT 04/04,-6.90012,107.651,107.651,-6.90012,30,Pole,503.645/2643/BPPT
+402,Cibeunying Kidul,Sukapada,PT. Tower Bersama Group,Bojongkoneng Atas,-6.88972,107.645,107.645,-6.88972,42,4 Kaki,503.645/1350/BPPT
+403,Cibeunying Kidul,Pasir Hayong,PT. Tower Bersama Group,Jl. Jendral Ahmad Yani No. 635,-6.90792,107.644,107.644,-6.90792,18,Pole,503.645/0414/BPPT
+404,Cibeunying Kidul,Cicadas,PT. Tower Bersama Group,Jl. Jendral Ahmad Yani No. 393,-6.91126,107.638,107.638,-6.91126,26,4 Kaki,503.645/SI-1784 Disbang/2004
+405,Cibeunying Kidul,Cicadas,PT. Tower Bersama Group,Jl. Yudha Watsu Pramuka,-6.90355,107.637,107.637,-6.90355,36,4 Kaki,503.645/2015/BPPT
+406,Cibeunying Kidul,Pasir Hayong,PT. Telkomsel,Jl. Jendral Ahmad Yani No. 971,-6.902067,107.657469,107.657469,-6.902067,20,3 Kaki,-
+407,Cibeunying Kidul,Cicadas,PT. Telkomsel,Jl. Jendral Ahmad Yani,-6.910643,107.639463,107.639463,-6.910643,20,3 Kaki,-
+408,Cibeunying Kidul,Cigadung,PT. Telkomsel,Jl. Cigadung Raya Baru,-6.86769,107.623974,107.623974,-6.86769,42,4 Kaki,-
+409,Cibeunying Kidul,Sukapada,PT. Telkomsel,Jl. Puri Asri RT 09/11,-6.896857,107.645694,107.645694,-6.896857,42,4 Kaki,-
+410,Cibeunying Kidul,Padasuka,PT. Telkomsel,Jl. Jend A. Yani No. 689 RT 02/07 ,-6.90682,107.64633,107.64633,-6.90682,6,Pole,NO NEED
+411,Cibeunying Kidul,Pasirlayung,PT. Telkomsel,Jl. Padasuka Parir LayungRT 02 RW  03 ,-6.89234,107.65776,107.65776,-6.89234,4.2,Pole,NO NEED
+412,Cibeunying Kidul,Cicadas,PT. Telkomsel,Jl. Suka Mulus No.  47 RT 01 RW  09 Ê,-6.90828,107.63764,107.63764,-6.90828,6,Pole,NO NEED
+413,Cibeunying Kidul,Cikutra,PT. Telkomsel,Jl. Sukarajin 2 Gg Sastro Dijarjo No.  10 RT 5/12 ,-6.90233,107.63968,107.63968,-6.90233,6,Pole,NO NEED
+414,Cibeunying Kidul,Padasuka,PT. Telkomsel,Jl. Neglasari Selatan RT 03 RW 04 ,-6.90213,107.64758,107.64758,-6.90213,6,Pole,NO NEED
+415,Cibeunying,Cigadung,PT. Protelindo, Tbk,Jl. Ranca Kendal ,-6.87568,107.62811,107.62811,-6.87568,42,3 Kaki,503.645/644/BPMPPT/2008
+416,Cibeunying Kidul,Pasirlayung,PT. Xl Axiata, Tbk,Jl. Padasuka Gg.Dongdak RT 05 RW 01 ,-6.88764,107.66123,-6.88764,107.66123,42,4 Kaki,503.645/SI-2743 Disbang/2006
+417,Cibeunying,Cigadung,PT. Permata Karya Perdana,Jl. Cigadung Raya Timur No.  42,-68,898,107.63017,107.63017,-68,898,16,Pole,563.10/0006/IMBT/XI/2016/BPPT 10 NOP 2016
+418,Cibeunying Kaler,Cihaurgeulis,PT. Protelindo,Apotik Lia FarmaJl. Surapati No. 68 RT 02 RW  04,-6.90008,107.62832,107.62832,-6.90008,6,Pole,503.645/SI-2269 Disbang/2004
+419,Cibeunying Kaler,Sukaluyu,PT. Protelindo, Tbk,Jl. Gagak No. 126 RT 01 RW  04,-6.89575,107.62787,107.62787,-6.89575,25,4 Kaki,503.645/2100/BPPT
+420,Cibeunying Kaler,Cigadung,PT. Protelindo, Tbk,Masjid Al-Muslim Jl. Cibeunying Permai Raya No. 38 RT 04/RW  011. ,-6.88768,107.62822,107.62822,-6.88768,6,Pole,-
+421,Cibeunying Kaler,Cigadung,PT. Protelindo, Tbk,Jl. Cukang Kawung No. 70 RT 01 RW  14 ,-6.88846,107.63407,107.63407,-6.88846,12,Pole,503.645/0175/BPPT
+422,Cibeunying Kaler,Cigadung,PT. Protelindo, Tbk,Jl. Cigadung Raya Tengah No. 66 RT 02 RW  06 ,-6.88212,107.62769,107.62769,-6.88212,12,Pole,503.645/1694/BPPT
+423,Cibeunying Kaler,Cigadung,PT. Protelindo, Tbk,Jl. Rancakendal 1B RT 05 RW  01 ,-6.87586,107.62807,107.62807,-6.87586,40,3 Kaki,503.645/1693/BPPT
+424,Cibeunying Kaler,Sukaluyu,PT. Protelindo, Tbk,Jl. Sidomukti No. 58 RT 02 RW  07 ,-6.89357,107.63112,107.63112,-6.89357,12,Pole,503.645/3034/BPPT
+425,Cibeunying Kaler,Cibeunying Kaler,PT. Protelindo, Tbk,Jl. Manteron No. 1B RT 06 RW 11 ,-6.89638,107.63069,107.63069,-6.89638,9,Pole,503.645/927/BPPT
+426,Cibeunying Kaler,Cigadung,PT. Protelindo, Tbk,Gg. Masjid Al-Ikhlas RT  02 RW  08 ,-6.88318,107.62675,107.62675,-6.88318,6,Pole,-
+427,Cibeunying Kaler,Cihaurgeulis,PT. Protelindo, Tbk,Jl. Supratman  No. 90  ,-6.90275,107.62762,107.62762,-6.90275,30,4 Kaki,503.645/SI-IMB-2090-Distarcip/II-8
+428,Cibeunying Kaler,Sukaluyu,Daya Mitra Telekomunikasi,Jl. Manteron,-6.896353,107.630722,107.630722,-6.896353,10,4 Kaki,IMB - 503.645/1754/BPPT
+429,Cibeunying Kaler,Neglasari,PT. Indosat, Tbk,Jl. Cikutra Baru Vi (Blok Sekejati) RT  03/05,-6.896255,107.641024,107.641024,-6.896255,32,4 Kaki,503.645/51-0255 Disbang/2002
+430,Cibeunying Kaler,Neglasari,PT. Tower Bersama Group,Jl. Cikutra Baru Iv,-6.8957,107.64,107.64,-6.8957,42,4 Kaki,503.645/SI-1581 Disbang/2005
+431,Cibeunying Kaler,Cigadung,PT. Tower Bersama Group,Cigadung Setra 1 No. 28 RT 01/10,-6.88676,107.629,107.629,-6.88676,25,4 Kaki,503.645/2436/BPPT
+432,Cibeunying Kaler,Cigadung,PT. Tower Bersama Group,Jl. Cigadung Raya Tengah No.  50,-6.8824,107.629,107.629,-6.8824,32,4 Kaki,503.645/2436/BPPT
+433,Cibeunying Kaler,Cigadung,PT. Tower Bersama Group,Jl. Cigadung Raya Kp. Cipaheut Kidul RT 03/04,-6.87401,107.623,107.623,-6.87401,42,4 Kaki,503.645/1349/BPPT
+434,Cibeunying Kaler,Sukaluyu,PT. Solusi Tunas Pratama,Jl. Pahlawan BelakangÊ No.  17 Bandung,-6.900051,107.63358,107.63358,-6.900051,15,Pole,503.645/0686/BPPT
+435,Cibeunying Kaler,Cihaurgeulis,PT. Solusi Tunas Pratama,Apotik Lia Farma Jl. Surapati No. 68 RT 02 RW  04.,-6.90015,107.62831,107.62831,-6.90015,20,3 Kaki,503.645/SI-0792 Disbang/IV-07
+436,Cibeunying Kaler,Sukaluyu,PT. Telkomsel,Jl. Gagak,-6.895626,107.627999,107.627999,-6.895626,30,Kamuflase Pohon,IMB-Bdg 2009_14
+437,Cibeunying Kaler,Cigadung,PT. Telkomsel,Jl. Tubagus Ismail VII No. 60,-6.880003,107.62171,107.62171,-6.880003,55,4 Kaki,-
+438,Cibeunying Kaler,Cihaurgeulis,PT. Telkomsel,Jl. Supratman,-6.905577,107.629424,107.629424,-6.905577,12,3 Kaki,IMB - 503.645/1351/BPPT
+439,Cibeunying Kaler,Cigadung,PT. Telkomsel,Jl. Cigadung Selatan No.  21 RT 03 RW  08 ,-6.88473,107.62709,107.62709,-6.88473,6,Pole,NO NEED
+440,Cibeunying Kaler,Neglasari,PT. Telkomsel,Jl. Cikutra No. 312 RT  04/02 ,-6.893621,107.638134,107.638134,-6.893621,6,Pole,NO NEED
+441,Cibeunying Kaler,Cihaurgeulis,PT. Telkomsel,Terusan Cisoka RT 01/08 ,-6.9026,107.6326,107.6326,-6.9026,6,Pole,NO NEED
+442,Cibeunying Kaler,Sukaluyu,PT. Telkomsel,Gg. Tilil II No. 340/144C RT  06 RW  01 ,-6.899163889,107.6221028,107.6221028,-6.899163889,6,Pole,NO NEED
+443,Cibeunying Kaler,Cigadung,PT. Centratama Menara Indonesia,Jl. Cibeunying Permai Raya No. 38 RT /RW  04/11 ,-6.88771,107.62817,107.62817,-6.88771,4,4 Kaki,IMB NR
+444,Cibeunying Kaler,Sukaluyu,PT. Xl Axiata, Tbk,Jl. Gagak RT  01 RW  03 ,-6.89721,107.62515,-6.89721,107.62515,52,3 Kaki,503.645/SI-2614 Disbang/2006
+445,Cibeunying Kaler,Neglasari,Hutchinson,Jl. Phh.Mustafa No. 27 RT 03/RW 01,-6.89808,107.63696,107.63696,-6.89808,9,Pole,-
+446,Cibeunying Kidul,Cikutra,PT. Protelindo,Jl. Cikutra No. 31 RT 01 RW  10,-6.90508,107.64369,107.64369,-6.90508,20,Rooftop Mt,503.645/SI-1229 Disbang/07
+447,Cibeunying Kidul,Cikutra,PT. Protelindo,Jl. Jend. Ahmad Yani No. 535 A RT 01 RW  01,-6.90932,107.64167,107.64167,-6.90932,20,Rooftop Mt,503.645/0213/BPPT
+448,Cibeunying Kidul,Cicadas,PT. Protelindo,Jl. Jend. Ahmad Yani No. 435 RT 01 RW  02,-6.91061,107.63926,107.63926,-6.91061,12,Pole,503.645/3775/BPPT
+449,Cibeunying Kidul,Sukamaju,PT. Protelindo, Tbk,Jl. Citamiang  No. 55 RT  01 RW  07,-6.9078,107.63478,107.63478,-6.9078,18,4 Kaki,503.645/1956/BPPT
+450,Cibeunying Kidul,Sukagalih,PT. Protelindo, Tbk,Jl. Prof. Drg. Surya Sumantri No. 60 B RT 01 RW  01 ,-6.88732,107.58173,107.58173,-6.88732,20,4 Kaki,503.645/1881/BPPT
+451,Cibeunying Kidul,Cicadas,PT. Protelindo, Tbk,Jl. P.H.H Mustopa No. 85 RT 07 RW  02 ,-6.90016,107.6452,107.6452,-6.90016,20,Pole,503.645/5476/BPPT
+452,Cibeunying Kidul,Cikutra,PT. Protelindo, Tbk,Jl. Sukasenang No. 3 RT 6 RW  15 ,-6.89885,107.63746,107.63746,-6.89885,12,Pole,503.645/3173/BPPT
+453,Cibeunying Kidul,Padasuka,PT. Solusi Tunas Pratama,Jl. Jend. Ahmad Yani No. 524-526 RT 03 RW  05 ,-6.90798,107.64388,107.64388,-6.90798,6,Pole,Not Required
+454,Cibeunying Kidul,Cikutra,PT. Solusi Tunas Pratama,Gg. Suka Mulya RT 02 RW 09 ,-6.904222222,107.64175,107.64175,-6.904222222,31,3 Kaki,570/061/IMB/BP2T/XI/2016
+455,Cibeunying Kidul,Sukapada,PT. Solusi Tunas Pratama,Jl. Raya A Yani No. 630 Bandung,-6.906635,107.64755,107.64755,-6.906635,20,4 Kaki,503.645/719/BPPT
+456,Cibeunying Kidul,Pasirlayung,PT. Xl Axiata, Tbk,Jl. Tugu Asri I No. B8 RT 05 RW 013 ,-6.895777778,107.6516389,-6.895777778,107.6516389,30,3 Kaki,503.645/971/BPPT
+457,Cibeunying Kidul,Sukamaju,PT. Xl Axiata, Tbk,Jl. Supratman No. 60 Bandung,-6.90558,107.63112,-6.90558,107.63112,36,Pole,503.645/SI-0626 Disbang/2007
+458,Cibeunying Kidul,Pasirlayung,PT. Xl Axiata, Tbk,Jl. Ahmad Yani No. 943 RT 07/09 ,-6.90223,107.65671,-6.90223,107.65671,25,3 Kaki,603.645.4/378/BPMPPT/2008
+459,Cibeunying Kaler,Cigadung,PT. Xl Axiata, Tbk,Jl. Lapangan Golf Dago Atas No. 78 ,-6.86768,107.62442,-6.86768,107.62442,42,4 Kaki,503.645/SI-1641-Distarcip/II-08
+460,Cibeunying Kidul,Cikutra,PT. Xl Axiata, Tbk,Jl. Cikutra No. 10 RT  01 / RW  08 ,-6.90798,107.64388,-6.90798,107.64388,25,3 Kaki,503.645/SI-3024 Disbang/2006
+461,Cibiru,Cipadung,PT. Protelindo, Tbk,Jl. Manisi,-6.92799,107.72021,107.72021,-6.92799,36,3 Kaki,503.645/1702/BPPT
+462,Cibiru,Cipadung Kulon,PT. Protelindo, Tbk,Jl. Sindangsari RT 03 RW  04,-6.91755,107.7028,107.7028,-6.91755,35,3 Kaki,503.645/SI-0537/Disbang/07
+463,Cibiru,Cisurupan,PT. Protelindo, Tbk,Jl. Cilengkrang RT 04 RW  05 ,-6.91299,107.71944,107.71944,-6.91299,53,3 Kaki,503.645/01001/BPPT
+464,Cibiru,Cipadung,PT. Protelindo, Tbk,Jl. Cigagak RT 06 RW  014 ,-6.9208,107.71799,107.71799,-6.9208,25,4 Kaki,503.645/0680/BPPT
+465,Cibiru,Cipadung,PT. Protelindo, Tbk,Jl. Desa Cipadung No. 166 ,-6.92779,107.71609,107.71609,-6.92779,26,4 Kaki,663.10/0016/IMBT/XII/2015/BPPT
+466,Cibiru,Pasirbiru,PT. Protelindo, Tbk,Jl. Mekarjati RT 03 RW  05 ,-6.92932,107.72392,107.72392,-6.92932,31,3 Kaki,503.645/0763/BPPT
+467,Cibiru,Cipadung Kulon,PT. Protelindo, Tbk,Jl. Gempol No. 2  ,-6.93037,107.70503,107.70503,-6.93037,31,3 Kaki,-
+468,Cibiru,Cipadung,Daya Mitra Telekomunikasi,Jl. A.H Nasution  525 RT 02/010,-6.934267,107.716833,107.716833,-6.934267,20,Pole,IMB - 663.10/0012/IMBT/XII/2016/BPPT
+469,Cibiru,Palasari,PT. Indosat, Tbk,Cilengkang II No. 53 RT 03/09,-6.924538,107.71229,107.71229,-6.924538,52,4 Kaki,503.645/51-0808 Disbang/2003
+470,Cibiru,Cibiru Wetan,PT. Tower Bersama Group,Easternhils-Ciguruwik,-6.92728,107.726,107.726,-6.92728,42,4 Kaki,645.4/36/354/BPMP
+471,Cibiru,Cipadung,PT. Tower Bersama Group,Jl. Sukaluyu,-6.91648,107.726,107.726,-6.91648,42,4 Kaki,503.645/1344/BPPT
+472,Cibiru,Pasir Biru,PT. Tower Bersama Group,Jl. Sukaluyu RT 01/12,-6.91934,107.723,107.723,-6.91934,55,4 Kaki,503.645/SI-0693 DISBANG/2005
+473,Cibiru,Cipadung,PT. Tower Bersama Group,Jl. Manisi Gg. Reformasi No. 5 RT 03/13,-6.9239,107.72,107.72,-6.9239,42,4 Kaki,503.645/1943/BPPT
+474,Cibiru,Cipadung,PT. Tower Bersama Group,Jl. A.H Nasution RT 01/02 Km 13,-6.92931,107.712,107.712,-6.92931,42,4 Kaki,503.645/2487BPPT
+475,Cibiru,Palasari,PT. Solusi Tunas Pratama,Jl. Raya Cipadung RT 01/RW 01 ,-6.92274,107.71018,107.71018,-6.92274,31,3 Kaki,503/DPMKUT/574/IMB/V/2017
+476,Cibiru,Cisurupan,PT. Solusi Tunas Pratama,Jl. Cicalengkrang 1 Kp.Cigagak RT /RW 05/07 ,-6.907944444,107.72625,107.72625,-6.907944444,31,3 Kaki,KPPTPM.503.a.6/42/IX/KEP/2016
+477,Cibiru,Cisurupan,PT. Solusi Tunas Pratama,Jl. Cilengkarang I No. 113 RT 03/RW 05 ,-6.913388889,107.7175833,107.7175833,-6.913388889,15,Pole,0473/DPMPT/BTg/KR 
+478,Cibiru,Pasir Biru,PT. Telkomsel,Jl. Raya Cibiru,-6.932906,107.722183,107.722183,-6.932906,52,4 Kaki,-
+479,Cibiru,Pasir Biru,PT. Telkomsel,Jl. Cilengkrang 2 Kp. Gandol RT 05/05,-6.915996,107.720919,107.720919,-6.915996,42,4 Kaki,-
+480,Cibiru,Pasir Biru,PT. Telkomsel,Mekarjati RT  02 RW  05 ,-6.929838,107.723805,107.723805,-6.929838,6,Pole,NO NEED
+481,Panyileukan,Cipadung Kulon,PT. Xl Axiata, Tbk,Jl. Raya Cipadung No. 159 RT 03 RW 10,-6.93475,107.718,-6.93475,107.718,50,4 Kaki,503.645/1216/BPPT
+482,Panyileukan,Cipadung Kidul,PT. Xl Axiata, Tbk,Jl. Panyileukan V RT 02/RW 13 ,-6.944917,107.708306,-6.944917,107.708306,30,3 Kaki,503.645/945/BPPT
+483,Cibiru,Pasir Biru,Naragita,Jl. Desa Cibiru Wetan Bandung,-6.9154,107.73625,107.73625,-6.9154,12,Pole,-
+484,Bandung Kulon,Cibuntu,PT. Solusi Tunas Pratama,Jl. Soekarno  Hatta No. 47 Bandung,-6.93426,107.6993,107.6993,-6.93426,43,4 Kaki,503.645/40/BPPT/2010
+485,Antapani,Antapani Tengah,PT. Protelindo, Tbk,Terusan Jl. Jakarta RT 03 RW 07 Kode Pos 40291,-6.91344,107.66006,107.66006,-6.91344,35,3 Kaki,503.145/SI-2851-DISBANG/06
+486,Antapani,Antapani Tengah,PT. Protelindo, Tbk,Jl. Cibodas Baru RT 02 RW  022  Kode Pos 40291,-6.92014,107.66467,107.66467,-6.92014,30,3 Kaki,503.645/SI-3465/DISBANG/06
+487,Kiaracondong,Cicaheum,PT. Xl Axiata, Tbk,Jl. Jend. A Yani No. 804 - RT 01 RW  05 ,-6.902972222,107.6546944,-6.902972222,107.6546944,15,3 Kaki,503.645/SI-2633-Disbang/2003
+488,Mandalajati,Karang Pamulang,PT. Xl Axiata, Tbk,Jl. Pasir Impun Barat No. 35 RT  04/05 ,-6.902833333,107.6751667,-6.902833333,107.6751667,30,4 Kaki,503.645/SI-0936 DISBANG/2001
+489,Antapani,Antapani Tengah,PT. Xl Axiata, Tbk,Jl. Depok No. 16A Antapani,-6.9147,107.657,-6.9147,107.657,30,4 Kaki,503.643.3/SI-0040-DPB/1999
+490,Cicendo,Sukaraja,PT. Protelindo,Komplek Istana Pasteur Regency RT 05 RW  06 ,-6.89108,107.57563,107.57563,-6.89108,12,Pole,503.645/0916/BPPT
+491,Cicendo,Pasirkaliki,PT. Protelindo, Tbk,Jl. Dr. Abdul Rivai No.  1,-6.90461,107.60364,107.60364,-6.90461,25,3 Kaki,503.645/SI- 1755 Disbang/2004
+492,Cicendo,Pasirkaliki,PT. Protelindo, Tbk,Jl. Cicendo No. 19 A RT 04 RW  05 ,-6.91075,107.60359,107.60359,-6.91075,28,4 Kaki,503.645/0915/BPPT
+493,Cicendo,Arjuna,PT. Protelindo, Tbk,Jl. Arjuna No. 15 RT 02 RW  08 ,-6.91009,107.59084,107.59084,-6.91009,15,Pole,503.645/2017/BPPT
+494,Cicendo,Pasirkaliki,PT. Protelindo, Tbk,Jl. H. Mesri No. 36A/68 RT 04 RW  06 ,-6.90915,107.60066,107.60066,-6.90915,12,Pole,503.648.1/2446/BPPT
+495,Cicendo,Sukaraja,PT. Protelindo, Tbk,Jl. Gunung Batu No. 135 ,-6.88866,107.5648,107.5648,-6.88866,23,4 Kaki,663.10/0002/IMBT/VI/2016/BPPT
+496,Cicendo,Sukaraja,PT. Protelindo, Tbk,Jl. Bunisugih RT  03 RW  04 ,-6.88916,107.55842,107.55842,-6.88916,32,3 Kaki,503.645/SI-2741 Disbang/2006
+497,Cicendo,Pajajaran,PT. Protelindo, Tbk,Jl. Dr. Djunjungan Dalam No.  8A RT 01 RW 03 Kode Pos 40173 ,-6.89621,107.58747,107.58747,-6.89621,25,3 Kaki,503.645/SI-0444 Disbang/2007
+498,Cicendo,Husein Sastranegara,Daya Mitra Telekomunikasi,Jl. Ku. Supadio No. 30,-6.909555,107.585541,107.585541,-6.909555,36,4 Kaki,IMB - 503/bpmppt-immtt/xii/2012/07
+499,Cicendo,Pajajaran,Daya Mitra Telekomunikasi,Jl. Citepus 3 RT 07/11,-6.900101,107.589333,107.589333,-6.900101,9,Pole,IMB - 503/143/IMB/BPMT2T/2012
+500,Cicendo,Husein Sastranegara,Daya Mitra Telekomunikasi,Jl. Kaf. Kata Negara,-6.900011,107.58556,107.58556,-6.900011,36,4 Kaki,IMB - 663.10/0002/IMBT/VIII/2016/BPPT
+501,Cicendo,Husein Sastranegara,PT. Indosat, Tbk,Jl. Komodor Udara Supadio No. 30 RT 09/06,-6.909366,107.585693,107.585693,-6.909366,45,4 Kaki,503.645/0637/BPPT
+502,Cicendo,Arjuna,PT. Indosat, Tbk,Jl. Pasirkaliki No. 102 (Tessa Cellular),-6.908759,107.597824,107.597824,-6.908759,20,4 Kaki,503.645/2294/BPPT
+503,Cicendo,Pasirkaliki,PT. Indosat, Tbk,Jl. Dr. Rum No. 30-32,-6.905082,107.600667,107.600667,-6.905082,15,4 Kaki,503.643/51-4332/Dpb TAHUN 1996
+504,Cicendo,Pasirkaliki,PT. Tower Bersama Group,Jl. Pasir Kaliki No. 36-42,-6.9119,107.598,107.598,-6.9119,6,Pole,ROOFTOP 6 m
+505,Cicendo,Sukaraja,PT. Tower Bersama Group,Jl. Agusta,-6.89504,107.573,107.573,-6.89504,36,4 Kaki,503.645./3514/BPPT
+506,Cicendo,Sukaraja,PT. Tower Bersama Group,Jl. Bumi Sugih,-6.8893,107.559,107.559,-6.8893,32,4 Kaki,503.645/1283/BPPT
+507,Cicendo,Pasirkaliki,PT. Solusi Tunas Pratama,Jl. Otto Iskandardinata No. 16 Bandung Jawa Barat,-6.9134,107.60397,107.60397,-6.9134,6,Pole,Not Required
+508,Cicendo,Pasirkaliki,PT. Solusi Tunas Pratama,Jl. Pasir Kaliki No. 48 RT 01/08 ,-6.911616,107.598195,107.598195,-6.911616,20,Pole,Not Required
+509,Cicendo,Arjuna,PT. Solusi Tunas Pratama,Jl. Kresna No. 32 RT 03/04 ,-6.909611111,107.5937222,107.5937222,-6.909611111,15,4 Kaki,8802/8.1/31.75.00.000/-1.785.51/2016 (IMB)
+510,Cicendo,Husein Sastranegara,PT. Telkomsel,Jl. Jatayu,-6.910218,107.585943,107.585943,-6.910218,20,3 Kaki,IMB-Bdg 2009_13
+511,Cicendo,Sukaraja,PT. Telkomsel,Jl. Gunung Batu / Padaasih,-6.890851,107.562899,107.562899,-6.890851,12,Pole Rooftop,IMB-Bdg 2015_17
+512,Cicendo,Pajajaran,PT. Telkomsel,Jl. Sukawara,-6.894137,107.58496,107.58496,-6.894137,36,4 Kaki,-
+513,Cicendo,Husein Sastranegara,PT. Telkomsel,Jl. Lettu Subagio No. ,-6.906072,107.58216,107.58216,-6.906072,30,4 Kaki,-
+514,Cicendo,Pamoyanan,PT. Telkomsel,Jl. Dr. Junjunan,-6.900463,107.59664,107.59664,-6.900463,20,3 Kaki,-
+515,Cicendo,Pasirkaliki,PT. Telkomsel,Jl. Dr Abdul Rivai,-6.9044497,107.6039759,107.6039759,-6.9044497,RT 9m,3 Kaki,-
+516,Cicendo,Pasirkaliki,PT. Telkomsel,Hotel Serena Jl. Marjuk No. 4-6 ,-6.91239,107.60274,107.60274,-6.91239,6,Pole,NO NEED
+517,Cicendo,Pamoyanan,PT. Telkomsel,Jl. Korawa No. 27 RT 04 RW  01 ,-6.90275,107.59251,107.59251,-6.90275,4.2,Pole,NO NEED
+518,Cicendo,Sukaraja,PT. Telkomsel,Jl. Mentor Gg Hambali I No.  41 RT 01 RW  07 ,-6.89217,107.57022,107.57022,-6.89217,6,Pole,NO NEED
+519,Cicendo,Arjuna,PT. Telkomsel,Jl. Samiaji No. 287/66 RT  010 RW  05 ,-6.90884,107.59535,107.59535,-6.90884,4.2,Pole,NO NEED
+520,Cicendo,Sukawarna,PT. Telkomsel,Komplek Istana Regensi RT  02 RW  02 ,-6.895944,107.582763,107.582763,-6.895944,6,Pole,NO NEED
+521,Cicendo,Sukaraja,PT. Telkomsel,Jl. Babakan Cianjur No. 130 ,-6.89694,107.56789,107.56789,-6.89694,6,Pole,NO NEED
+522,Cicendo,Pasirkaliki,PT. Telkomsel,Jl. Pajajaran No. 56 RT  01 RW  03 ,-6.90646,107.6005,107.6005,-6.90646,6,Pole,NO NEED
+523,Cicendo,Pasirkaliki,PT. Telkomsel,Jl. Cicendo No. 4 Bandung,-6.9099,107.6046,107.6046,-6.9099,6,Pole,NO NEED
+524,Cicendo,Arjuna,PT. Telkomsel,Jl. Pasir Kaliki No. 53 - 55,-6.91119,107.59723,107.59723,-6.91119,6,Pole,NO NEED
+525,Cicendo,Pajajaran,PT. Centratama Menara Indonesia,Jl. Citepus III RT 07 RW  10 ,-6.90148,107.58885,107.58885,-6.90148,12,Pole,IMB RELEASED
+526,Cicendo,Pamoyanan,PT. Centratama Menara Indonesia,Istana Plaza Jl. Pasir Kaliki No. 121 - 123 Bandung Jawa Barat,-6.9054,107.59687,107.59687,-6.9054,6,Pole,IMB NR
+527,Cicendo,Pamoyanan ,PT. Centratama Menara Indonesia,Gedung Mega Cell Bandung,-6.90687,107.59184,107.59184,-6.90687,6,Pole,IMB NR
+528,Cicendo,Pasirkaliki,PT. Centratama Menara Indonesia,Jl. Cicendo No. 19 ,-6.89842,107.65863,107.65863,-6.89842,10,Pole,IMB RELEASED
+529,Cicendo,Husein Sastranegara,PT. Xl Axiata, Tbk,Jl. Padjadjaran Pangkalan Tni Au Bandara Husein Sastranegara,-6.903305556,107.5723889,-6.903305556,107.5723889,30,4 Kaki,503.645/1300/BPPT
+530,Cicendo,Husein Sastranegara,PT. Xl Axiata, Tbk,Sma_Smk Angkasa (Lanud Husein Sastra Negara) Jl. L.M.U. Supadio No. 22 Lanud Husein Sastra Negara,-6.906472222,107.5830833,-6.906472222,107.5830833,30,4 Kaki,503.645/1862/BPPT
+531,Cicendo,Pasirkaliki,PT. Xl Axiata, Tbk,Stadion Padjajaran Bandung (Koni Jawa Barat) Jl. Pajajaran No. 37A,-6.907277778,107.6013056,-6.907277778,107.6013056,50,Pole,503.645/SI-0472 DISBANG/05
+532,Cicendo,Sukaraja,PT. Xl Axiata, Tbk,Jl. Boing Komplek Tni Au Sukaraja Kota Bandung,-6.89499,107.57306,-6.89499,107.57306,36,Pole,503.645/SI-2890 Disbang/2006
+533,Cicendo,Pasirkaliki,PT. Permata Karya Perdana,Jl. Oto Iskandar Dinata No. 20 RT 01 RW 10,-6.913734,107.60425,107.60425,-6.913734,21,4 Kaki,-
+534,Cidadap,Ledeng,PT. Protelindo,Jl. Cipaku Indah 3 No. 11,-6.86406,107.59969,107.59969,-6.86406,6,Pole,tidak diperlukan IMB
+535,Cidadap,Ciumbuleuit,PT. Protelindo, Tbk,Jl. Kp. Cikadu RT 01 RW  11 ,-6.85761,107.60169,107.60169,-6.85761,30,3 Kaki,503.645/1390/BPPT
+536,Cidadap,Hegarmanah,PT. Protelindo, Tbk,Jl. Bukit Jarian Dalam Iv RT 05 RW  11 ,-6.87814,107.60674,107.60674,-6.87814,12,Pole,503.645/1438/BPPT
+537,Cidadap,Ledeng,PT. Protelindo, Tbk,Jl. Sersan Surip No. 38/169A ,-6.85872,107.59555,107.59555,-6.85872,12,Pole,663.10/0012/IMBT/XII/2015/BPPT
+538,Cidadap,Hegarmanah,PT. Protelindo, Tbk,Jl. Ciumbuleuit No. 133B ,-6.87825,107.60358,107.60358,-6.87825,12,Pole,663.10/0010/IMBT/XII/2015/BPPT
+539,Cidadap,Ciumbuleuit,PT. Protelindo, Tbk,Jl. Ciumbuleuit No. 179 RT 01/RW  07 Kode Pos 40142 ,-6.87049,107.60548,107.60548,-6.87049,36,Pole,503.645/SI-0629 Disbang/2007
+540,Cidadap,Ciumbuleuit,Daya Mitra Telekomunikasi,Jl. Ciumbuleuit Atas RT 08/03,-6.86259,107.606591,107.606591,-6.86259,42,4 Kaki,IMB - 1551/UPTP/IX/2012
+541,Cidadap,Hegarmanah,Daya Mitra Telekomunikasi,Jl. Kapten. Abd. Hamid PaNo. rama 3 No. 44,-6.865695,107.596133,107.596133,-6.865695,6,Pole,IMB - 503.645/1619/BPPT
+542,Cidadap,Hegarmanah,Daya Mitra Telekomunikasi,Jl. Bukit Jarian Dalam 156,-6.878274,107.606732,107.606732,-6.878274,6,Pole,IMB - 503.648.1/3079/BPPT
+543,Cidadap,Ledeng,PT. Indosat, Tbk,Cipaku Indah III No. 9,-6.864052,107.59957,107.59957,-6.864052,25,4 Kaki,503.643.3/SI-1975 DISBANG/2000
+544,Cidadap,Ciumbuleuit,PT. Indosat, Tbk,Wilayah Rs. Au Tk II Dr. Salamun II. CiumbuleuitPangkalan,-6.865434,107.604315,107.604315,-6.865434,30,4 Kaki,503.645/3138/BPPT
+545,Cidadap,Ledeng,PT. Tower Bersama Group,Jl. Dr. Somamudi Km 10 No. 8B / 9 RT 03/02,-6.84656,107.602,107.602,-6.84656,52,4 Kaki,503.645/SI.1730 Disbang/2001
+546,Cidadap,Ledeng,PT. Tower Bersama Group,Kp Cikadu,-6.85881,107.602,107.602,-6.85881,36,4 Kaki,503.645/2170/BPPT
+547,Cidadap,Ledeng,PT. Tower Bersama Group,Htltlgsari-Kpcikado,-6.85513,107.598,107.598,-6.85513,12,Pole,REKOM DISHUBKOMINFO DAN KRK DONE,  PENGESAHAN IMB
+548,Cidadap,Hegarmanah,PT. Solusi Tunas Pratama,Windy Swalayan Jl. Setia Budi No. 170 Fg RT 03/RW 05 ,-6.87242,107.595,107.595,-6.87242,25,4 Kaki,503.645/SI-3119 Disbang/2002
+549,Cidadap,Ciumbuleuit,PT. Solusi Tunas Pratama,Jl. Cimbuleut No. 152 Bandung 40142,-6.86722,107.60664,107.60664,-6.86722,6,Pole,Not Required
+550,Cidadap,Ciumbuleuit,PT. Solusi Tunas Pratama,Jl. Rancabentang I No. 15 C ,-6.874555556,107.6074444,107.6074444,-6.874555556,20,3 Kaki,503.601/146/BPTSPPMD/IMB/X/2016
+551,Cidadap,Hegarmanah,PT. Solusi Tunas Pratama,Jl. Hegarmanah Gg. Marhali No. 7 RT 07/RW 03 ,-6.87913889,107.6014722,107.6014722,-6.87913889,6,Pole,570/057/IMB/BP2T/XI/2016
+552,Cidadap,Ciumbuleuit,PT. Solusi Tunas Pratama,Kp. Bengkok RT 09 RW 01 ,-6.86009,107.62079,107.62079,-6.86009,32,3 Kaki,Proses
+553,Cidadap,Ciumbuleuit,PT. Solusi Tunas Pratama,Univ. Kristen Maranatha Prof. Drg. Suria Sumantri Mph - No. 65,-6.88611,107.580927,107.580927,-6.88611,3,Pole,Not Required
+554,Cidadap,Ledeng,PT. Telkomsel,Jl. Setia Budi No. 268A,-6.86158,107.595548,107.595548,-6.86158,30,Monopole,-
+555,Cidadap,Hegarmanah,PT. Telkomsel,Jl. Setia Budi,-6.87358,107.596029,107.596029,-6.87358,36,Monopole,-
+556,Cidadap,Ciumbuleuit,PT. Telkomsel,Jl. Ciumbuleuit ( Rsau Dr. Salamun),-6.865207,107.604255,107.604255,-6.865207,30,4 Kaki,-
+557,Cidadap,Ciumbuleuit,PT. Telkomsel,Jl. Ranca Hantang 1 No. 156 RT 01/06,-6.874556,107.607504,107.607504,-6.874556,15,3 Kaki,IMB-Bdg 2009_9
+558,Cidadap,Ledeng,PT. Telkomsel,Jl. Cipaku Indah VIII RT 05 RW  02 ,-6.861712,107.598737,107.598737,-6.861712,6,Pole,NO NEED
+559,Cidadap,Hegarmanah,PT. Telkomsel,Hegarmanah (Jl. n. Kapten Tendean No. 1) Bandung West Java,-6.87848,107.59998,107.59998,-6.87848,6,Pole,NO NEED
+560,Cidadap,Hegarmanah,PT. Centratama Menara Indonesia,Hotel Grand Serela Bandung,-6.88055,107.60088,107.60088,-6.88055,6,Pole,IMB NR
+561,Cibeunying Kaler,Cigadung,PT. Xl Axiata, Tbk,Jl. Lapangan Golf Dago Atas No. 78 (Pt Dago Endah) Dago Golf Bandung Jabar,-6.868972222,107.6238611,-6.868972222,107.6238611,30,Pole,503.645/SI-0351 DISBANG/2002
+562,Cidadap,Ciumbuleuit,PT. Xl Axiata, Tbk,Jl. Kampung Cihanjah No. 45 RT 02 RW  10  ,-6.857472222,107.6109167,-6.857472222,107.6109167,31,4 Kaki,503.645/1217/BPPT
+563,Cidadap,Ciumbuleuit,PT. Xl Axiata, Tbk,Jl. Ciumbuleuit 179 RT 01 RW 07 ,-6.870888889,107.6052222,-6.870888889,107.6052222,50,4 Kaki,503.645/1621/BPPT
+564,Cidadap,Ledeng,PT. Xl Axiata, Tbk,Jl. Setiabudi Km 10 Polsekta Cidadap Bandung Tengah,-6.847,107.599,-6.847,107.599,50,4 Kaki,6987/IMB/1993
+565,Cidadap,Hegarmanah,PT. Xl Axiata, Tbk,Jl. Dr Setiabudhi 170 F-G Bandung,-6.87222,107.59464,-6.87222,107.59464,25,3 Kaki,503.645/SI-0969 Disbang/2007
+566,Cidadap,Ciumbuleuit,PT. Xl Axiata, Tbk,Jl. Bukit Raya Selatan 162 RT 03/RW  03 ,-6.86249,107.60639,-6.86249,107.60639,52,4 Kaki,503.645/SI-0546 Disbang/2007
+567,Cidadap,Ledeng,PT. Xl Axiata, Tbk,Jl. Kapt. Abdul Hamid No. 145 RT 03 RW  01 ,-6.8661,107.59703,-6.8661,107.59703,36,Pole,503.645/SI-0203 Disbang/2007
+568,Cidadap,Hegarmanah,Hutchinson,Jl. Kapten Abdul Hamid No. 56 RT 03/RW 06,-6.86545,107.59586,107.59586,-6.86545,25,Kaki 4,-
+569,Cidadap,Hegarmanah,Naragita,Jl. Cikendi No. 10,-6.87607,107.60209,107.60209,-6.87607,31,Kaki 3,-
+570,Cinambo,Babakan Penghulu,PT. Protelindo, Tbk,Jl. Cisaranten Wetan RT 01 RW  04 ,-6.93136,107.68661,107.68661,-6.93136,30,3 Kaki,503.645/4713/BPPT
+571,Cinambo,Pakemitan,PT. Protelindo, Tbk,Jl. Komp. Cinambo Indah RT  05 RW  05,-6.92817,107.6902,107.6902,-6.92817,30,3 Kaki,503.645/2587/BPPT
+572,Cinambo,Babakan Penghulu,PT. Protelindo, Tbk,Jl. Rumah Sakit No. 118 RT 02 RW  07 ,-6.93183,107.69214,107.69214,-6.93183,30,3 Kaki,503.645/1479/BPPT
+573,Cinambo,Cisaranten Wetan,PT. Tower Bersama Group,Jl. Golef No. 19,-6.92067,107.689,107.689,-6.92067,42,4 Kaki,503.645/2582/BPPT
+574,Cinambo,Babakan Penghulu,PT. Solusi Tunas Pratama,Jl. Rancameong No.  18RT 04RW  04 ,-6.938215,107.687511,107.687511,-6.938215,32,3 Kaki,Proses
+575,Cinambo,Pakemitan,PT. Telkomsel,Jl. Cinambo RT 01/05,-6.924745,107.691353,107.691353,-6.924745,60,4 Kaki,-
+576,Cinambo,Cisaranten Wetan,PT. Telkomsel,Cisaranten Wetan Gg. H. Apandi RT  03/06 ,-6.92746,107.68699,107.68699,-6.92746,6,Pole,NO NEED
+577,Cinambo,Babakan Penghulu,PT. Telkomsel,Jl. Kilimanjaro No. 39 Komp. Pinus Regency Sukarno  Hata Bandung,-6.933229,107.683337,107.683337,-6.933229,6,Pole,NO NEED
+578,Coblong,Lebak Siliwangi,PT. Protelindo,Jl. Ganesha No. 7 RT 03 RW  04,-6.89422,107.61098,107.61098,-6.89422,12,Pole,503.645/0186/BPPT
+579,Coblong,Dago,PT. Protelindo, Tbk,Komplek Pondok Pesantren Miftahul Khoir Dago,-6.87995,107.6218,107.6218,-6.87995,46,3 Kaki,503/645/1744/BPPT
+580,Coblong,Dago,PT. Protelindo, Tbk,Jl. Komp. Bangbayang Kav. B No. 1 RT 01 RW  07 ,-6.88033,107.61748,107.61748,-6.88033,12,Pole,503.645/2588/BPPT
+581,Coblong,Dago,PT. Protelindo, Tbk,Jl. Istana Dago Asri Ruko No. 2A RT 06 RW  09 ,-6.87839,107.61562,107.61562,-6.87839,12,Pole,503.645/3565/BPPT
+582,Coblong,Lebak Gede,PT. Protelindo, Tbk,Jl. Dipatiukur No. 26 E RT 04 RW  08 ,-6.89705,107.61574,107.61574,-6.89705,15,Pole,503.645/3656/BPPT
+583,Coblong,Sadang Serang,PT. Protelindo, Tbk,Gg. Gagak Dalam / Kp. Karang Asih RT 02 RW  13 ,-6.8947,107.62276,107.62276,-6.8947,12,Pole,503.645/3319/BPPT
+584,Coblong,Dago,PT. Protelindo, Tbk,Jl. Cisitu Lama I No. 4 RT 06 RW  11 ,-6.88232,107.61214,107.61214,-6.88232,15,Pole,503.645/3320/BPPT
+585,Coblong,Sekeloa,PT. Protelindo, Tbk,Gg. Sekeloa Timur No. 66/52B RT 03 RW  03 ,-6.8909,107.6215,107.6215,-6.8909,12,Pole,503.645/1873/BPPT
+586,Coblong,Dago,PT. Protelindo, Tbk,Jl. Cisitu Indah Vl No. 181 RT 01/04 ,-6.8729,107.61395,107.61395,-6.8729,12,Pole,-
+587,Coblong,Dago,PT. Protelindo, Tbk,Jl. Cisitu Indah Iv RT 04 RW  04 ,-6.87676,107.61417,107.61417,-6.87676,31,Pole,503.645/0711/BPPT
+588,Coblong,Cipaganti,PT. Protelindo, Tbk,Jl. Siliwangi No. 37 ,-6.88497,107.60661,107.60661,-6.88497,25,4 Kaki,663.10/0003/IMBT/XI/2015/BPPT
+589,Coblong,Sadang Serang,PT. Protelindo, Tbk,Jl. Titiran No. 19 ,-6.89603,107.61954,107.61954,-6.89603,25,4 Kaki,663.10/0004/IMBT/XI/2015/BPPT
+590,Coblong,Cipaganti,PT. Protelindo, Tbk,Jl. Pasteur Bandung,-6.96213,107.60316,107.60316,-6.96213,27,Pole,-
+591,Coblong,Lebak Gede,PT. Protelindo, Tbk,Jl. Dipatiukur No.  26 ,-6.89713,107.61588,107.61588,-6.89713,21,4 Kaki,503.645/SI-3415/2004 
+592,Coblong,Sadang Serang,Daya Mitra Telekomunikasi,Karang Asih No. 314 RT 4/RW 13 ,-6.89478,107.62349,107.62349,-6.89478,9,Pole,IMB - 503.645/1815/BPPT
+593,Coblong,Dago,Daya Mitra Telekomunikasi,Jl. Cisitu Indah Vl No. 181 RT 01/04 ,-6.8729,107.61395,107.61395,-6.8729,9,Pole,IMB - 503/124/IMB/XLIV/2012
+594,Coblong,Lebak Gede,Daya Mitra Telekomunikasi,Jl. Dipatiukur ,-6.890605,107.616651,107.616651,-6.890605,9,Pole,IMB - 503.645/3837/BPPT
+595,Coblong,Lebak Siliwangi,Daya Mitra Telekomunikasi,Jl. Ir.H. Juanda No. 129,-6.891199,107.612774,107.612774,-6.891199,6,Pole,IMB - 640/046.024/IMB/KP2TSP/2012
+596,Coblong,Dago,Daya Mitra Telekomunikasi,Jl. Ir.H. Juanda No. 381A,-6.87101,107.619693,107.619693,-6.87101,6,Pole,0
+597,Bandung Wetan,Taman Sari,Daya Mitra Telekomunikasi,Jl. Kebon Bibit Tengah No. 27,-6.897981,107.606211,107.606211,-6.897981,10,Pole,0
+598,Coblong,Cipaganti,PT. Indosat, Tbk,Jl. Cihampelas No. 169 (Graha Maranatha)Cipaganti,-6.890658,107.603767,107.603767,-6.890658,32,Pole,503.645/51-2763 Disbang/2001
+599,Coblong,Lebak Siliwangi,PT. Indosat, Tbk,Jl. Ganesha No. 03 (Area Masjid Salman Itb),-6.894028,107.6111,107.6111,-6.894028,25,4 Kaki,503.645/0636/BPPT
+600,Coblong,Dago,PT. Indosat, Tbk,Cisitu Lama Dago,-6.879604,107.612253,107.612253,-6.879604,45,4 Kaki,503.613/51/11697/Dpb TAHUN 1996
+601,Coblong,Sadang Serang,PT. Indosat, Tbk,Jl. Sadang Sari No. 23 Sekeloa,-6.889931,107.626724,107.626724,-6.889931,52,4 Kaki,503.644.4/S1-11709/0PB TAHUN 1996
+602,Coblong,Sekeloa,PT. Indosat, Tbk,Jl. Terusan Ciheulang Kp. Kubang RT 01/05,-6.887243,107.619682,107.619682,-6.887243,62,4 Kaki,503.645/1284/BPPT
+603,Coblong,Sadang Serang,PT. Indosat, Tbk,Jl. Surapati No. 55ESadanga Serang,-6.898822,107.620228,107.620228,-6.898822,32,4 Kaki,503.645/0638/BPPD
+604,Coblong,Dago,PT. Tower Bersama Group,Jl. Ir. H. Djuanda No.  4 A/163 E,-6.86642,107.62,107.62,-6.86642,32,4 Kaki,REKOM DISHUBKOMINFO DAN KRK DONE,  PENGESAHAN IMB
+605,Coblong,Dago,PT. Tower Bersama Group,Terminal_Dago/Jl. Dago Pojok,-6.86884,107.615,107.615,-6.86884,55,4 Kaki,503.645/SI-1126 Disbang/2005
+606,Coblong,Dago,PT. Tower Bersama Group,Jl. Juanda No. 64,-6.89935,107.613,107.613,-6.89935,21,4 Kaki,503.645/1053/BPPT
+607,Coblong,Cipaganti,PT. Tower Bersama Group,Jl. Cihampelas No. 264,-6.88791,107.604,107.604,-6.88791,6,Pole,Rooftop 6 m
+608,Coblong,Lebak Gede,PT. Solusi Tunas Pratama,Jl. Dipati Ukur  No.  57  RT 03  RW  10  ,-6.8905,107.61645,107.61645,-6.8905,20,Pole,503.645/3774/BPPT
+609,Coblong,Lebak Siliwangi,PT. Solusi Tunas Pratama,Jl. Taman Hewan No. 33 RW  08 ,-6.89319,107.607,107.607,-6.89319,15,Pole,503/0307.04/DPMPTSP
+610,Coblong,Lebak Gede,PT. Solusi Tunas Pratama,Jl. Dipati Ukur Depan Travel D'Trans No.  107 Bandung,-6.885483,107.614367,107.614367,-6.885483,18,Pole,Not Required
+611,Coblong,Sadang Serang,PT. Telkomsel,Jl. Titiran No. 18 RT 04/07,-6.895784,107.619944,107.619944,-6.895784,15,3 Kaki,IMB-Bdg 2009_8
+612,Coblong,Cipaganti,PT. Telkomsel,Jl. Dr. Selamet No. 17,-6.898251,107.602946,107.602946,-6.898251,13,3 Kaki,-
+613,Coblong,Cipaganti,PT. Telkomsel,Jl. Cihampelas No. 182,-6.893611,107.604202,107.604202,-6.893611,20,3 Kaki,-
+614,Coblong,Dago,PT. Telkomsel,Jl. Cisitu Lama RT 07/12,-6.878284,107.611182,107.611182,-6.878284,43,3 Kaki,-
+615,Bandung Wetan,Taman Sari,PT. Telkomsel,Jl. Taman Sari 21 C,-6.900497,107.608869,107.608869,-6.900497,15,4 Kaki,-
+616,Coblong,Dago,PT. Telkomsel,Jl. Ir.H. Juanda,-6.882751,107.61582,107.61582,-6.882751,60,4 Kaki,-
+617,Coblong,Sekeloa,PT. Telkomsel,Jl. Sekeloa RT 05/03,-6.890116,107.619369,107.619369,-6.890116,32,4 Kaki,-
+618,Coblong,Dago,PT. Telkomsel,Jl. Ir. Haji Juanda Bandung Jawa Barat 40135,-6.8708,107.6196,107.6196,-6.8708,6,Pole,NO NEED
+619,Coblong,Lebak Gede,PT. Telkomsel,Jl. Haur Pancu II D-2 RT  04/04 ,-6.89299,107.61929,107.61929,-6.89299,6,Pole,NO NEED
+620,Coblong,Sekeloa,PT. Telkomsel,Jl. Sadang Luhur Block 13 No.  21 RT 02 RW  15 ,-6.888436,107.622341,107.622341,-6.888436,6,Pole,NO NEED
+621,Coblong,Dago,PT. Telkomsel,Jl. Kanayakan Dalam No.  28 Kota Bandung ,-6.87796,107.61952,107.61952,-6.87796,6,Pole,NO NEED
+622,Coblong,Lebak Siliwangi,PT. Telkomsel,Jl. Ir. H. Djuanda (Perempatan Depan Mc Donald) Bandung,-6.8851,107.6135,107.6135,-6.8851,6,Pole,NO NEED
+623,Coblong,Cipaganti,PT. Telkomsel,Jl. Setiabudi Bandung,-6.8849,107.6044,107.6044,-6.8849,6,Pole,NO NEED
+624,Coblong,Sekeloa,PT. Telkomsel,Jl. Tubagus Ismail Dalam No. 28 RT 03 RW 07 ,-6.88678,107.616819,107.616819,-6.88678,6,Pole,NO NEED
+625,Coblong,Lebak Gede,PT. Telkomsel,Jl. Dipatiukur No. 35 Bandung,-6.893,107.6169,107.6169,-6.893,6,Pole,NO NEED
+626,Coblong,Cipaganti,PT. Telkomsel,Jl. Plesiran No. 61 RT  05 RW  06 ,-6.895426,107.606439,107.606439,-6.895426,6,Pole,NO NEED
+627,Coblong,Sekeloa,PT. Centratama Menara Indonesia,Jl. Tubagus Ismail Depan RT 2/8 ,-6.883556,107.616389,107.616389,-6.883556,6,Pole,503.645/0917/BPPT 2014
+628,Coblong,Dago,PT. Centratama Menara Indonesia,Komplek Istana Dago Asri No. 18 ,-6.878681,107.615889,107.615889,-6.878681,18,Pole,503.645/1584/BPPT 2011
+629,Coblong,Sekeloa,PT. Xl Axiata, Tbk,Jl. Cihalang Baru No. 35 Bandung Jabar,-6.886361111,107.61925,-6.886361111,107.61925,70,4 Kaki,503.645.4/SI-1680/DPB TAHUN 1998
+630,Coblong,Lebak Siliwangi,PT. Xl Axiata, Tbk,Jl. Ganeca 7,-6.89422222,107.6096944,-6.89422222,107.6096944,15,4 Kaki,No. 503.645.8/SI-8280/Dpb Tahun 1997 (IMB owner / copy)
+631,Coblong,Sekeloa,PT. Xl Axiata, Tbk,Jl. Tubagus Ismail Gg Ciheulang No. 53 RT 04/RW 11  ,-6.88577,107.61964,-6.88577,107.61964,42,4 Kaki,503.645/SI-2844 Disbang/2006
+632,Coblong,Sadang Serang,Naragita,Jl. Terminal Sadang Serang RT  06/19,-6.89196,107.62608,107.62608,-6.89196,6,Pole,-
+633,Gedebage,Rancabolang,PT. Xl Axiata, Tbk,Jl. Gede Bage Selatan No.  167 ,-6.95372,107.68692,-6.95372,107.68692,42,3 Kaki,503.645/3377/BPMPPT/2009
+634,Gedebage,Rancanumpang,PT. Protelindo, Tbk,Jl. Rancanumpang RT 03 RW  02 ,-6.95754,107.70626,107.70626,-6.95754,40,3 Kaki,503.645/4574/BPPT
+635,Gedebage,Cisaranten Kidul,PT. Protelindo, Tbk,Jl. Riung Sekar III No. 13 ,-6.94241,107.67994,-6.94241,107.67994,9,Pole,663.10/0003/IMBT/XII/2015/BPPT
+636,Gedebage,Cimencrang,Daya Mitra Telekomunikasi,Jl. Cimencrang RT 01/04,-6.947759,107.705132,107.705132,-6.947759,25,Pole,IMB - 648.1/0001/IMBT/IX/2016/BPPT
+637,Gedebage,Cisaranten Kidul,PT. Indosat, Tbk,Jl. Gedebage Kuion 56 RT 01/04Cisaranten Kidul,-6.941845,107.68964,107.68964,-6.941845,62,4 Kaki,503.645/514728 Disbang/2001
+638,Gedebage,Rancabolang,PT. Indosat, Tbk,Jl.Bojongloa No. 63 RT 04 RT RW os (Dulu Dikenal Ponpes At Tauba),-6.957323,107.687654,107.687654,-6.957323,62,4 Kaki,503.645/1285/BPPT
+639,Gedebage,Rancanumpang,PT. Tower Bersama Group,Jl. Rancanumpang RT 05/07,-6.96487,107.705,107.705,-6.96487,32,4 Kaki,503.645/SI-0947 DISBANG/06
+640,Gedebage,Rancabolang,PT. Tower Bersama Group,Jl. Gedebage Selatan,-6.95231,107.687,107.687,-6.95231,80,4 Kaki,503.645.4/SI-2155/Disbang/2003
+641,Gedebage,Cimencrang,PT. Solusi Tunas Pratama,Jl. Cimenrang RT 02 RW 06 ,-6.951576,107.706326,107.706326,-6.951576,32,3 Kaki,643.3/008/210/BPMPPT
+642,Gedebage,Cisaranten Kidul,PT. Telkomsel,Jl. Babakan Riung Bandung,-6.939642,107.682245,107.682245,-6.939642,62,4 Kaki,-
+643,Gedebage,Cisaranten Kidul,PT. Telkomsel,Gedebage Kulon RT 02/07 ,-6.94214,107.68815,107.68815,-6.94214,6,Pole,NO NEED
+644,Gedebage,Rancabolang,PT. Permata Karya Perdana,Jl. Gedebage Selatan No. 205 RT 03/ RW 01,-6.957,107.68687,107.68687,-6.957,18,Pole,663.10/0004/IMBT/XI/2016/BPPT 7 NOP 2016
+645,Kiaracondong,Babakan Sari,Daya Mitra Telekomunikasi,Jl. Kampus 1 No. 39,-6.924699,107.649527,107.649527,-6.924699,9,Pole,0
+646,Kiaracondong,Sukapura,PT. Indosat, Tbk,PSM Sukapura,-6.929682,107.64944,107.64944,-6.929682,42,4 Kaki,503.64551-0249 Disbang/2004
+647,Kiaracondong,Babakan Sari,PT. Indosat, Tbk,Kiaracondong No. 145 / 177Babakansari (Kebaktian),-6.922533,107.644531,107.644531,-6.922533,52,4 Kaki,503.645/SI-1732 Disbang/2001
+648,Kiaracondong,Babakan Surabaya,PT. Tower Bersama Group,Jl. Terusan Citra Dalam,-6.91883,107.652,107.652,-6.91883,18,Pole,503.645.8/0658/BPPT
+649,Kiaracondong,Sukapura,PT. Telkomsel,Jl. Terusan Psm RT 06/06,-6.930385,107.652278,107.652278,-6.930385,42,4 Kaki,-
+650,Kiaracondong,Babakan Sari,PT. Telkomsel,Jl. Kiara Condong,-6.921815,107.644968,107.644968,-6.921815,20,4 Kaki,-
+651,Kiaracondong,Kebon Jayanti,PT. Telkomsel,Jl. Kiara Condong No. 277,-6.929052,107.64429,107.64429,-6.929052,20,3 Kaki,-
+652,Kiaracondong,Babakan Surabaya,PT. Telkomsel,Jl. Ahmadyani Gg. Slamet 2 No. 35 RT  06 RW  02 ,-6.91176,107.64635,107.64635,-6.91176,6,Pole,NO NEED
+653,Kiaracondong,Cicaheum,PT. Telkomsel,Jl. Sekolah Internasional No. 10 RT 01 RW  011 Sukalaksana ,-6.91006,107.64928,107.64928,-6.91006,6,Pole,NO NEED
+654,Kiaracondong,Sukapura,PT. Telkomsel,PT. Madu Nusantara Jl. Soekarno  Hatta No. 969 Bandung,-6.941778,107.64986,107.64986,-6.941778,6,Pole,NO NEED
+655,Kiaracondong,Sukapura,PT. Telkomsel,Jl. Kiara Condong RT 03/02 ,-6.92964,107.649,107.649,-6.92964,4.2,Pole,NO NEED
+656,Buahbatu,Jatisari,PT. Xl Axiata, Tbk,Jl. Cidurian Baru 17 ,-6.9405,107.6545833,-6.9405,107.6545833,30,4 Kaki,503.645/1513/BPPT
+657,Kiaracondong,Kebon Jayanti,PT. Xl Axiata, Tbk,Balai Jasa Komp.Stasiun Ka Kiaracondong Jl. Kiara Condong Bandung,-6.92388889,107.6441667,-6.92388889,107.6441667,50,4 Kaki,503.645/1063/BPPT
+658,Kiaracondong,Cicaheum,Telkom,Jl. Jendral Ahmad Yani,-6.905879,107.64973,107.64973,-6.905879,42,Kaki 4,-
+659,Kiaracondong,Cicaheum,Telkom,Jl. Jendral Ahmad Yani,-6.906008,107.649728,107.649728,-6.906008,42,Kaki 4,-
+660,Kiaracondong,Sukapura,Hutchinson,Jl. Cidurian Utara No. 110 RT 01/RW 09,-6.93444,107.65458,107.65458,-6.93444,6,Pole,-
+661,Kiaracondong,Kebon Kangkung,Hutchinson,Jl. Kiara Condong No. 309 RT 07/RW 02,-6.93079,107.64406,107.64406,-6.93079,30,Kaki 3,-
+662,Kiaracondong,Babakan Sari,Naragita,Jl. Kampus Kota Bandung,-6.92473,107.64954,107.64954,-6.92473,30,Pole,-
+663,Kiaracondong,Babakan Sari,PT. Protelindo,Jl. Babakan Sari,-6.92192,107.64486,107.64486,-6.92192,28,Rooftop Mt,503.645/SI-2612 Disbang/2004
+664,Kiaracondong,Sekejati,PT. Protelindo, Tbk,Jl. Sanggar Kencana III RT  05 RW  09 ,-6.93489,107.66752,107.66752,-6.93489,36,3 Kaki,503.645/160/BPPT/2010
+665,Kiaracondong,Babakan Surabaya,PT. Protelindo, Tbk,Jl. Terusan Jakarta,-6.91339,107.64974,107.64974,-6.91339,35,3 Kaki,503.645/1700/BPPT
+666,Kiaracondong,Babakan Sari,PT. Protelindo, Tbk,Gang Sekolah IIRT /RW  03/02 Kode Pos 40283,-6.91872,107.64558,107.64558,-6.91872,35,3 Kaki,503.645/SI-0277/Disbang/2007
+667,Kiaracondong,Cicaheum,PT. Protelindo, Tbk,Jl. Jend. Ahmad Yani,-6.90306,107.65456,107.65456,-6.90306,12,Pole,503.645/1704/BPPT
+668,Kiaracondong,Sukapura,PT. Protelindo, Tbk,Jl. Lemah Khegar Timur RT  04 RW  04 No. Kode Pos 40285,-6.93048,107.65436,107.65436,-6.93048,36,4 Kaki,503.645/SI-0545Disbang/2007
+669,Kiaracondong,Babakan Surabaya,PT. Protelindo, Tbk,Jl. Setrawangi Raya No. 10 RT  04 RW  15 ,-6.91863,107.65269,107.65269,-6.91863,15,4 Kaki,503.645/2191/BPPT
+670,Kiaracondong,Kebon Gedang,PT. Protelindo, Tbk,Jl. Kiaracondong 176 RT 07 RW  04 ,-6.92684,107.64432,107.64432,-6.92684,25,3 Kaki,503.645/1742/BPPT
+671,Kiaracondong,Cicaheum,PT. Protelindo, Tbk,Jl. Jend. Ahmad Yani No. 1033 Kota Bandung Prov. Jawa Barat.,-6.9021,107.65988,107.65988,-6.9021,6,Pole,-
+672,Kiaracondong,Sukapura,PT. Protelindo, Tbk,Jl. Terusan Psm RT 07 RW  06 ,-6.93091,107.65268,107.65268,-6.93091,31,3 Kaki,503.645/337/BPPT
+673,Kiaracondong,Cicaheum,PT. Solusi Tunas Pratama,Jl.  A. Yani No.  802 - 804 RT 01 / RW  05 ,-6.90291,107.65462,107.65462,-6.90291,25,4 Kaki,503.645/SI-0471 Disbang/07
+674,Kiaracondong,Kebon Kangkung,PT. Solusi Tunas Pratama,Jl. Sekejati Komplek Dezinbang 1 / III,-6.939495,107.645329,107.645329,-6.939495,35,3 Kaki,503.645/1706/BPPT
+675,Kiaracondong,Babakan Sari,PT. Solusi Tunas Pratama,Jl. Mekarsari No.  67 RT 03 RW  13 ,-6.92653,107.654607,107.654607,-6.92653,32,3 Kaki,503.645/5867/BPPT
+676,Kiaracondong,Kebon Kangkung,PT. Solusi Tunas Pratama,Jl. Mandala RT 02 RW  11 ,-6.942944444,107.6446389,107.6446389,-6.942944444,31,3 Kaki,55.06/05/DPM-PTSP/IV/2017
+677,Kiaracondong,Kebon Kangkung,PT. Centratama Menara Indonesia,Jl. Let. Jend Ibrahim Adjie No. 453 RT 01 RW  11 Desa Kebon Kangkung Kec. Kiaracondong Kota Bandung,-6.942448,107.642428,107.642428,-6.942448,25,4 Kaki,503.645/2422/BPPT 2012
+678,Lengkong,Cijagra,PT. Protelindo,Jl. Soekarno -Hatta No. 489-491,-6.94917,107.62531,107.62531,-6.94917,42,Sst,503.645/SI-1310 Disbang/2005
+679,Lengkong,Cijagra,PT. Protelindo,Jl. Buahbatu 184 RT 01 RW  01,-6.93944,107.62486,107.62486,-6.93944,12,Pole,503.645/1373/BPPT
+680,Lengkong,Malabar,PT. Protelindo, Tbk,Jl. Buah Batu No. 47A RT  04 RW  11 Kode Pos 40262,-6.93257,107.61891,107.61891,-6.93257,23,3 Kaki,503.645/SI-3147Disbang/2006
+681,Lengkong,Malabar,PT. Protelindo, Tbk,Jl. Jend. Ahmad Yani,-6.92009,107.62222,107.62222,-6.92009,25,4 Kaki,503.645/1741/BPPT
+682,Lengkong,Cijagra,PT. Protelindo, Tbk,Jl. Situsari II No. 15A RT 04 RW  07 ,-6.94656,107.62974,107.62974,-6.94656,12,Pole,503/645/3548/BPPT
+683,Lengkong,Malabar,PT. Protelindo, Tbk,Jl. K. H. Achmad Dahlan No. 56 RT 02 RW  010 ,-6.9326,107.62127,107.62127,-6.9326,12,Pole,503.645/4461/BPPT
+684,Lengkong,Cijagra,PT. Protelindo, Tbk,Jl. Cijagra No. 19 RT 04 RW  03,-6.94445,107.62715,107.62715,-6.94445,12,Pole,503.645/1669/BPPT
+685,Lengkong,Cijagra,PT. Protelindo, Tbk,Jl. Buah Batu No. 148 RT 01/01,-6.93938,107.62482,107.62482,-6.93938,6,Pole,-
+686,Lengkong,Cijagra,PT. Protelindo, Tbk,Jl. Sukarno  Ð Hatta No. 505,-6.94801,107.62836,107.62836,-6.94801,18,Pole,-
+687,Lengkong,Turangga,Daya Mitra Telekomunikasi,Jl. Soekarno  Hatta No. 529 Bandung,-6.94742,107.634617,107.634617,-6.94742,6,Pole,IMB - 643.3/0996
+688,Lengkong,Cijagra,Daya Mitra Telekomunikasi,Jl. Buah Batu No. 184 RT 01/12,-6.939451,107.624767,107.624767,-6.939451,12,Pole,IMB - 503/145/IMB/BPMT2T/2012
+689,Lengkong,Lingkar Selatan,PT. Indosat, Tbk,Ji. Terusan Halimun No. 37 (Kampus Ita),-6.92641,107.626191,107.626191,-6.92641,40,4 Kaki,503.645/S1-0202Disbang/2002
+690,Lengkong,Turangga,PT. Indosat, Tbk,Jl. Kerawitan Koperasi Kekar Turangga Bandung,-6.938959,107.627602,107.627602,-6.938959,32,4 Kaki,503.645/S1-0254 Disbang/2002
+691,Lengkong,Lingkar Selatan,PT. Tower Bersama Group,Jl. Pelajar Pejuang No. 22,-6.92834,107.627,107.627,-6.92834,25,4 Kaki,503.645/3990/BPPT
+692,Lengkong,Cijagra,PT. Tower Bersama Group,Jl. Suryalaya Timur II,-6.9455,107.625,107.625,-6.9455,32,4 Kaki,503.645/0521/BPPT
+693,Lengkong,Cijagra,PT. Tower Bersama Group,Jl. Suryalaya Indah (Balai SaRT ika),-6.94292,107.625,107.625,-6.94292,26,Pole,503.645/2111/BPPT
+694,Lengkong,Cikawao,PT. Tower Bersama Group,Jl. Dalem Kaum No. 85,-6.92265,107.609,107.609,-6.92265,25,4 Kaki,503.645/2/12/BPPT
+695,Lengkong,Paledang,PT. Solusi Tunas Pratama,RukoJl. Karapitan No. 20B RT /RW  03/04,-6.92478,107.617,107.617,-6.92478,12,Pole,503.645/SI-0793 Disbang/III-07
+696,Lengkong,Turangga,PT. Solusi Tunas Pratama,Jl. Maskumambang No. 6D RT 03 RW  03,-6.93461,107.6265,107.6265,-6.93461,20,3 Kaki,503.645/SI-0465 Disbang/07
+697,Lengkong,Lingkar Selatan,PT. Solusi Tunas Pratama,Jl. Terusan Halimun No. 37,-6.926388889,107.6266111,107.6266111,-6.926388889,30,4 Kaki,503/IMB/1488/XII/2016
+698,Lengkong,Turangga,PT. Solusi Tunas Pratama,Jl. Buah Batu No. 281Bandung,-6.94744444,107.6332194,107.6332194,-6.94744444,9,Pole,503/63-IMB/435.120/2017
+699,Lengkong,Burangrang,PT. Telkomsel,Jl. Buahbatu No. 26,-6.931348,107.617209,107.617209,-6.931348,20,3 Kaki,-
+700,Lengkong,Cikawao,PT. Telkomsel,Jl. Lengkong Besar,-6.92876,107.612868,107.612868,-6.92876,6,Pole Rooftop,-
+701,Lengkong,Malabar,PT. Telkomsel,Jl. Gatot Subroto No. 9,-6.922514,107.618404,107.618404,-6.922514,15,3 Kaki,-
+702,Lengkong,Turangga,PT. Telkomsel,Jl. Maskumambang,-6.934065,107.62591,107.62591,-6.934065,40,4 Kaki,-
+703,Lengkong,Turangga,PT. Telkomsel,Jl. Rajamantri Kulon,-6.942447,107.630787,107.630787,-6.942447,32,4 Kaki,-
+704,Lengkong,Cijagra,PT. Telkomsel,Jl. Bkr No. 11 Buah Batu-Bandung,-6.9377,107.6215,107.6215,-6.9377,6,Pole,NO NEED
+705,Lengkong,Turangga,PT. Telkomsel,Jl. n. Guntur Sari II No. 10 RT 05 RW 04,-6.94506,107.632,107.632,-6.94506,6,Pole,NO NEED
+706,Lengkong,Malabar,PT. Telkomsel,Jl. Telaga Bodas No. 31 ( Graha Kadin ),-6.92814,107.62211,107.62211,-6.92814,6,Pole,NO NEED
+707,Lengkong,Turangga,PT. Telkomsel,Jl. Bangreng No.  8,-6.93891,107.629293,107.629293,-6.93891,6,Pole,NO NEED
+708,Lengkong,Paledang,PT. Telkomsel,Jl. Bapa Supi No. 15 RT 02/RW 03,-6.9243,107.6145,107.6145,-6.9243,6,Pole,NO NEED
+709,Lengkong,Cijagra,PT. Telkomsel,Jl. Buah Batu No. 81F/206B,-6.941978,107.626961,107.626961,-6.941978,6,Pole,NO NEED
+710,Lengkong,Lingkar Selatan,PT. Telkomsel,Jl. Engkol No. 12 RT 01 RW 01,-6.93023,107.62367,107.62367,-6.93023,4.2,Pole,NO NEED
+711,Lengkong,Paledang,PT. Telkomsel,Wisma Aca Jl. Asia Afrika No.  116 Bandung RT 06 RW  01,-6.9218,107.612,107.612,-6.9218,6,Monopole,NO NEED
+712,Lengkong,Lingkar Selatan,PT. Telkomsel,Jl. Patuha No. 33 RT 04 RW 06,-6.92644,107.625,107.625,-6.92644,6,Pole,NO NEED
+713,Lengkong,Lingkar Selatan,PT. Telkomsel,Jl. Turangga No. 25 D (Masuk Dr Samping AlfamaRT ) RT 03 RW  09,-6.93066,107.63557,107.63557,-6.93066,6,Pole,NO NEED
+714,Sumur Bandung,Kebon Pisang,PT. Xl Axiata, Tbk,Jl. A. Yani No. 10-12 Bandung,-6.922111111,107.6184444,-6.922111111,107.6184444,15,4 Kaki,503.645/SI-2509 Disbang/2002
+715,Batununggal,Cibangkong,PT. Xl Axiata, Tbk,Jl. Gatot Subroto No. 245,-6.926166667,107.6334444,-6.926166667,107.6334444,15,4 Kaki,503.645/1301/BPPT
+716,Lengkong,Turangga,PT. Xl Axiata, Tbk,Jl. Kliningan Asri No. 2 RT 02/05,-6.942444444,107.6283333,-6.942444444,107.6283333,30,4 Kaki,503.645/972/BPPT/11
+717,Lengkong,Burangrang,PT. Xl Axiata, Tbk,Jl. Burangrang Dalam No. 45,-6.927638889,107.6188056,-6.927638889,107.6188056,30,Pole,503.645/874/BPPT
+718,Lengkong,Cijagra ,PT. Xl Axiata, Tbk,Jl. Wesel RT 06 RW 06 Komplek Pos Dan Telekomunikasi Buah Batu,-6.940111111,107.6217778,-6.940111111,107.6217778,30,4 Kaki,503.645/216/BPPT
+719,Lengkong,Cikawao,PT. Xl Axiata, Tbk,Jl. Dalem Kaum No. 130A RT 05 RW  09,-6.923361111,107.6105278,-6.923361111,107.6105278,20,3 Kaki,503.645/924/BPPT
+720,Lengkong,Turangga,PT. Xl Axiata, Tbk,Jl. Pelajar Pejuang 45 Kota Bandung 40264,-6.93572,107.625,-6.93572,107.625,9,Pole,503.648.1/377/BPMPPT/2008
+721,Regol,Balonggede,PT. Xl Axiata, Tbk,Jl. Pungkur No. 49 ,-6.927046,107.605327,-6.927046,107.605327,25,3 Kaki,503.645/SI-1997 Disbang/2006
+722,Lengkong,Malabar,PT. Xl Axiata, Tbk,Jl. Ketapang No. 4 Kodya Bandung,-6.92172,107.61948,-6.92172,107.61948,25,3 Kaki,503.645/SI-2899 Disbang/2006
+723,Lengkong,Lingkar Selatan,PT. Xl Axiata, Tbk,Jl. Terusan Halimun No. 37 Bandung,-6.92649,107.62653,-6.92649,107.62653,25,3 Kaki,503.645/SI-3447 Disbang/2006
+724,Lengkong,Cikawao,PT. Permata Karya Perdana,Jl. Karapitan No.  112 RT 06 RW  01,-6.92658,10761688,10761688,-6.92658,12,Pole,663.10/00001/XI/2016/BPPT 2 NOP 218
+725,Lengkong,Cijagra ,PT. Permata Karya Perdana,Jl. Raya RT 06/05 ,-693,844,107.61984,107.61984,-693,844,18,Pole,563.10/0007/IMB.T/XI/2016/BPPT 10 NOP 2016
+726,Lengkong,Cikawao,Hutchinson,Jl. Lengkong Besar No. 74 (Baru No. 64) RT 01/RW 05,-6.92829,107.61256,107.61256,-6.92829,20,Kaki 4,-
+727,Lengkong,Lingkar Selatan,Hutchinson,Jl. Pelajar Pejuang 45 No. 95 RT 03/RW 01,-6.93139,107.62624,107.62624,-6.93139,36,Kaki 4,-
+728,Lengkong,Malabar,Hutchinson,Jl. Jend.Gatot Subroto No. 30 RT 07/RW 07,-6.9232,107.62172,107.62172,-6.9232,10,Pole,-
+729,Mandalajati,Sindang Jaya,Daya Mitra Telekomunikasi,Jl. Suka Asih Raya Atas No. 273,-6.899188,107.685212,107.685212,-6.899188,42,4 Kaki,IMB - 503.645/3836/BPPT
+730,Mandalajati,Jatihandap,Daya Mitra Telekomunikasi,Jl. Raya Cikadut No. 3 RT 01/01,-6.903476,107.665398,107.665398,-6.903476,12,Pole,IMB - 503/126/IMB/XLIV/2012
+731,Mandalajati,Jatihandap,Daya Mitra Telekomunikasi,Kp. Cicage RT 01/03,-6.901766,107.661089,107.661089,-6.901766,29,Pole,IMB - 503.645/2142/BPPT
+732,Mandalajati,Pasir Impun,PT. Indosat, Tbk,Kp. Dangus Maung Pasir Impun RT 04/07,-6.898666,107.674916,107.674916,-6.898666,42,4 Kaki,503.645/S1-0840 Disbang/2005
+733,Mandalajati,Pasir Impun,PT. Tower Bersama Group,Jl. Raya Pasir Impun RW  03,-6.90055,107.676,107.676,-6.90055,53,4 Kaki,503.645/SI-1795 Disbang/2006
+734,Mandalajati,Jatihandap,PT. Tower Bersama Group,Jl. H. Aceng RT 07/08,-6.89502,107.661,107.661,-6.89502,40,4 Kaki,503.645/SI-1761 Disbang/06
+735,Mandalajati,Pasir Impun,PT. Telkomsel,Jl. Raya Pasir Impun,-6.898767,107.676168,107.676168,-6.898767,42,4 Kaki,-
+736,Mandalajati,Karang Pamulang,PT. Telkomsel,Babakan Sekebiru RT 03 RW 01,-6.90177,107.66884,107.66884,-6.90177,6,Pole,NO NEED
+737,Mandalajati,Sindang Jaya,PT. Telkomsel,Jl. Moch. Syahri RT 03 RW 012,-6.90208,107.68217,107.68217,-6.90208,6,Pole,NO NEED
+738,Mandalajati,Sindang Jaya,PT. Telkomsel,Jl. Raya A.H.Nasution (Tagog Sindanglaya) No. 89,-6.90286,107.68586,107.68586,-6.90286,4.2,Pole,NO NEED
+739,Mandalajati,Karang Pamulang,PT. Protelindo,Jl. Pasir Impun RT 01/RW 12,-6.89659,107.67628,107.67628,-6.89659,42,Sst,503.645/1243/BPMPPT/2009
+740,Mandalajati,Jatihandap,PT. Protelindo, Tbk,Jl. Sirnagalih B-15 RT 01 RW  08,-6.8968,107.65751,107.65751,-6.8968,15,Pole,503.645/0687/BPPT
+741,Mandalajati,Karang Pamulang,PT. Protelindo, Tbk,Jl. Cikadut No. 8,-6.89692,107.66976,107.66976,-6.89692,40,3 Kaki,663.10/0001/IMBT/VI/2016/BPPT
+742,Mandalajati,Jatihandap,PT. Protelindo, Tbk,Jl. Mandala VIII No. 153,-6.8915,107.66612,107.66612,-6.8915,40,3 Kaki,663.10/0001/IMBT/XII/2015/BPPT
+743,Mandalajati,Karang Pamulang,PT. Protelindo, Tbk,Jl. A. H. Nasution No. 87 RT 04 RW  06,-6.90456,107.67254,107.67254,-6.90456,12,Pole,503.645/0570/BPPT
+744,Mandalajati,Karang Pamulang,PT. Solusi Tunas Pratama,Kamp. Mande RT 04/05,-6.892378,107.671494,107.671494,-6.892378,42,4 Kaki,503.645/SI-0814 Disbang/V-07
+745,Mandalajati,Karang Pamulang,PT. Solusi Tunas Pratama,Jl. Terusan Cikadut No. 19 RT 03/RW 04,-6.896972222,107.6694722,107.6694722,-6.896972222,9,Pole,-
+746,Mandalajati,Karang Pamulang,PT. Centratama Menara Indonesia,Jl. Ah Nasution RT 02 RW  01,-6.9036,107.66587,107.66587,-6.9036,52,4 Kaki,IMB RELEASED
+747,Mandalajati,Jatihandap,PT. Centratama Menara Indonesia,Jl. Jatihandap RT 07/06,-6.89843,107.65856,107.65856,-6.89843,19,Pole,IMB RELEASED
+748,Mandalajati,Jatihandap,Hutchinson,Jl. A.Yani No. 868,-6.90208,107.65968,107.65968,-6.90208,20,Kaki 4,-
+749,Mandalajati,Jatihandap,Naragita,Jl. Tengah RT  01/17,-6.97425,107.55518,107.55518,-6.97425,42,Kaki 4,-
+750,Buahbatu,Sekejati,PT. Protelindo, Tbk,Jl. Soekarno -Hatta No.  689,-6.93917,107.65855,107.65855,-6.93917,42,4 Kaki,503.645/SI-2298 Disbang/2004
+751,Buahbatu,Sekejati,PT. Protelindo, Tbk,Jl. Cidurian Baru 17 RT  04 RW  05 No. Kode Pos 40286,-6.9397,107.65452,107.65452,-6.9397,35,3 Kaki,503.645/SI-0153Disbang/2007
+752,Buahbatu,Margasari,PT. Protelindo, Tbk,Kp. Margaluyu,-6.95275,107.6511,107.6511,-6.95275,45,3 Kaki,503.645/1698/BPPT
+753,Buahbatu,Sekejati,PT. Protelindo, Tbk,Jl. Jend Ibrahim Adjie RT 04 RW 01,-6.94749,107.64215,107.64215,-6.94749,31,4 Kaki,503.645/SI-2071 Disbang/06
+754,Buahbatu,Cijaura,PT. Xl Axiata, Tbk,Jl. Kencana Wangi Utara I No.  1 RT 01 RW  17,-6.958805556,107.65225,-6.958805556,107.65225,30,3 Kaki,503.645/362/BPPT
+755,Buahbatu,Margasari,PT. Xl Axiata, Tbk,Jl. Cipagalo Girang RT  02 RW  03,-6.948472222,107.6469722,-6.948472222,107.6469722,30,3 Kaki,503.645/361/BPPT
+756,Rancasari,Mekar Jaya,PT. Protelindo,Gg. Banyu Biru,-6.9652,107.66438,107.66438,-6.9652,42,Sst,503.645/341/BPMPPT/2008
+757,Panyileukan,Cipadung Kidul,PT. Protelindo, Tbk,Jl. Anyelir I No. 22 RT 04 RW  12,-6.94345,107.70866,107.70866,-6.94345,35,3 Kaki,503.645/4094/BPPT
+758,Panyileukan,Cipadung Kulon,PT. Protelindo, Tbk,Jl. Sukamaju RT 03 RW  05,-6.92349,107.7058,107.7058,-6.92349,25,4 Kaki,503.645/0850/BPPT
+759,Panyileukan,Cipadung Kidul,PT. Protelindo, Tbk,Jl. Komp. Bumi Panyileukan Blok Ab6 No. 9 RT 03 RW 13,-6.94027,107.7138,107.7138,-6.94027,18,Pole,503.645/4305/BPPT
+760,Panyileukan,Mekar Mulya,PT. Indosat, Tbk,Ji. Sukarno  Hatta Km12.5 Komplek Lingkungan Industri Kecil,-6.935507,107.699494,107.699494,-6.935507,42,4 Kaki,503.645/51-2401 Disbang/2002
+761,Panyileukan,Mekar Mulya,PT. Indosat, Tbk,Jl. Panghegar,-6.92424,107.698209,107.698209,-6.92424,62,4 Kaki,503.645/S1-027DISBANG/2005
+762,Panyileukan,Cipadung Kidul,PT. Tower Bersama Group,Kp. Panyileukan RT 03/01,-6.9382,107.716,107.716,-6.9382,47,4 Kaki,530.645/2083/BPPT
+763,Panyileukan,Cipadung Kulon,PT. Tower Bersama Group,Jl. Sindang Sari Vi,-6.92067,107.7,107.7,-6.92067,34,4 Kaki,503.645/2500/BPPT
+764,Panyileukan,Mekar Mulya,PT. Solusi Tunas Pratama,Jl. Mekar Raya Kav. 55,-6.92989,107.700302,107.700302,-6.92989,45,3 Kaki,503.645/749/BPPT
+765,Panyileukan,Mekar Mulya,PT. Telkomsel,Jl. Mekarmulya,-6.935729,107.703341,107.703341,-6.935729,42,4 Kaki,-
+766,Panyileukan,Cipadung Kidul,PT. Telkomsel,Bumi Panyileukan,-6.94599,107.714625,107.714625,-6.94599,32,Monopole,-
+767,Mandalajati,Karang Pamulang,PT. Telkomsel,Gedung Dawah Jl. Abdul Haris Nasution No. 247,-6.93118,107.717315,107.717315,-6.93118,6,Pole,NO NEED
+768,Panyileukan,Cipadung Kulon,PT. Xl Axiata, Tbk,Jl. Mekar Mulya,-6.9355,107.6995,-6.9355,107.6995,36,Pole,503.645/SI-2511 Disbang/2006
+769,Panyileukan,Cipadung Kulon,PT. Xl Axiata, Tbk,Bengkel Cemerlang Jl. Ah. Nasution No. 14 RT 01 RW 07,-6.92489,107.70982,-6.92489,107.70982,42,3 Kaki,503.648.1/375/BPMPPT/2008
+770,Panyileukan,Cipadung Kulon,PT. Solusi Tunas Pratama,Jl. A.H. Nasution No. 236 Bandung,-6.921654,107.708543,107.708543,-6.921654,43,4 Kaki,503.645/42/BPPT/2010
+771,Rancasari,Manjahlega,PT. Protelindo,Jl. Merkuri Tengah X No. 2 RT 07 RW  08 ,-6.9462,107.66717,107.66717,-6.9462,12,Pole,503.645/4464/BPPT
+772,Rancasari,Manjahlega,PT. Protelindo,Jl. Saturnus Tengah No. 2 RT 04 RW  015,-6.95243,107.66541,107.66541,-6.95243,12,Pole,503.645/0104/BPPT
+773,Rancasari,Manjahlega,PT. Protelindo,Jl. Merkuri Raya Blok Q 40-42 Margahayu Raya Metro,-6.94578,107.66845,107.66845,-6.94578,6,Camouflage,tidak diperlukan IMB
+774,Rancasari,Cisaranten Kidul,PT. Protelindo, Tbk,Jl. Gedebage Selatan No. 189 RT  05/02 Kodepos 40295,-6.95539,107.68672,107.68672,-6.95539,45,3 Kaki,503.645/SI-1744 Disbang/2007
+775,Rancasari,Mekar Jaya,PT. Protelindo, Tbk,Jl. Gang Ciwastra RT 02 RW  06,-6.9624,107.66931,107.66931,-6.9624,38,3 Kaki,503.645/047/BPMPPT/2008
+776,Rancasari,Cipamokolan,PT. Protelindo, Tbk,Jl. Cipamokolan No. 38 RT  04 RW  08 Kode Pos 40292,-6.94867,107.67685,107.67685,-6.94867,35,3 Kaki,503.645/SI-1514Disbang/2007
+777,Rancasari,Manjahlega,PT. Protelindo, Tbk,Jl. Manjah Lega RT  04 RW  013,-6.95224,107.67012,107.67012,-6.95224,20,3 Kaki,-
+778,Rancasari,Cisaranten Kidul,PT. Protelindo, Tbk,Jl. Raya Gedebage,-6.94783,107.68862,107.68862,-6.94783,31,4 Kaki,503.645/210/BPPT
+779,Rancasari,Cipamokolan,PT. Protelindo, Tbk,Jl. Parakan Saat RT  01 RW  01,-6.93932,107.6723,107.6723,-6.93932,31,3 Kaki,503.645/SI-3215 Disbang/2005
+780,Rancasari,Cipamokolan,Daya Mitra Telekomunikasi,Jl. Cipamokolan Kolot,-6.941171,107.674815,107.674815,-6.941171,42,4 Kaki,IMB - 503.645/0028/BPPT
+781,Rancasari,Cipamokolan,PT. Indosat, Tbk,Kp/Blok Rancaloa RT 02/08,-6.945718,107.677,107.677,-6.945718,52,4 Kaki,503.645/51-2532 Disbang/2003
+782,Rancasari,Manjahlega,PT. Indosat, Tbk,Ji. Soekarno  Hatta 644A,-6.939174,107.67005,107.67005,-6.939174,55,4 Kaki,503/644.4/Si-0125-DPB/1998
+783,Rancasari,Derwati,PT. Tower Bersama Group,Komp. Riung Bandung 26 Kemakmuran 8 RT 06/11,-6.95746,107.68,107.68,-6.95746,32,Pole,503.645/2586/BPPT
+784,Rancasari,Mekar Jaya,PT. Tower Bersama Group,Kp. Rancacai,-6.95926,107.673,107.673,-6.95926,36,4 Kaki,503.645/3076/BPPT
+785,Rancasari,Manjahlega,PT. Tower Bersama Group,Jl. Mercuri Timur No.  1,-6.94463,107.67,107.67,-6.94463,30.2,Pole,503.645/1339/BPPT
+786,Rancasari,Manjahlega,PT. Tower Bersama Group,Jl. Mercuri Indah Timur N0 72,-6.94188,107.67,107.67,-6.94188,42,4 Kaki,503.645/SI-0691 Disbang/2005
+787,Rancasari,Manjahlega,PT. Tower Bersama Group,Jl. Manjah Lega RT 01/01,-6.95061,107.669,107.669,-6.95061,31,3 Kaki,503.645/3464/BPPT
+788,Rancasari,Mekar Jaya,PT. Tower Bersama Group,Komp. Pasir Pogor,-6.96342,107.662,107.662,-6.96342,32,4 Kaki,503.645/0235/BPPT
+789,Rancasari,Cipamokolan,PT. Solusi Tunas Pratama,Jl. Rancalili No.  29 RT 02 RW 06,-6.95385,107.6774,107.6774,-6.95385,40,Pole,503.645/SI-2551-DISBANG/2002
+790,Rancasari,Cipamokolan,PT. Solusi Tunas Pratama,Jl. Binaasih Utara No.  20 RT 2 RW  4,-6.94391,107.674,107.674,-6.94391,4,Pole,503.645/SI.0793 Disbang/IV-07
+791,Rancasari,Derwati,PT. Solusi Tunas Pratama,Kp. DaRW ali RT 01 RW 07,-6.96437,107.68738,107.68738,-6.96437,30,4 Kaki,640.2/226/IMB/2016
+792,Rancasari,Mekar Jaya,PT. Solusi Tunas Pratama,Jl. Raya Margacinta No. 27 RT 04 RW  03,-6.9635,107.67474,107.67474,-6.9635,32,3 Kaki,Proses
+793,Rancasari,Derwati,PT. Telkomsel,Jl. Terusan Saluyu,-6.950355,107.67829,107.67829,-6.950355,25,Monopole,-
+794,Rancasari,Derwati,PT. Telkomsel,Jl. DeRW ati RT 06 RW 04,-6.96548,107.68273,107.68273,-6.96548,6,Pole,NO NEED
+795,Rancasari,Derwati,PT. Telkomsel,Jl. Saluyu 1 No. 2 RT  01 RW  10,-6.95238,107.68338,107.68338,-6.95238,4.2,Pole,NO NEED
+796,Rancasari,Manjahlega,PT. Telkomsel,Jl. Merkuri Selatan Xiv No. 1/10 RT  01 RW  08 ,-6.94939,107.66647,107.66647,-6.94939,6,Pole,NO NEED
+797,Rancasari,Cisaranten Kidul,PT. Centratama Menara Indonesia,Jl. Riung Tineung No. 36 Riung Bandung,-6.94336,107.68395,107.68395,-6.94336,36,4 Kaki,IMB RELEASED
+798,Rancasari,Manjahlega,PT. Centratama Menara Indonesia,Jl. Rancabolang No. 208 RT  6 RW  16,-6.950538,107.661769,107.661769,-6.950538,26,4 Kaki,503.645/1228/BPPT 2010
+799,Rancasari,Cipamokolan,PT. Xl Axiata, Tbk,Jl. Rancacili,-6.958416667,107.6781389,-6.958416667,107.6781389,70,4 Kaki,503.645/1202/BPPT
+800,Rancasari,Cipamokolan,PT. Xl Axiata, Tbk,Jl. Cimapakolan No. 71 RT 01/RW  02,-6.94733,107.67649,-6.94733,107.67649,42,3 Kaki,503.645/SI-2816 Disbang/06
+801,Rancasari,Derwati,PT. Xl Axiata, Tbk,Jl. Derwati No. 60 RT  05 RW  05,-6.96576,107.68476,-6.96576,107.68476,42,3 Kaki,503.645/429/BPMPPT/2008
+802,Rancasari,Cipamokolan,PT. Permata Karya Perdana,Riung Hegar Manah RT 07 ,-694,265,107.87898,107.87898,-694,265,18,Pole,563.10/0003/IMBT/XI/2016/BPPT 4 NOP 2016
+803,Regol,Ciseureuh,PT. Protelindo, Tbk,Jl. Denki Selatan V No. 38 RT  05/02 Kodepos 40255,-6.94728,107.61175,107.61175,-6.94728,35,3 Kaki,503.645/SI-3050 Disbang/2006
+804,Regol,Ciateul,PT. Protelindo, Tbk,Jl. Mochamad Ramdhan No. 90 RT  07/03 Kodepos 40252,-6.93603,107.61061,107.61061,-6.93603,60,4 Kaki,503.645/SI-2519 Disbang/2006
+805,Regol,Pungkur,PT. Protelindo, Tbk,Itc Kebon KelapaJl. Mochamad Toha,-6.92887,107.60635,107.60635,-6.92887,9,Pole,-
+806,Regol,Pungkur,PT. Protelindo, Tbk,Jl. Pungkur No. 94 RT 05 RW  03,-6.92864,107.60925,107.60925,-6.92864,12,Pole,503.645/4634/BPPT
+807,Regol,Ancol,PT. Protelindo, Tbk,Jl. Moch. Ramdhan No.  5 RT 01 / 03 ,-6.93301,107.61491,107.61491,-6.93301,12,Pole,-
+808,Regol,Ciseureuh,PT. Protelindo, Tbk,Jl. Bbk. Ciseureuh Timur (Ciburuy) RT 03 RW  07,-6.9565,107.61343,107.61343,-6.9565,12,Pole,503.645/1692/BPPT
+809,Regol,Pungkur,PT. Protelindo, Tbk,Jl. Moch. Toha No. 38,-6.93146,107.60644,107.60644,-6.93146,12,Pole,663.10/0007/IMBT/XII/2015/BPPT
+810,Regol,Pasirluyu,PT. Protelindo, Tbk,Jl. Sukaati Permai I No. 7 ,-6.9532,107.62018,107.62018,-6.9532,12,Pole,663.10/0015/IMBT/XII/2015/BPPT
+811,Regol,Ancol,PT. Protelindo, Tbk,Jl. Srimahi III No. 1 RT 06 RW  01,-6.93717,107.61436,107.61436,-6.93717,12,Pole,503.645/0278/BPPT
+812,Regol,Pungkur,PT. Protelindo, Tbk,Jl. Otto Iskandardinata No. 419,-6.92836,107.60369,107.60369,-6.92836,15,4 Kaki,503.645/1215/BPPT
+813,Regol,Pasirluyu,PT. Protelindo, Tbk,Jl. Pasir Salam Raya No. 36 RT  07 RW  05,-6.94551,107.61931,107.61931,-6.94551,15,Pole,-
+814,Regol,Cigereleng,PT. Protelindo, Tbk,Jl. Moh. Toha No. 119 A RT  02 RW  04,-6.94102,107.6072,107.6072,-6.94102,9,Pole,-
+815,Regol,Ancol,PT. Protelindo, Tbk,Jl. Srimahi Dalam I No. 23 Ð 24 RT  02 RW  01,-6.93586,107.61572,107.61572,-6.93586,9,Pole,-
+816,Regol,Cigereleng,Daya Mitra Telekomunikasi,Jl. Moch. Toha No. 191 A,-6.944582,107.608152,107.608152,-6.944582,9,Pole,IMB - 503.645/1138/BPPT
+817,Regol,Ciateul,Daya Mitra Telekomunikasi,Jl. Sawah Kurung Raya No. 30,-6.935123,107.610714,107.610714,-6.935123,6,Pole,IMB-503.645/1590/BPPT
+818,Regol,Ancol,PT. Indosat, Tbk,Jl. Kembar Timur VII RT 02/07,-6.945067,107.614879,107.614879,-6.945067,42,4 Kaki,503.645/277/BPPT/2010
+819,Regol,Ciateul,PT. Indosat, Tbk,Jl. Ciateul No. 122Ciateul,-6.932257,107.609774,107.609774,-6.932257,15,4 Kaki,0696 Disbang/2003
+820,Regol,Balonggede,PT. Indosat, Tbk,Ji. Pungkur (Ji.Rd. Dewi SaRT ika) No. 64 RT 05/03,-6.927364,107.605657,107.605657,-6.927364,20,Pole,503.643.3/51-1978 DISBANG/2000
+821,Regol,Mengger,PT. Tower Bersama Group,Jl. Kutra Raya No. 2,-6.95604,107.622,107.622,-6.95604,52,4 Kaki,503.645/SI-1729-DISBANG/2001
+822,Regol,Ancol,PT. Tower Bersama Group,Jl. Pasir Salam RT 06/09,-6.94396,107.618,107.618,-6.94396,36,Pole,503.645/SI-3345 Disbang/2006
+823,Regol,Ciateul,PT. Solusi Tunas Pratama,Jl. Moh Toha No.  71-73,-6.93482,107.60677,107.60677,-6.93482,52,4 Kaki,503.645/SI.0794 Disbang/IV-07
+824,Regol,Pasirluyu,PT. Solusi Tunas Pratama,Jl. Mengger Girang I No.  39 RT 13 RW  08,-6.95194,107.61603,107.61603,-6.95194,9,Pole,503.645/SI-0792 Disbang/III-07
+825,Regol,Ciseureuh,PT. Solusi Tunas Pratama,Komplek Pln No. 102/103 RT 01 RW  05,-6.95092,107.61276,107.61276,-6.95092,12,Pole,Proses
+826,Regol,Ancol,PT. Telkomsel,Jl. Bkr No. 90,-6.937812,107.616689,107.616689,-6.937812,15,3 Kaki,IMB-Bdg 2009_12
+827,Regol,Ciseureuh,PT. Telkomsel,Jl. Ciburuy RT 06/06,-6.956419,107.613891,107.613891,-6.956419,36,Monopole,IMB-Bdg 2013_24
+828,Regol,Pungkur,PT. Telkomsel,Jl. Pungkur,-6.927542,107.607002,107.607002,-6.927542,20,4 Kaki,-
+829,Regol,Cigereleng,PT. Telkomsel,Jl. Moch. Toha,-6.938738,107.606251,107.606251,-6.938738,9,3 Kaki,-
+830,Regol,Pasirluyu,PT. Telkomsel,Jl. Pasirjaya Vi No.  2,-6.9408,107.6213,107.6213,-6.9408,RT 20m,3 Kaki,IMB-Bdg 2015_18
+831,Regol,Balonggede,PT. Telkomsel,Jl. Dewi SaRT ika No. 27 Regol Bandung 40251,-6.9236,107.6061,107.6061,-6.9236,6,Pole,NO NEED
+832,Regol,Cigereleng,PT. Telkomsel,Jl. Kembar Baru Selatan 3 No. 14,-6.94134,107.61129,107.61129,-6.94134,6,Pole,NO NEED
+833,Regol,Balonggede,PT. Telkomsel,Jl. Dalem Kaum No. 54,-6.92242,107.60633,107.60633,-6.92242,6,Pole,NO NEED
+834,Regol,Ciseureuh,PT. Telkomsel,Jl. Moch Toha No. 355D RT  07 RW  05,-6.95467,107.61188,107.61188,-6.95467,6,Pole,NO NEED
+835,Regol,Pasirluyu,PT. Telkomsel,Jl. Pasirluyu Selatan No. 25 RT  04 RW  09 ,-6.9460938,107.6210883,107.6210883,-6.9460938,6,Pole,NO NEED
+836,Regol,Ciseureuh,PT. Centratama Menara Indonesia,Jl. Sriwijaya No. 107 RT 05/01,-6.94489,107.61308,107.61308,-6.94489,9,Pole,503.645/3261/BPPT 2014
+837,Regol,Cigereleng,PT. Xl Axiata, Tbk,Jl. H. Aksan,-6.941388889,107.6111111,-6.941388889,107.6111111,30,4 Kaki,503.645/1062/BPPT
+838,Regol,Balonggede,Hutchinson,Jl. Otista No. 347 RT 01/RW 03,-6.92611,107.60392,107.60392,-6.92611,15,Pole,-
+839,Regol,Pasirluyu,Naragita,Jl. Mengger Girang I No. 39 RT  13/08,-6.95178,107.615905,107.615905,-6.95178,30,Pole,-
+840,Regol,Pungkur,Naragita,Jl. Ciateul Tengah No. 22 RT  08 RW  06,-6.93095,107.60992,107.60992,-6.93095,6,Pole,-
+841,Sukajadi,Sukabungah,PT. Xl Axiata, Tbk,Jl. Pasir Kaliki (Hos Cokro AmiNo. to) No. 237 RT  02/011,-6.897327,107.597103,-6.897327,107.597103,36,Pole,503.645/SI-3606 Disbang/2006
+842,Sukajadi,Cipedes,PT. Protelindo,Jl. Sukagalih No. 70 RT 03 RW  07,-6.89227,107.59229,107.59229,-6.89227,12,Pole,503.645/3549/BPPT
+843,Sukajadi,Sukabungah,PT. Protelindo, Tbk,Jl. Dr. Djunjunan,-6.89931,107.59528,107.59528,-6.89931,30,3 Kaki,503.645/91-2432 Disbang/04
+844,Sukajadi,Sukagalih,PT. Protelindo, Tbk,Jl. Cipedes Tengah No. 15,-6.88853,107.59047,107.59047,-6.88853,45,3 Kaki,0001/IMBT-HERR/XII/2016/BPPT
+845,Sukajadi,Cipaganti,PT. Protelindo, Tbk,Jl. Sederhana 67,-6.89214,107.59908,107.59908,-6.89214,12,Pole,-
+846,Sukajadi,Pasteur,PT. Protelindo, Tbk,Jl. Sukajadi No. 140 RT  01 RW  06 ,-6.88949,107.59732,107.59732,-6.88949,15,4 Kaki,503.645/1952/BPPT
+847,Sukajadi,Pasteur,PT. Protelindo, Tbk,Hotel Naval Jl. Sukajadi No.  180 RT  08 RW  02,-6.88489,107.59686,107.59686,-6.88489,6,Pole,-
+848,Sukajadi,Sukabungah,PT. Protelindo, Tbk,Jl. Gang Sukabakti,-6.89353,107.59482,107.59482,-6.89353,12,Pole,663.10/0004/IMBT/XII/2015/BPPT
+849,Sukajadi,Sukagalih,PT. Protelindo, Tbk,Babakan Caringin RT  04 / RW  04 ,-6.88906,107.58604,107.58604,-6.88906,12,Pole,-
+850,Sukajadi,Sukawarna,PT. Protelindo, Tbk,Jl. Cibogo Atas No. 136 RT 03 RW  03,-6.88381,107.57743,107.57743,-6.88381,12,Pole,503.645/271/BPPT
+851,Sukajadi,Cipedes,PT. Protelindo, Tbk,Gg. Campaka Jl. Cipedes Tengah RT  03 RW  01,-6.88201,107.59067,107.59067,-6.88201,6,Pole,-
+852,Sukajadi,Sukagalih,PT. Protelindo, Tbk,Jl. Mulyasari Selatan RT 2 RW  4,-6.89141,107.5887,107.5887,-6.89141,42,3 Kaki,503.645/SI-3571 Disbang/2006
+853,Sukajadi,Sukawarna,PT. Protelindo, Tbk,Reddoorz Jl. Cibogo Bawah No.  23-25,-6.88982,107.57898,107.57898,-6.88982,6,Pole,-
+854,Sukajadi,Sukagalih,Daya Mitra Telekomunikasi,Jl. Surya Sumantri No. 6,-6.891543,107.581717,107.581717,-6.891543,6,Pole,IMB - 503/11/IMB/KPPTPM/2012
+855,Sukajadi,Sukagalih,Daya Mitra Telekomunikasi,Jl. Dr. Junjunan,-6.893899,107.58799,107.58799,-6.893899,6,Pole,IMB - 01.07/82/BPM-PTP/VIII/2012
+856,Sukajadi,Sukagalih,Daya Mitra Telekomunikasi,Masjid Al Muraby. Jl. Hegarmanah No. 10 ,-6.8811867,107.5823777,107.5823777,-6.8811867,9,Pole,IMB - 503.645/2415/BPPT
+857,Sukajadi,Sukawarna,PT. Indosat, Tbk,Babakan Cilandak RT 02/04,-6.882599,107.579269,107.579269,-6.882599,25,4 Kaki,503.645/S1-0442 Disbang/2007
+858,Sukajadi,Sukawarna,PT. Indosat, Tbk,Jl. Prof. Dr. Suria Sumantri No. 65,-6.88534,107.580974,107.580974,-6.88534,15,4 Kaki,503.645/2344/BPPT
+859,Sukajadi,Pasteur,PT. Indosat, Tbk,Jl. Sukajadi Gang Sukagalih No. 18C,-6.895042,107.597461,107.597461,-6.895042,15,4 Kaki,503.645/SI-2489 Disbang/2001
+860,Sukajadi,Pasteur,PT. Indosat, Tbk,Sukajadi No. 174 (Hotel Sukajadi),-6.885394,107.597224,107.597224,-6.885394,15,Pole,503.643.3/51-1995 DISBANG/2000
+861,Sukajadi,Pasteur,PT. Indosat, Tbk,Jl. Sempurna No. 33C RT 07/08,-6.891111,107.599449,107.599449,-6.891111,15,Pole,503.645/51-2899 Disbang/2001
+862,Sukajadi,Sukajadi,PT. Tower Bersama Group,Jl. Sukagalih No. 15 / Jl. Bungur,-6.87984,107.595,107.595,-6.87984,42,4 Kaki,503.645/3073/BPPT
+863,Sukajadi,Sukagalih,PT. Tower Bersama Group,Jl. Cipedes Tengah 1,-6.87911,107.59,107.59,-6.87911,26,Pole,Tower Menara Masjid, TBG sewa space ke pihak DKM
+864,Sukajadi,Sukagalih,PT. Tower Bersama Group,Jl. Setrawangi Selatan,-6.88483,107.585,107.585,-6.88483,12,Pole,663.10/0002/IMBT/XII/2015BPPT
+865,Sukajadi,Sukawarna,PT. Solusi Tunas Pratama,London Beauty CentreJl. Surya Sumantri No. 8 B RT  05 / 04,-6.88159,107.58118,107.58118,-6.88159,20,3 Kaki,503.645/SI-0811 Disbang/V-07
+866,Sukajadi,Pasteur,PT. Solusi Tunas Pratama,Jl. Cihampelas No. 186 Bandung,-6.89294,107.60469,107.60469,-6.89294,6,Pole,Not Required
+867,Sukajadi,Pasteur,PT. Solusi Tunas Pratama,Jl. Sarijadi No. 116 Bandung,-6.89112,107.59695,107.59695,-6.89112,15,3 Kaki,503/092/P/D/DPMPTSP
+868,Sukajadi,Sukabungah,PT. Solusi Tunas Pratama,Jl. H. Yasin No. 78 A RT 02/RW 03,-6.893,107.5935833,107.5935833,-6.893,6,Pole,570/019/IMB/IV/2017
+869,Sukajadi,Sukagalih,PT. Solusi Tunas Pratama,Jl. Babakan Jeruk III B No. 4,-6.890916667,107.5853333,107.5853333,-6.890916667,9,Pole,503/021/IMB/DPMDPT/2017
+870,Sukajadi,Pasteur,PT. Telkomsel,Jl. Sukajadi No. 152 C,-6.88837,107.597338,107.597338,-6.88837,20,3 Kaki,-
+871,Sukajadi,Cipedes,PT. Telkomsel,Jl. Babakan Caringin,-6.888278,107.587598,107.587598,-6.888278,42,4 Kaki,-
+872,Sukajadi,Sukabungah,PT. Telkomsel,Jl. Sukajadi No. 31,-6.895226,107.597439,107.597439,-6.895226,20,3 Kaki,-
+873,Sukajadi,Sukawarna,PT. Telkomsel,Jl. Pariwisata No. 17 RT  01 RW  03,-6.885936,107.577283,107.577283,-6.885936,6,Pole,NO NEED
+874,Sukajadi,Cipedes,PT. Telkomsel,Jl. Karang Tineung Dalam No.  13 RT 3 RW  4 ,-6.88411,107.59422,107.59422,-6.88411,6,Pole,NO NEED
+875,Sukajadi,Sukawarna,PT. Telkomsel,Jl. Surya Sumantri No. 65,-6.88578,107.58109,107.58109,-6.88578,6,Pole,NO NEED
+876,Sukajadi,Sukagalih,PT. Telkomsel,Jl. Babakan Jeruk I No. 10C  RT 2/1,-6.88899,107.5832,107.5832,-6.88899,6,Pole,NO NEED
+877,Sukajadi,Sukagalih,PT. Centratama Menara Indonesia,Jl. Sukamulya Indah No. 3 Kp. Kendal Gede RT 06 RW  02,-6.885917,107.586833,107.586833,-6.885917,18,Pole,503.645/2340/BPPT 2015
+878,Sukajadi,Sukagalih,PT. Centratama Menara Indonesia,Hotel Verona Jl. Suryasumantri No. 36 Bandung,-6.88925,107.582114,107.582114,-6.88925,3,Pole,IMB NR
+879,Sukajadi,Sukabungah,PT. Xl Axiata, Tbk,Jl. Sukajadi No. 11A RT 03 RW 05,-6.895777778,107.5971389,-6.895777778,107.5971389,15,4 Kaki,503.645/1001/BPPT
+880,Sukajadi,Pasteur,PT. Xl Axiata, Tbk,Jl. Sukajadi No. 180 RT 08/RW  02,-6.885,107.59685,-6.885,107.59685,15,Pole,503.645.4/879/BPMPPT/2009
+881,Sukajadi,Pasteur,Naragita,Jl. Jurang No. 65 RT  02/05,-6.8869,107.60039,107.60039,-6.8869,25,Pole,-
+882,Sukasari,Gegerkalong,PT. Protelindo,Jl. Bungur No. 41,-6.87837,107.59396,107.59396,-6.87837,42,Sst,503.645/0316/BPPT
+883,Sukasari,Isola,PT. Protelindo, Tbk,Jl. Negla Utara RT 05 RW  04,-6.85457,107.59413,107.59413,-6.85457,25,4 Kaki,503.645/2156/BPPT
+884,Sukasari,Sukarasa,PT. Protelindo, Tbk,Jl. Cilandak RT 04 RW  05,-6.8757,107.58093,107.58093,-6.8757,22,3 Kaki,-
+885,Sukasari,Isola,PT. Protelindo, Tbk,Jl. n. Padasaluyu 10 RT 03/RW 03,-6.85088,107.59447,107.59447,-6.85088,42,3 Kaki,503.645/SI-3572 Disbang/2006
+886,Sukasari,Gegerkalong,Daya Mitra Telekomunikasi,Jl. Geger Kalong RT 05/03,-6.864771,107.592784,107.592784,-6.864771,20,4 Kaki,IMB - 503.645/2854/BPPT
+887,Sukasari,Isola,Daya Mitra Telekomunikasi,Jl. Sersan Bajuri  No.  43 A RT ,-6.855146,107.59149,107.59149,-6.855146,15,Pole,IMB - 663.10/0002/IMBT/XI/2016/BPPT
+888,Sukasari,Sukarasa,Daya Mitra Telekomunikasi,Jl. Cipedes Atas No. 9 Sukarasa Sukasari Kota Bandung,-6.87693,107.59053,107.59053,-6.87693,4,Pole,0
+889,Sukasari,Sarijadi,PT. Indosat, Tbk,Sarijadi Baru 1 Kay.122 Sukarasa,-6.87242,107.581622,107.581622,-6.87242,42,4 Kaki,503.648.1/51-19835 Dpb
+890,Sukasari,Gegerkalong,PT. Indosat, Tbk,Jl. Budi Luhur No. 4Geger Kalong Hilir,-6.871214,107.593212,107.593212,-6.871214,42,4 Kaki,503.645/0513/BPPT
+891,Sukasari,Isola,PT. Indosat, Tbk,Ji. Raya Setiabudi Gg. Pada Saluyu No. 10 Ri 03/03 Isola (G,-6.85066,107.594258,107.594258,-6.85066,42,4 Kaki,503.645/SI-0800 Disbang/2005
+892,Sukasari,Isola,PT. Tower Bersama Group,Jl. CIImus RT 07/06,-6.85718,107.59,107.59,-6.85718,42,4 Kaki,503.645/1391/BPPT
+893,Sukasari,Sarijadi,PT. Tower Bersama Group,Jl. Sari Manis,-6.87767,107.574,107.574,-6.87767,15,Pole,Menara Masjid, Tidak ada tenant. Plan dismantle/hibah ke pihak sekolah
+894,Sukasari,Sukarasa,PT. Solusi Tunas Pratama,Jl. Prof Dr Ir Sutami No.  81-83 RT  04 RW 02,-6.87788,107.58877,107.58877,-6.87788,9,Pole,503.645/1951/BPPT
+895,Sukasari,Isola,PT. Solusi Tunas Pratama,Jl. Gegerkalong Girang Baru No. 11,-6.86269,107.59062,107.59062,-6.86269,9,Pole,503.645/1949/BPPT
+896,Sukasari,Sarijadi,PT. Solusi Tunas Pratama,Jl. Sarimanah 1 Blok 14 No. 106,-6.880444,107.577389,107.577389,-6.880444,6,Pole,34/DPMPTSP-503/IMB/PP/2017
+897,Sukasari,Gegerkalong,PT. Solusi Tunas Pratama,Jl. Sindang Sirna No. 14 RT 08/RW 06,-6.877472,107.593694,107.593694,-6.877472,9,Pole,503/IMB/DPMPPTSP/0604/V/2017
+898,Sukasari,Gegerkalong,PT. Solusi Tunas Pratama,Jl. Cepedes Atas No. 46A RT 04 RW  07 ,-6.87469,107.59088,107.59088,-6.87469,20,Pole,-
+899,Sukasari,Sarijadi,PT. Telkomsel,Jl. Sari Manis RT 01/08,-6.878582,107.574515,107.574515,-6.878582,50,4 Kaki,-
+900,Sukasari,Sukarasa,PT. Telkomsel,Jl. Sari Endah No. 16,-6.870407,107.581856,107.581856,-6.870407,42,4 Kaki,-
+901,Sukasari,Gegerkalong,PT. Telkomsel,Jl. Geger Kalong Girang RT 04/01,-6.862472,107.584225,107.584225,-6.862472,36,Monopole,-
+902,Sukasari,Sukarasa,PT. Telkomsel,Hotel Pilatus Jl. Gegerkaloong Hilir No.  119,-6.86863,107.58552,107.58552,-6.86863,6,Pole,NO NEED
+903,Sukasari,Sukarasa,PT. Telkomsel,Jl. Sukahaji RT  04 RW  03,-6.88761,107.584496,107.584496,-6.88761,6,Pole,NO NEED
+904,Sukasari,Gegerkalong,PT. Telkomsel,Jl. Setia Budi No. 105 RT 05/06 ,-6.8712,107.59325,107.59325,-6.8712,6,Pole,NO NEED
+905,Sukasari,Gegerkalong,PT. Telkomsel,Gedung Menara Telkom Dds Jl. Gegerkalong Hilir No. 47 Bandung Gedung,-6.8716,107.5891,107.5891,-6.8716,6,Pole,NO NEED
+906,Sukasari,Gegerkalong,PT. Centratama Menara Indonesia,Jl. Dr. Setiabudi No. 167 C RT 02 RW  04,-6.8684,107.593438,107.593438,-6.8684,12,Pole,503.645/2016/BPPT 2014
+907,Sukajadi,Pasteur,PT. Xl Axiata, Tbk,Jl. Sukajadi No. 174 - 176,-6.885472222,107.5972778,-6.885472222,107.5972778,15,Pole,503.645/SI-0524 DISBANG /2003
+908,Sukasari,Sarijadi,PT. Xl Axiata, Tbk,Jl. Sari Asih Iv No. 16 Kp. Cijerohkaso RT  07 RW  10 ,-6.874083333,107.57625,-6.874083333,107.57625,30,4 Kaki,503.645/SI-3107 Disbang/2006
+909,Cidadap,Hegarmanah,PT. Xl Axiata, Tbk,Jl. Setiabudi No. 170A,-6.872583333,107.5951111,-6.872583333,107.5951111,15,4 Kaki,503.645/1299/BPPT
+910,Sukasari,Isola,PT. Xl Axiata, Tbk,Jl. Setiabudi 249 RT 02/RW  04 ,-6.85727,107.59441,-6.85727,107.59441,52,3 Kaki,503.645/SI-0402 Disbang/2007
+911,Sukasari,Gegerkalong,PT. Xl Axiata, Tbk,Jl. Geger Kalong Girang RT  05 RW  06 ,-6.86205,107.58442,-6.86205,107.58442,36,Pole,503.645/SI-0389 Disbang/2007
+912,Sukasari,Sarijadi,Naragita,Jl. Sariasih Blok. 1 No. 2A,-6.87654,107.58003,107.58003,-6.87654,17,Kaki 3,-
+913,Sumur Bandung,Braga,PT. Protelindo, Tbk,Jl. Banceuy Gg. Suniaraja No. 21 RT 02 RW  02,-6.91774,107.60561,107.60561,-6.91774,12,Pole,503.645/3554/BPPT
+914,Sumur Bandung,Babakan Ciamis,PT. Protelindo, Tbk,Jl. Babakan Ciamis RT 05 RW 03,-6.91086,107.60789,107.60789,-6.91086,36,Pole,503.645/692/BPMPPT/2009
+915,Sumur Bandung,Babakan Ciamis,PT. Protelindo, Tbk,Jl. Merdeka No. 62A Bandung,-6.90783,107.61091,107.61091,-6.90783,21,4 Kaki,503.645/926/BPPT
+916,Sumur Bandung,Kebon Pisang,Daya Mitra Telekomunikasi,Jl. Veteran ,-6.920138,107.617066,107.617066,-6.920138,6,Pole,IMB - 503.645/1389/BPPT
+917,Sumur Bandung,Braga,Daya Mitra Telekomunikasi,Jl. Asia Afrika Depan Kantor Pos,-6.920984,107.606197,107.606197,-6.920984,10,Pole,0
+918,Sumur Bandung,Kebon Pisang,Daya Mitra Telekomunikasi,Jl. Natuna No. ,-6.916808,107.616522,107.616522,-6.916808,15,Pole,IMB - 663.10/0001/IMBT/I/2016/BPPT
+919,Sumur Bandung,Merdeka,PT. Indosat, Tbk,Sumbawa No. 9Sumur Bandung,-6.914363,107.617644,107.617644,-6.914363,15,4 Kaki,503.645/SI-2924 Disbang/2001
+920,Sumur Bandung,Merdeka,PT. Indosat, Tbk,R.E. Martadinata No. 15Citarum,-6.906446,107.611905,107.611905,-6.906446,15,3 Kaki,503.645.3/81-1979 DISBANG/2000
+921,Sumur Bandung,Braga,PT. Indosat, Tbk,Braga No. 129 (Gedung Landmark)Braga,-6.915559,107.608779,107.608779,-6.915559,10,Pole,503.645/SI-1776 Disbang/2001
+922,Sumur Bandung,Merdeka,PT. Indosat, Tbk,Jl. A. Yani No.  221 -223 (Jl. Gandapura Dian Lucky Computer),-6.917456,107.625377,107.625377,-6.917456,20,4 Kaki,503.645/S1-1731 Disbang/2001
+923,Sumur Bandung,Merdeka,PT. Solusi Tunas Pratama,Deninteldam Jl. n Sumatera 37  Bandung,-6.91226,107.61266,107.61266,-6.91226,30,4 Kaki,503.645/3739/BPMPPT/2009
+924,Sumur Bandung,Merdeka,PT. Solusi Tunas Pratama,Jl. Gatot Subroto No. 83 Kotamadya Bandung - Jawa Barat,-6.923305556,107.62375,107.62375,-6.923305556,6,Pole,0148/IMB/KPTP/2016
+925,Sumur Bandung,Merdeka,PT. Telkomsel,Jl. Srigading No. 8,-6.915185,107.623614,107.623614,-6.915185,30,Monopole,-
+926,Sumur Bandung,Merdeka,PT. Telkomsel,Jl. Kalimantan No. 8,-6.912591,107.615165,107.615165,-6.912591,20,Microcell Pole,-
+927,Sumur Bandung,Merdeka,PT. Telkomsel,Jl. R.E. Martadinata No. 15,-6.906407,107.611997,107.611997,-6.906407,15,3 Kaki,-
+928,Sumur Bandung,Merdeka,PT. Telkomsel,Jl. R.E. Martadinata(Riau)No. 17 Bandung Utara,-6.9066,107.6122,107.6122,-6.9066,3,Pole,NO NEED
+929,Sumur Bandung,Babakan Ciamis,PT. Telkomsel,Jl. Purnawarman No. 36 A Kota Bandung,-6.907168,107.609357,107.609357,-6.907168,6,Pole,NO NEED
+930,Sumur Bandung,Braga,PT. Telkomsel,Jl. Braga No. 46 Bandung (D/H. Braga_1),-6.91587,107.609,107.609,-6.91587,3,Pole,NO NEED
+931,Sumur Bandung,Braga,PT. Telkomsel,Jl. Asia Afrika No. 15-17,-6.92,107.6047,107.6047,-6.92,6,Pole,NO NEED
+932,Sumur Bandung,Braga,PT. Telkomsel,Jl. Suniaraja No. 82 RT 05 RW 05,-6.91567,107.60494,107.60494,-6.91567,6,Pole,NO NEED
+933,Sumur Bandung,Braga,PT. Telkomsel,Jl. Abc No. 71 RT 03/02,-6.9188,107.6064,107.6064,-6.9188,6,Pole,NO NEED
+934,Sumur Bandung,Merdeka,PT. Telkomsel,Jl. Gandapura No. 39 RT 04 RW 04,-6.914524,107.626335,107.626335,-6.914524,4.2,Pole,NO NEED
+935,Sumur Bandung,Kebon Pisang,PT. Telkomsel,Gedung Citra Griya Jl. Naripan No. 42,-6.92061,107.61399,107.61399,-6.92061,6,Pole,NO NEED
+936,Sumur Bandung,Merdeka,PT. Telkomsel,Jl. Belitung No. 3 RT  03 RW  03,-6.91123,107.61718,107.61718,-6.91123,6,Pole,NO NEED
+937,Sumur Bandung,Braga,PT. Centratama Menara Indonesia,Jl. Braga Blk 98 RT 03 RW  05,-6.915861,107.609472,107.609472,-6.915861,20,3 Kaki,503.645/1492/BPPT 2015
+938,Sumur Bandung,Braga,PT. Centratama Menara Indonesia,Jl. Braga No. 21,-6.919919,107.609833,107.609833,-6.919919,25,4 Kaki,503.645/2395/BPPT 2011
+939,Sumur Bandung,Babakan Ciamis,PT. Xl Axiata, Tbk,Jl. Merdeka ,-6.914166667,107.6120556,-6.914166667,107.6120556,30,4 Kaki,503.644.2/SI/7860-DPB/1989
+940,Sumur Bandung,Merdeka,PT. Xl Axiata, Tbk,Jl. Menado No. 8,-6.913611111,107.6214722,-6.913611111,107.6214722,30,3 Kaki,503.645/SI-1737 DISBANG
+941,Sumur Bandung,Merdeka,PT. Xl Axiata, Tbk,Jl. Jend. Ahmad Yani No. 307,-6.912277778,107.6276667,-6.912277778,107.6276667,30,Pole,503.643.3/SI-0391-DB/2000
+942,Sumur Bandung,Braga,PT. Xl Axiata, Tbk,Jl. Oto Iskandardinata No. 43 RT 07/RW  02,-6.91615,107.6045,-6.91615,107.6045,25,3 Kaki,503.645/SI-0361 Disbang/07
+943,Sumur Bandung,Babakan Ciamis,Hutchinson,Jl. Purnawarman No. 13-15,-6.908396,107.609093,107.609093,-6.908396,10,Pole,-
+944,Sumur Bandung,Merdeka,Hutchinson,Hotel NewtonJl. Re.Martadinata,-6.91482,107.62996,107.62996,-6.91482,6,Pole,-
+945,Sumur Bandung,Babakan Ciamis,Naragita,Gedung Wisata Graha (Regent) Jl. Sumatera No. 2 Bandung,-6.91802,107.61336,107.61336,-6.91802,42,Kaki 4,-
+946,Sumur Bandung,Babakan Ciamis,Naragita,Balai Kota Jl. Wastukencana No. 2 ,-6.9101,107.6104,107.6104,-6.9101,6,Pole,-
+947,Sumur Bandung,Merdeka,Naragita,Komp. Segitiga Mas Kosambi Kav. B-7 Jl. A. Yani 221-223,-6.91741,107.6264,107.6264,-6.91741,31,Kaki 3,-
+948,Sumur Bandung ,Merdeka,PT. Centratama Menara Indonesia,Jl. Sumbawa No. 19 RT 01/RW  01,-6.91445,107.61754,107.61754,-6.91445,20,4 Kaki,IMB RELEASED
+949,Ujungberung,Pasir Wangi,PT. Protelindo,Jl. Kp. Sekeburuy,-6.89748,107.70932,107.70932,-6.89748,30,Sst,663.10/0006/IMBT/XI/2015/BPPT
+950,Ujungberung,Pasirjati,PT. Protelindo,Gg. Kp. Babakan Teureup RT 04 RW  10,-6.9042,107.71071,107.71071,-6.9042,25,Sst,503.645/3139/BPPT
+951,Ujungberung,Pasanggrahan,PT. Protelindo,Jl. Neglasari I No. 17 RT  04 RW  04,-6.91611,107.70779,107.70779,-6.91611,18,Monopole,503.645/4303/BPPT
+952,Ujungberung,Cisaranten Wetan,PT. Protelindo, Tbk,Jl. Rumah Sakit No. 163 RT 01 RW  07,-6.934,107.69311,107.69311,-6.934,45,3 Kaki,503.648/SI-3464/Disbang/06
+953,Ujungberung,Pasir Endah,PT. Protelindo, Tbk,Jl. A.H. Nasution No. 1 Km 9 RT 01 RW  01 Kod.Pos 40619,-6.90725,107.68728,-6.90725,107.68728,35,3 Kaki,503.645/SI-2269/Disbang/2006
+954,Ujungberung,Pasanggrahan,PT. Protelindo, Tbk,Jl. Neglasari No. 2 RT 02 RW  03,-6.91699,107.70612,107.70612,-6.91699,12,Pole,503.645/1392/BPPT
+955,Ujungberung,Pasir Wangi,PT. Protelindo, Tbk,Jl. Kp. Buka Tanah RT 01 RT 07,-6.89927,107.7056,107.7056,-6.89927,25,4 Kaki,503.645/1843/BPPT
+956,Ujungberung,Pasirjati,PT. Protelindo, Tbk,Kp. Sukagalih RT 01 RW  06,-6.91394,107.70621,107.70621,-6.91394,12,Pole,503.645/1930/BPPT
+957,Ujungberung,Cipadung,PT. Protelindo, Tbk,Jl. Soekarno  Hatta No. 752 RT  07 RW  01,-6.93647,107.70992,107.70992,-6.93647,6,Pole,-
+958,Ujungberung,Cigending,PT. Protelindo, Tbk,Jl. Teritorial RT  04 RW  09,-6.90854,107.70288,107.70288,-6.90854,18,Pole,503.645/3672/BPPT
+959,Ujungberung,Cigending,PT. Protelindo, Tbk,Jl. Ujung Berung Indah,-6.90855,107.69743,107.69743,-6.90855,18,Pole,503.645/3669/BPPT
+960,Ujungberung,Pasir Wangi,Daya Mitra Telekomunikasi,Gg. Melati Jl. Cinangra,-6.905579,107.705085,107.705085,-6.905579,52,4 Kaki,IMB - 503.645/0180/BPPT
+961,Ujungberung,Pasanggrahan,PT. Indosat, Tbk,Paledang Dusun Mandalawangi Blok Pasir Tanjung,-6.912382,107.711656,107.711656,-6.912382,62,4 Kaki,503.645/1282/BPPT
+962,Ujungberung,Pasir Endah,PT. Indosat, Tbk,Jl. Kosar No. 133 RT 08/07,-6.904063,107.69096,107.69096,-6.904063,42,4 Kaki,66/017.7.1/Kep/2004
+963,Ujungberung,Cisurupan,PT. Tower Bersama Group,Bdgn-174/Jl. Sekemala,-6.90654,107.718,107.718,-6.90654,42,4 Kaki,REKOM DISHUBKOMINFO DAN KRK DONE,  PENGESAHAN IMB
+964,Ujungberung,Pasir Jati,PT. Tower Bersama Group,Jl. Nagrog 1 RT 01/07,-6.91046,107.706,107.706,-6.91046,33,4 Kaki,503.645/0638/BPPT
+965,Ujungberung,Pasanggrahan,PT. Solusi Tunas Pratama,Paledang,-6.909305556,107.7110833,107.7110833,-6.909305556,30,4 Kaki,184.4/4721-95/436.7.5/2017
+966,Ujungberung,Cigending,PT. Solusi Tunas Pratama,Komplek Ujung Berung Indah Kota Bandung,-6.90963,107.69866,107.69866,-6.90963,32,Pole,Proses
+967,Ujungberung,Ciporeat,PT. Telkomsel,Kp. Ciwaru,-6.899573,107.71767,-6.899573,107.71767,42,3 Kaki,-
+968,Ujungberung,Pasirjati,PT. Centratama Menara Indonesia,Kampung Nagrok 3 RT 01 RW 09,-6.90761,107.71046,107.71046,-6.90761,35,3 Kaki,IMB NY RELEASED
+969,Arcamanik,Sukamiskin,PT. Xl Axiata, Tbk,Jl. Puri Ayu II Arcamanik,-6.923333333,107.6757222,-6.923333333,107.6757222,30,3 Kaki,503.645/1514/BPPT
+970,Cinambo,Sukamulya,PT. Xl Axiata, Tbk,Jl. Ujung Berung 128,-6.914833333,107.7005,-6.914833333,107.7005,50,3 Kaki,503.645/1064/BPPT
+971,Cinambo,Pakemitan,PT. Xl Axiata, Tbk,Jl. Rumah Sakit  Kamp Cinambo RT 05/08,-6.923,107.6965,-6.923,107.6965,30,3 Kaki,503.645/339/BPPT
+972,Ujungberung,Jati Endah,PT. Xl Axiata, Tbk,Jl. Cikoang Kidul RT 04 RW  04,-6.90543,107.70069,-6.90543,107.70069,42,4 Kaki,644/66/616/BPMP
+973,Ujungberung,Pasanggrahan,PT. Xl Axiata, Tbk,Jl. Paledang III RT 04 RW  06,-6.9118,107.7119,-6.9118,107.7119,42,3 Kaki,503.648.1/376/BPMPPT/2008
+974,Ujungberung,Pasir Endah ,PT. Permata Karya Perdana,Jl. Kosar RT 08/ RW 07,-6.90082,107.69139,107.69139,-6.90082,21,Pole,663.10/0003/IMBT/VII/2016/BPPT/26 AGT 2016
+975,Ujungberung,Cigending,Hutchinson,Jl. Sukup No. 3 RT 01/RW 01,-6.91172,107.69244,107.69244,-6.91172,12,Pole,-

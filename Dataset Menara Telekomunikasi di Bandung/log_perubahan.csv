@@ -1,0 +1,1836 @@
+﻿id,kolom,nilai_lama,nilai_baru,alasan
+1,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+2,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+2,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+3,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+4,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+5,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+5,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+6,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+6,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+6,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+7,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+7,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+8,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+8,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+9,data_imb,IMB -061/BPPT-Pzn/IMB/IX/2012/824,status=Ada nomor IMB; nomor=061/BPPT-Pzn/IMB/IX/2012/824,Status dan nomor IMB dipisahkan.
+10,data_imb,0,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+11,data_imb,IMB - 663.10/0002/IMBT/I/2016/BPPT,status=Ada nomor IMB; nomor=663.10/0002/IMBT/I/2016/BPPT,Status dan nomor IMB dipisahkan.
+12,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+12,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+13,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+13,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+14,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+15,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+16,data_imb,"REKOM DISHUBKOMINFO DAN KRK DONE, PENGESAHAN IMB",status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+16,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+17,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+17,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+18,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+18,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+19,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+19,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+20,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+21,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+21,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+22,data_imb,Proses,status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+22,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+23,data_imb,Proses,status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+23,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+24,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+24,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+24,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+25,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+25,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+25,struktur_tower,Pole Rooftop,Pole,Penulisan jenis struktur disamakan.
+26,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+26,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+26,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+27,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+27,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+28,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+28,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+29,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+29,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+30,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+30,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+31,data_imb,IMB NY RELEASED,status=Belum terbit; nomor=-,Status dan nomor IMB dipisahkan.
+31,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+31,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+32,data_imb,IMB NR,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+32,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+33,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+33,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+34,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+34,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+35,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+35,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+36,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+36,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+37,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+38,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+38,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+39,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+39,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+40,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+41,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+42,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+42,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+43,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+43,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+44,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+44,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+45,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+46,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+46,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+46,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+47,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+47,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+47,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+48,data_imb,IMB-Bdg 2015_52,status=Ada nomor IMB; nomor=Bdg 2015_52,Status dan nomor IMB dipisahkan.
+48,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+48,struktur_tower,Pole Rooftop,Pole,Penulisan jenis struktur disamakan.
+48,tinggi_m,RT 15m,15,Angka tinggi diambil; awalan RT dicatat sebagai penempatan rooftop.
+49,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+49,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+50,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+50,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+51,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+51,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+52,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+52,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+53,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+53,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+54,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+54,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+55,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+55,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+56,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+56,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+57,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+58,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+59,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+59,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+60,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+60,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+61,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+62,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+63,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+63,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+64,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+65,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+65,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+66,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+66,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+67,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+68,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+68,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+69,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+69,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+70,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+70,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+71,data_imb,IMB - 503/524/BPPTPM/2012,status=Ada nomor IMB; nomor=503/524/BPPTPM/2012,Status dan nomor IMB dipisahkan.
+72,data_imb,IMB - 503/1457/166/IMB/BPMPT/2013,status=Ada nomor IMB; nomor=503/1457/166/IMB/BPMPT/2013,Status dan nomor IMB dipisahkan.
+73,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+74,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+74,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+75,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+75,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+76,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+76,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+77,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+77,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+78,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+78,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+79,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+79,struktur_tower,Mcp,Microcell Pole,Penulisan jenis struktur disamakan.
+80,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+80,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+81,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+81,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+82,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+82,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+83,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+84,data_imb,Not Required,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+84,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+85,data_imb,Not Required,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+85,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+86,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+86,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+87,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+87,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+88,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+88,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+89,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+89,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+89,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+90,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+90,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+90,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+91,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+91,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+91,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+92,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+92,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+93,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+93,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+94,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+94,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+95,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+96,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+96,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+97,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+97,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+98,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+98,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+99,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+99,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+100,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+101,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+101,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+102,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+102,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+103,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+103,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+104,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+105,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+105,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+106,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+106,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+107,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+108,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+108,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+109,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+109,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+110,data_imb,IMB - 503.640/620/429.207/2013,status=Ada nomor IMB; nomor=503.640/620/429.207/2013,Status dan nomor IMB dipisahkan.
+111,data_imb,IMB-503.645/3437/BPPT,status=Ada nomor IMB; nomor=503.645/3437/BPPT,Status dan nomor IMB dipisahkan.
+112,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+112,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+113,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+113,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+114,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+115,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+116,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+116,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+117,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+117,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+117,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+118,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+118,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+119,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+119,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+120,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+120,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+121,data_imb,IMB NR,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+121,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+122,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+123,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+124,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+124,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+125,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+125,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+126,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+126,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+127,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+127,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+128,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+128,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+129,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+130,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+130,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+131,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+131,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+132,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+132,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+133,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+133,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+134,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+134,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+135,data_imb,IMB - 503.645/1589/BPPT,status=Ada nomor IMB; nomor=503.645/1589/BPPT,Status dan nomor IMB dipisahkan.
+136,data_imb,IMB - 663.10/0008/IMBT/XII/2016/BPPT,status=Ada nomor IMB; nomor=663.10/0008/IMBT/XII/2016/BPPT,Status dan nomor IMB dipisahkan.
+137,data_imb,0,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+138,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+138,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+139,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+139,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+140,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+140,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+141,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+142,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+142,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+143,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+143,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+144,data_imb,"REKOM DISHUBKOMINFO DAN KRK DONE, PENGESAHAN IMB",status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+144,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+144,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+145,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+146,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+146,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+147,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+147,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+147,tinggi_m,20 + 3 (stacking),23,Tinggi dasar dan tambahan stacking dijumlahkan.
+148,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+148,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+148,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+149,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+149,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+149,struktur_tower,Pole Rooftop,Pole,Penulisan jenis struktur disamakan.
+150,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+150,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+150,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+151,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+151,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+151,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+152,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+152,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+152,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+153,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+153,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+154,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+154,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+155,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+155,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+156,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+156,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+157,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+158,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+158,struktur_tower,4,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+159,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+160,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+160,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+161,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+161,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+162,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+162,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+163,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+163,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+164,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+164,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+165,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+166,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+166,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+167,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+167,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+168,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+169,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+169,struktur_tower,Kaki 3,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+170,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+171,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+172,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+173,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+173,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+174,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+174,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+175,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+176,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+176,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+177,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+177,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+178,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+178,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+179,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+180,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+180,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+181,data_imb,IMB - 800/064/IMB/PUCK/OKUT/XII/2012,status=Ada nomor IMB; nomor=800/064/IMB/PUCK/OKUT/XII/2012,Status dan nomor IMB dipisahkan.
+181,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+182,data_imb,IMB-503.645/1594/BPPT,status=Ada nomor IMB; nomor=503.645/1594/BPPT,Status dan nomor IMB dipisahkan.
+183,data_imb,IMB - 503.645/0211/BPPT,status=Ada nomor IMB; nomor=503.645/0211/BPPT,Status dan nomor IMB dipisahkan.
+184,data_imb,IMB - 663.10/0013/IMBT/XII/2016/BPPT,status=Ada nomor IMB; nomor=663.10/0013/IMBT/XII/2016/BPPT,Status dan nomor IMB dipisahkan.
+185,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+185,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+186,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+186,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+187,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+187,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+188,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+189,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+189,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+190,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+191,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+192,data_imb,IMB-Bdg 2011_9,status=Ada nomor IMB; nomor=Bdg 2011_9,Status dan nomor IMB dipisahkan.
+192,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+192,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+193,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+193,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+193,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+194,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+194,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+194,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+195,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+195,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+196,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+196,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+197,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+197,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+198,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+198,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+199,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+199,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+200,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+200,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+201,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+201,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+202,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+202,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+203,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+203,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+204,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+204,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+205,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+205,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+206,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+206,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+207,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+207,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+208,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+208,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+209,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+210,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+211,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+211,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+212,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+212,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+213,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+213,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+214,data_imb,IMB - 503.645/1591/BPPT,status=Ada nomor IMB; nomor=503.645/1591/BPPT,Status dan nomor IMB dipisahkan.
+215,data_imb,IMB - 503.645/1593/BPPT,status=Ada nomor IMB; nomor=503.645/1593/BPPT,Status dan nomor IMB dipisahkan.
+216,data_imb,IMB - 503.645/1931/BPPT,status=Ada nomor IMB; nomor=503.645/1931/BPPT,Status dan nomor IMB dipisahkan.
+217,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+217,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+218,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+218,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+219,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+219,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+220,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+220,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+221,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+221,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+222,data_imb,"REKOM DISHUBKOMINFO DAN KRK DONE, PENGESAHAN IMB",status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+222,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+222,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+223,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+223,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+224,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+224,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+225,data_imb,Proses,status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+225,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+225,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+226,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+227,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+227,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+227,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+228,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+228,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+229,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+229,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+230,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+230,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+231,data_imb,IMB-Bdg 2013_29,status=Ada nomor IMB; nomor=Bdg 2013_29,Status dan nomor IMB dipisahkan.
+231,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+231,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+232,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+232,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+233,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+233,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+234,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+234,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+235,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+235,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+236,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+236,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+237,data_imb,IMB NY RELEASED,status=Belum terbit; nomor=-,Status dan nomor IMB dipisahkan.
+237,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+237,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+238,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+238,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+239,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+239,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+240,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+240,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+241,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+241,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+242,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+242,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+243,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+243,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+244,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+245,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+245,struktur_tower,Rooftop Mt,Rooftop,Penulisan jenis struktur disamakan.
+246,data_imb,tidak diperlukan IMB,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+246,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+247,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+247,struktur_tower,Rooftop Mt,Rooftop,Penulisan jenis struktur disamakan.
+248,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+248,struktur_tower,Rooftop Mt,Rooftop,Penulisan jenis struktur disamakan.
+249,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+250,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+251,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+251,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+252,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+253,data_imb,IMB - 503/57/BPPT/IMB/V/2012,status=Ada nomor IMB; nomor=503/57/BPPT/IMB/V/2012,Status dan nomor IMB dipisahkan.
+254,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+255,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+255,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+256,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+256,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+256,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+257,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+257,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+257,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+258,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+258,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+259,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+259,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+260,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+260,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+261,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+261,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+262,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+262,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+263,data_imb,IMB NR,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+263,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+264,data_imb,IMB NY RELEASED,status=Belum terbit; nomor=-,Status dan nomor IMB dipisahkan.
+264,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+265,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+266,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+267,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+267,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+268,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+269,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+269,struktur_tower,Kaki 3,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+270,data_imb,IMB - 503.645.4/351/BPMPPT/2009,status=Ada nomor IMB; nomor=503.645.4/351/BPMPPT/2009,Status dan nomor IMB dipisahkan.
+270,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+271,data_imb,IMB-503.645/1491/BPPT,status=Ada nomor IMB; nomor=503.645/1491/BPPT,Status dan nomor IMB dipisahkan.
+272,data_imb,0,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+273,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+274,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+274,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+275,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+275,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+276,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+276,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+277,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+277,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+278,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+279,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+279,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+279,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+280,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+280,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+280,struktur_tower,Pole Rooftop,Pole,Penulisan jenis struktur disamakan.
+281,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+281,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+282,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+282,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+283,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+283,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+284,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+284,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+285,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+285,struktur_tower,Rooftop Mt,Rooftop,Penulisan jenis struktur disamakan.
+286,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+286,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+287,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+288,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+289,lokasi_menara,-,(kosong),Lokasi hanya berisi tanda minus.
+289,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+290,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+291,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+292,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+292,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+293,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+293,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+294,data_imb,Proses,status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+294,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+295,data_imb,IMB RELEASED,status=Sudah terbit; nomor=-,Status dan nomor IMB dipisahkan.
+295,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+295,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+296,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+296,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+297,data_imb,IMB RELEASED,status=Sudah terbit; nomor=-,Status dan nomor IMB dipisahkan.
+297,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+298,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+299,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+299,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+300,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+300,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+301,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+301,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+302,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+302,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+303,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+303,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+304,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+304,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+305,data_imb,IMB - 645/08/415.21/2012,status=Ada nomor IMB; nomor=645/08/415.21/2012,Status dan nomor IMB dipisahkan.
+306,data_imb,IMB - 503.645/4787/BPPT,status=Ada nomor IMB; nomor=503.645/4787/BPPT,Status dan nomor IMB dipisahkan.
+306,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+308,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+309,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+309,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+310,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+310,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+311,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+311,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+312,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+312,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+313,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+313,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+314,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+314,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+314,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+315,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+315,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+316,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+316,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+317,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+317,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+318,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+318,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+319,data_imb,IMB - 645/399/IV/2012,status=Ada nomor IMB; nomor=645/399/IV/2012,Status dan nomor IMB dipisahkan.
+320,data_imb,IMB - 503.645/1721/BPPT,status=Ada nomor IMB; nomor=503.645/1721/BPPT,Status dan nomor IMB dipisahkan.
+321,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+321,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+322,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+322,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+323,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+323,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+324,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+324,struktur_tower,Mcp,Microcell Pole,Penulisan jenis struktur disamakan.
+325,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+325,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+325,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+326,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+326,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+326,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+327,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+327,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+327,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+328,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+328,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+329,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+329,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+330,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+330,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+331,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+331,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+332,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+332,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+333,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+333,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+334,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+334,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+335,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+336,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+336,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+337,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+337,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+338,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+339,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+339,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+340,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+340,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+341,data_imb,tidak diperlukan IMB,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+341,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+342,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+343,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+343,struktur_tower,Sst,SST,Penulisan jenis struktur disamakan.
+344,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+344,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+345,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+345,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+346,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+346,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+347,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+347,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+348,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+349,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+350,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+351,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+352,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+353,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+353,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+354,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+354,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+355,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+355,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+356,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+356,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+357,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+357,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+358,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+359,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+359,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+360,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+361,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+361,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+362,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+362,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+363,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+363,struktur_tower,Sst,SST,Penulisan jenis struktur disamakan.
+364,data_imb,tidak diperlukan IMB,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+364,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+364,struktur_tower,Camouflage,Kamuflase,Penulisan jenis struktur disamakan.
+365,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+365,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+366,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+366,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+367,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+368,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+369,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+369,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+370,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+370,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+371,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+372,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+372,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+373,data_imb,IMB RELEASED,status=Sudah terbit; nomor=-,Status dan nomor IMB dipisahkan.
+373,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+373,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+374,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+374,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+375,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+376,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+377,data_imb,IMB - 503.645/2597/BPPT,status=Ada nomor IMB; nomor=503.645/2597/BPPT,Status dan nomor IMB dipisahkan.
+377,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+378,data_imb,IMB - 503.645/0212/BPPT,status=Ada nomor IMB; nomor=503.645/0212/BPPT,Status dan nomor IMB dipisahkan.
+379,data_imb,IMB - 663.10/0014/IMBT/XII/2016/BPPT,status=Ada nomor IMB; nomor=663.10/0014/IMBT/XII/2016/BPPT,Status dan nomor IMB dipisahkan.
+380,data_imb,IMB - 663.10/0008/IMBT/VI/2016/BPPT,status=Ada nomor IMB; nomor=663.10/0008/IMBT/VI/2016/BPPT,Status dan nomor IMB dipisahkan.
+380,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+381,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+381,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+382,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+382,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+383,data_imb,"REKOM DISHUBKOMINFO DAN KRK DONE, PENGESAHAN IMB",status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+383,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+384,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+384,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+385,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+385,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+386,data_imb,IMB-Bdg 2009_15,status=Ada nomor IMB; nomor=Bdg 2009_15,Status dan nomor IMB dipisahkan.
+386,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+386,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+386,tinggi_m,N,(kosong),Nilai tinggi tidak bisa dibaca sebagai angka.
+387,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+387,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+387,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+388,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+388,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+388,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+389,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+389,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+389,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+390,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+390,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+390,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+391,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+391,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+392,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+392,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+393,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+393,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+394,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+394,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+395,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+395,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+396,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+396,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+397,data_imb,IMB - 645/398/IV/2012,status=Ada nomor IMB; nomor=645/398/IV/2012,Status dan nomor IMB dipisahkan.
+398,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+399,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+399,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+400,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+401,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+402,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+402,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+403,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+404,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+404,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+405,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+405,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+406,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+406,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+406,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+407,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+407,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+407,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+408,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+408,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+408,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+409,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+409,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+409,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+410,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+410,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+411,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+411,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+412,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+412,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+413,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+413,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+414,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+414,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+415,kecamatan,Cibeunying,Cibeunying Kaler,"Kecamatan awal tidak valid. Dari 14 baris di Cigadung, 13 berada di Cibeunying Kaler."
+415,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+415,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+416,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+416,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+417,kecamatan,Cibeunying,Cibeunying Kaler,"Kecamatan awal tidak valid. Dari 14 baris di Cigadung, 13 berada di Cibeunying Kaler."
+417,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+418,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+419,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+419,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+420,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+420,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+421,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+422,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+423,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+423,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+424,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+425,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+426,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+426,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+427,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+427,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+428,data_imb,IMB - 503.645/1754/BPPT,status=Ada nomor IMB; nomor=503.645/1754/BPPT,Status dan nomor IMB dipisahkan.
+428,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+429,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+429,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+430,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+430,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+431,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+431,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+432,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+432,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+433,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+433,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+434,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+435,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+435,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+436,data_imb,IMB-Bdg 2009_14,status=Ada nomor IMB; nomor=Bdg 2009_14,Status dan nomor IMB dipisahkan.
+436,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+436,struktur_tower,Kamuflase Pohon,Kamuflase,Penulisan jenis struktur disamakan.
+437,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+437,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+437,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+438,data_imb,IMB - 503.645/1351/BPPT,status=Ada nomor IMB; nomor=503.645/1351/BPPT,Status dan nomor IMB dipisahkan.
+438,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+438,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+439,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+439,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+440,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+440,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+441,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+441,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+442,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+442,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+443,data_imb,IMB NR,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+443,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+443,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+444,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+444,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+445,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+445,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+446,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+446,struktur_tower,Rooftop Mt,Rooftop,Penulisan jenis struktur disamakan.
+447,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+447,struktur_tower,Rooftop Mt,Rooftop,Penulisan jenis struktur disamakan.
+448,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+449,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+449,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+450,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+450,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+451,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+452,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+453,data_imb,Not Required,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+453,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+454,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+454,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+455,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+455,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+456,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+456,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+457,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+458,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+458,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+459,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+459,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+460,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+460,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+461,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+461,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+462,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+462,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+463,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+463,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+464,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+464,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+465,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+465,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+466,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+466,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+467,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+467,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+467,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+468,data_imb,IMB - 663.10/0012/IMBT/XII/2016/BPPT,status=Ada nomor IMB; nomor=663.10/0012/IMBT/XII/2016/BPPT,Status dan nomor IMB dipisahkan.
+469,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+469,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+470,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+470,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+471,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+471,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+472,kelurahan,Pasir Biru,Pasirbiru,Ejaan kelurahan disamakan tanpa spasi.
+472,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+472,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+473,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+473,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+474,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+474,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+475,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+475,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+476,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+476,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+477,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+478,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+478,kelurahan,Pasir Biru,Pasirbiru,Ejaan kelurahan disamakan tanpa spasi.
+478,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+478,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+479,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+479,kelurahan,Pasir Biru,Pasirbiru,Ejaan kelurahan disamakan tanpa spasi.
+479,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+479,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+480,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+480,kelurahan,Pasir Biru,Pasirbiru,Ejaan kelurahan disamakan tanpa spasi.
+480,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+481,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+481,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+482,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+482,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+483,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+483,kelurahan,Pasir Biru,Pasirbiru,Ejaan kelurahan disamakan tanpa spasi.
+484,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+484,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+485,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+485,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+486,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+486,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+487,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+487,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+488,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+488,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+489,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+489,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+490,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+491,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+491,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+492,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+492,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+493,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+494,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+495,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+495,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+496,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+496,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+497,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+497,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+498,data_imb,IMB - 503/bpmppt-immtt/xii/2012/07,status=Ada nomor IMB; nomor=503/bpmppt-immtt/xii/2012/07,Status dan nomor IMB dipisahkan.
+498,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+499,data_imb,IMB - 503/143/IMB/BPMT2T/2012,status=Ada nomor IMB; nomor=503/143/IMB/BPMT2T/2012,Status dan nomor IMB dipisahkan.
+500,data_imb,IMB - 663.10/0002/IMBT/VIII/2016/BPPT,status=Ada nomor IMB; nomor=663.10/0002/IMBT/VIII/2016/BPPT,Status dan nomor IMB dipisahkan.
+500,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+501,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+501,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+502,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+502,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+503,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+503,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+504,data_imb,ROOFTOP 6 m,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+504,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+505,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+505,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+506,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+506,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+507,data_imb,Not Required,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+507,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+508,data_imb,Not Required,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+508,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+509,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+509,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+510,data_imb,IMB-Bdg 2009_13,status=Ada nomor IMB; nomor=Bdg 2009_13,Status dan nomor IMB dipisahkan.
+510,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+510,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+511,data_imb,IMB-Bdg 2015_17,status=Ada nomor IMB; nomor=Bdg 2015_17,Status dan nomor IMB dipisahkan.
+511,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+511,struktur_tower,Pole Rooftop,Pole,Penulisan jenis struktur disamakan.
+512,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+512,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+512,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+513,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+513,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+513,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+514,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+514,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+514,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+515,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+515,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+515,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+515,tinggi_m,RT 9m,9,Angka tinggi diambil; awalan RT dicatat sebagai penempatan rooftop.
+516,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+516,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+517,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+517,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+518,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+518,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+519,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+519,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+520,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+520,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+521,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+521,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+522,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+522,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+523,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+523,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+524,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+524,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+525,data_imb,IMB RELEASED,status=Sudah terbit; nomor=-,Status dan nomor IMB dipisahkan.
+525,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+526,data_imb,IMB NR,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+526,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+527,data_imb,IMB NR,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+527,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+528,data_imb,IMB RELEASED,status=Sudah terbit; nomor=-,Status dan nomor IMB dipisahkan.
+528,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+529,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+529,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+530,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+530,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+531,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+532,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+533,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+533,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+533,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+534,data_imb,tidak diperlukan IMB,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+534,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+535,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+535,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+536,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+537,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+538,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+539,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+540,data_imb,IMB - 1551/UPTP/IX/2012,status=Ada nomor IMB; nomor=1551/UPTP/IX/2012,Status dan nomor IMB dipisahkan.
+540,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+541,data_imb,IMB - 503.645/1619/BPPT,status=Ada nomor IMB; nomor=503.645/1619/BPPT,Status dan nomor IMB dipisahkan.
+542,data_imb,IMB - 503.648.1/3079/BPPT,status=Ada nomor IMB; nomor=503.648.1/3079/BPPT,Status dan nomor IMB dipisahkan.
+543,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+543,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+544,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+544,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+545,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+545,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+546,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+546,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+547,data_imb,"REKOM DISHUBKOMINFO DAN KRK DONE, PENGESAHAN IMB",status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+547,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+548,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+548,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+549,data_imb,Not Required,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+549,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+550,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+550,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+551,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+552,data_imb,Proses,status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+552,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+552,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+553,data_imb,Not Required,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+553,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+554,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+554,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+555,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+555,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+556,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+556,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+556,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+557,data_imb,IMB-Bdg 2009_9,status=Ada nomor IMB; nomor=Bdg 2009_9,Status dan nomor IMB dipisahkan.
+557,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+557,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+558,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+558,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+559,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+559,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+560,data_imb,IMB NR,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+560,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+561,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+562,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+562,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+563,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+563,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+564,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+564,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+565,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+565,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+566,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+566,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+567,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+568,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+568,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+568,struktur_tower,Kaki 4,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+569,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+569,struktur_tower,Kaki 3,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+570,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+570,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+571,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+571,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+572,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+572,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+573,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+573,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+574,data_imb,Proses,status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+574,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+574,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+575,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+575,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+575,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+576,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+576,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+577,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+577,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+578,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+579,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+579,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+580,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+581,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+582,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+583,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+584,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+585,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+586,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+586,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+587,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+588,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+588,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+589,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+589,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+590,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+590,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+591,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+591,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+592,data_imb,IMB - 503.645/1815/BPPT,status=Ada nomor IMB; nomor=503.645/1815/BPPT,Status dan nomor IMB dipisahkan.
+593,data_imb,IMB - 503/124/IMB/XLIV/2012,status=Ada nomor IMB; nomor=503/124/IMB/XLIV/2012,Status dan nomor IMB dipisahkan.
+594,data_imb,IMB - 503.645/3837/BPPT,status=Ada nomor IMB; nomor=503.645/3837/BPPT,Status dan nomor IMB dipisahkan.
+595,data_imb,IMB - 640/046.024/IMB/KP2TSP/2012,status=Ada nomor IMB; nomor=640/046.024/IMB/KP2TSP/2012,Status dan nomor IMB dipisahkan.
+596,data_imb,0,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+597,data_imb,0,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+598,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+599,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+599,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+600,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+600,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+601,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+601,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+602,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+602,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+603,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+603,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+604,data_imb,"REKOM DISHUBKOMINFO DAN KRK DONE, PENGESAHAN IMB",status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+604,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+604,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+605,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+605,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+606,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+606,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+607,data_imb,Rooftop 6 m,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+607,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+608,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+609,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+610,data_imb,Not Required,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+610,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+611,data_imb,IMB-Bdg 2009_8,status=Ada nomor IMB; nomor=Bdg 2009_8,Status dan nomor IMB dipisahkan.
+611,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+611,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+612,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+612,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+612,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+613,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+613,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+613,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+614,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+614,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+614,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+615,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+615,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+615,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+616,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+616,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+616,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+617,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+617,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+617,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+618,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+618,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+619,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+619,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+620,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+620,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+621,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+621,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+622,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+622,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+623,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+623,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+624,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+624,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+625,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+625,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+626,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+626,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+627,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+628,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+629,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+629,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+630,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+630,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+631,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+631,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+632,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+633,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+633,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+634,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+634,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+635,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+636,data_imb,IMB - 648.1/0001/IMBT/IX/2016/BPPT,status=Ada nomor IMB; nomor=648.1/0001/IMBT/IX/2016/BPPT,Status dan nomor IMB dipisahkan.
+637,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+637,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+638,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+638,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+639,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+639,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+640,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+640,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+641,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+641,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+642,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+642,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+642,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+643,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+643,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+644,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+645,data_imb,0,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+646,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+646,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+647,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+647,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+648,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+649,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+649,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+649,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+650,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+650,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+650,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+651,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+651,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+651,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+652,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+652,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+653,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+653,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+654,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+654,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+655,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+655,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+656,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+656,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+657,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+657,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+658,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+658,struktur_tower,Kaki 4,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+659,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+659,struktur_tower,Kaki 4,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+660,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+660,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+661,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+661,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+661,struktur_tower,Kaki 3,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+662,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+663,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+663,struktur_tower,Rooftop Mt,Rooftop,Penulisan jenis struktur disamakan.
+664,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+664,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+665,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+665,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+666,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+666,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+667,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+668,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+668,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+669,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+669,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+670,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+670,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+671,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+671,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+672,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+672,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+673,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+673,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+674,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+674,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+675,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+675,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+676,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+676,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+677,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+677,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+678,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+678,struktur_tower,Sst,SST,Penulisan jenis struktur disamakan.
+679,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+680,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+680,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+681,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+681,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+682,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+683,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+684,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+685,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+685,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+686,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+686,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+687,data_imb,IMB - 643.3/0996,status=Ada nomor IMB; nomor=643.3/0996,Status dan nomor IMB dipisahkan.
+688,data_imb,IMB - 503/145/IMB/BPMT2T/2012,status=Ada nomor IMB; nomor=503/145/IMB/BPMT2T/2012,Status dan nomor IMB dipisahkan.
+689,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+689,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+690,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+690,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+691,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+691,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+692,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+692,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+693,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+694,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+694,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+695,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+696,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+696,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+697,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+697,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+698,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+699,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+699,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+699,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+700,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+700,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+700,struktur_tower,Pole Rooftop,Pole,Penulisan jenis struktur disamakan.
+701,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+701,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+701,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+702,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+702,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+702,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+703,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+703,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+703,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+704,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+704,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+705,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+705,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+706,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+706,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+707,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+707,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+708,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+708,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+709,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+709,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+710,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+710,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+711,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+711,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+712,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+712,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+713,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+713,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+714,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+714,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+715,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+715,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+716,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+716,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+717,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+718,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+718,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+719,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+719,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+720,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+721,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+721,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+722,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+722,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+723,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+723,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+724,longitude,10761688,107.61688,Titik desimal longitude ditambahkan setelah tiga angka pertama.
+724,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+725,latitude,"-693,844",-6.93844,Pemisah desimal latitude keliru; titik dipindah setelah angka pertama.
+725,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+726,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+726,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+726,struktur_tower,Kaki 4,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+727,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+727,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+727,struktur_tower,Kaki 4,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+728,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+728,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+729,data_imb,IMB - 503.645/3836/BPPT,status=Ada nomor IMB; nomor=503.645/3836/BPPT,Status dan nomor IMB dipisahkan.
+729,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+730,data_imb,IMB - 503/126/IMB/XLIV/2012,status=Ada nomor IMB; nomor=503/126/IMB/XLIV/2012,Status dan nomor IMB dipisahkan.
+731,data_imb,IMB - 503.645/2142/BPPT,status=Ada nomor IMB; nomor=503.645/2142/BPPT,Status dan nomor IMB dipisahkan.
+732,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+732,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+733,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+733,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+734,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+734,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+735,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+735,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+735,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+736,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+736,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+737,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+737,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+738,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+738,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+739,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+739,struktur_tower,Sst,SST,Penulisan jenis struktur disamakan.
+740,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+741,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+741,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+742,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+742,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+743,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+744,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+744,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+745,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+745,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+746,data_imb,IMB RELEASED,status=Sudah terbit; nomor=-,Status dan nomor IMB dipisahkan.
+746,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+746,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+747,data_imb,IMB RELEASED,status=Sudah terbit; nomor=-,Status dan nomor IMB dipisahkan.
+747,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+748,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+748,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+748,struktur_tower,Kaki 4,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+749,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+749,struktur_tower,Kaki 4,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+750,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+750,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+751,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+751,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+752,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+752,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+753,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+753,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+754,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+754,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+755,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+755,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+756,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+756,struktur_tower,Sst,SST,Penulisan jenis struktur disamakan.
+757,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+757,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+758,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+758,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+759,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+760,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+760,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+761,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+761,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+762,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+762,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+763,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+763,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+764,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+764,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+765,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+765,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+765,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+766,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+766,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+767,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+767,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+768,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+769,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+769,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+770,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+770,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+771,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+772,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+773,data_imb,tidak diperlukan IMB,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+773,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+773,struktur_tower,Camouflage,Kamuflase,Penulisan jenis struktur disamakan.
+774,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+774,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+775,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+775,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+776,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+776,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+777,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+777,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+777,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+778,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+778,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+779,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+779,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+780,data_imb,IMB - 503.645/0028/BPPT,status=Ada nomor IMB; nomor=503.645/0028/BPPT,Status dan nomor IMB dipisahkan.
+780,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+781,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+781,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+782,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+782,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+783,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+784,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+784,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+785,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+786,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+786,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+787,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+787,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+788,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+788,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+789,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+790,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+791,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+791,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+792,data_imb,Proses,status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+792,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+792,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+793,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+793,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+794,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+794,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+795,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+795,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+796,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+796,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+797,data_imb,IMB RELEASED,status=Sudah terbit; nomor=-,Status dan nomor IMB dipisahkan.
+797,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+797,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+798,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+798,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+799,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+799,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+800,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+800,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+801,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+801,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+802,latitude,"-694,265",-6.94265,Pemisah desimal latitude keliru; titik dipindah setelah angka pertama.
+802,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+803,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+803,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+804,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+804,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+805,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+805,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+806,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+807,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+807,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+808,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+809,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+810,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+811,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+812,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+812,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+813,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+813,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+814,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+814,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+815,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+815,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+816,data_imb,IMB - 503.645/1138/BPPT,status=Ada nomor IMB; nomor=503.645/1138/BPPT,Status dan nomor IMB dipisahkan.
+817,data_imb,IMB-503.645/1590/BPPT,status=Ada nomor IMB; nomor=503.645/1590/BPPT,Status dan nomor IMB dipisahkan.
+818,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+818,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+819,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+819,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+820,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+821,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+821,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+822,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+823,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+823,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+824,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+825,data_imb,Proses,status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+825,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+826,data_imb,IMB-Bdg 2009_12,status=Ada nomor IMB; nomor=Bdg 2009_12,Status dan nomor IMB dipisahkan.
+826,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+826,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+827,data_imb,IMB-Bdg 2013_24,status=Ada nomor IMB; nomor=Bdg 2013_24,Status dan nomor IMB dipisahkan.
+827,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+828,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+828,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+828,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+829,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+829,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+829,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+830,data_imb,IMB-Bdg 2015_18,status=Ada nomor IMB; nomor=Bdg 2015_18,Status dan nomor IMB dipisahkan.
+830,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+830,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+830,tinggi_m,RT 20m,20,Angka tinggi diambil; awalan RT dicatat sebagai penempatan rooftop.
+831,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+831,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+832,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+832,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+833,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+833,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+834,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+834,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+835,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+835,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+836,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+837,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+837,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+838,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+838,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+839,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+840,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+841,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+842,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+843,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+843,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+844,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+844,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+845,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+845,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+846,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+846,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+847,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+847,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+848,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+849,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+849,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+850,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+851,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+851,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+852,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+852,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+853,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+853,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+854,data_imb,IMB - 503/11/IMB/KPPTPM/2012,status=Ada nomor IMB; nomor=503/11/IMB/KPPTPM/2012,Status dan nomor IMB dipisahkan.
+855,data_imb,IMB - 01.07/82/BPM-PTP/VIII/2012,status=Ada nomor IMB; nomor=01.07/82/BPM-PTP/VIII/2012,Status dan nomor IMB dipisahkan.
+856,data_imb,IMB - 503.645/2415/BPPT,status=Ada nomor IMB; nomor=503.645/2415/BPPT,Status dan nomor IMB dipisahkan.
+857,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+857,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+858,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+858,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+859,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+859,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+860,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+861,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+862,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+862,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+863,data_imb,"Tower Menara Masjid, TBG sewa space ke pihak DKM",status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+863,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+864,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+865,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+865,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+866,data_imb,Not Required,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+866,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+867,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+867,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+868,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+869,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+870,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+870,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+870,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+871,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+871,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+871,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+872,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+872,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+872,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+873,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+873,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+874,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+874,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+875,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+875,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+876,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+876,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+877,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+878,data_imb,IMB NR,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+878,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+879,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+879,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+880,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+881,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+882,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+882,struktur_tower,Sst,SST,Penulisan jenis struktur disamakan.
+883,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+883,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+884,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+884,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+884,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+885,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+885,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+886,data_imb,IMB - 503.645/2854/BPPT,status=Ada nomor IMB; nomor=503.645/2854/BPPT,Status dan nomor IMB dipisahkan.
+886,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+887,data_imb,IMB - 663.10/0002/IMBT/XI/2016/BPPT,status=Ada nomor IMB; nomor=663.10/0002/IMBT/XI/2016/BPPT,Status dan nomor IMB dipisahkan.
+888,data_imb,0,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+889,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+889,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+890,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+890,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+891,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+891,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+892,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+892,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+893,data_imb,"Menara Masjid, Tidak ada tenant. Plan dismantle/hibah ke pihak sekolah",status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+893,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+894,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+895,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+896,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+897,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+898,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+898,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+899,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+899,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+899,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+900,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+900,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+900,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+901,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+901,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+902,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+902,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+903,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+903,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+904,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+904,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+905,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+905,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+906,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+907,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+908,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+908,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+909,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+909,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+910,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+910,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+911,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+912,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+912,struktur_tower,Kaki 3,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+913,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+914,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+915,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+915,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+916,data_imb,IMB - 503.645/1389/BPPT,status=Ada nomor IMB; nomor=503.645/1389/BPPT,Status dan nomor IMB dipisahkan.
+917,data_imb,0,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+918,data_imb,IMB - 663.10/0001/IMBT/I/2016/BPPT,status=Ada nomor IMB; nomor=663.10/0001/IMBT/I/2016/BPPT,Status dan nomor IMB dipisahkan.
+919,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+919,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+920,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+920,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+921,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+922,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+922,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+923,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+923,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+924,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+925,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+925,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+926,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+926,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+927,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+927,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+927,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+928,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+928,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+929,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+929,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+930,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+930,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+931,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+931,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+932,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+932,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+933,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+933,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+934,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+934,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+935,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+935,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+936,data_imb,NO NEED,status=Tidak diperlukan; nomor=-,Status dan nomor IMB dipisahkan.
+936,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+937,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+937,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+938,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+938,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+939,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+939,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+940,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+940,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+941,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+942,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+942,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+943,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+943,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+944,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+944,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+945,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+945,struktur_tower,Kaki 4,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+946,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+947,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+947,struktur_tower,Kaki 3,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+948,data_imb,IMB RELEASED,status=Sudah terbit; nomor=-,Status dan nomor IMB dipisahkan.
+948,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+948,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+949,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+949,struktur_tower,Sst,SST,Penulisan jenis struktur disamakan.
+950,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+950,struktur_tower,Sst,SST,Penulisan jenis struktur disamakan.
+951,nama_perusahaan,PT. Protelindo,Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+952,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+952,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+953,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+953,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+954,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+955,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+955,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+956,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+957,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+957,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+958,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+959,nama_perusahaan,"PT. Protelindo, Tbk",Protelindo,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+960,data_imb,IMB - 503.645/0180/BPPT,status=Ada nomor IMB; nomor=503.645/0180/BPPT,Status dan nomor IMB dipisahkan.
+960,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+961,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+961,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+962,nama_perusahaan,"PT. Indosat, Tbk",Indosat,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+962,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+963,data_imb,"REKOM DISHUBKOMINFO DAN KRK DONE, PENGESAHAN IMB",status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+963,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+963,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+964,kelurahan,Pasir Jati,Pasirjati,Ejaan kelurahan disamakan tanpa spasi.
+964,nama_perusahaan,PT. Tower Bersama Group,Tower Bersama Group,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+964,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+965,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+965,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+966,data_imb,Proses,status=Dalam proses; nomor=-,Status dan nomor IMB dipisahkan.
+966,nama_perusahaan,PT. Solusi Tunas Pratama,Solusi Tunas Pratama,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+967,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+967,nama_perusahaan,PT. Telkomsel,Telkomsel,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+967,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+968,data_imb,IMB NY RELEASED,status=Belum terbit; nomor=-,Status dan nomor IMB dipisahkan.
+968,nama_perusahaan,PT. Centratama Menara Indonesia,Centratama Menara Indonesia,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+968,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+969,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+969,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+970,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+970,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+971,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+971,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+972,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+972,struktur_tower,4 Kaki,Tower 4 Kaki,Penulisan jenis struktur disamakan.
+973,nama_perusahaan,"PT. Xl Axiata, Tbk",XL Axiata,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+973,struktur_tower,3 Kaki,Tower 3 Kaki,Penulisan jenis struktur disamakan.
+974,nama_perusahaan,PT. Permata Karya Perdana,Permata Karya Perdana,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
+975,data_imb,-,status=Tidak ada data; nomor=-,Status dan nomor IMB dipisahkan.
+975,nama_perusahaan,Hutchinson,Hutchison,"Awalan PT., akhiran Tbk, atau ejaan nama perusahaan dirapikan."
